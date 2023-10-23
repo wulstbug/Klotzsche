@@ -53,6 +53,6 @@ Gib folgende Winkel im Bogenmaß an
 
 Gib folgende Winkel im Bogenmaß an
 
-   a)    $23,5° = \dfrac{23,5}{360}\cdot 2\pi = $
+a.    $23,5° = \dfrac{23,5}{360}\cdot 2\pi =  $
    
-   b)    258,2°
+b.    $258,2° = \dfrac{258,2}{360}\cdot 2\pi = $
