@@ -57,7 +57,7 @@ a.    $23,5° = \dfrac{23,5}{360}\cdot 2\pi \approx 0,41 $ <br>
 <br>
 b.    $258,2° = \dfrac{258,2}{360}\cdot 2\pi \approx 4,51 $
 
-## Gleichungen mit sin(x)
+## 3. Gleichungen mit sin(x)
 
 Gib für folgende Gleichungen je eine Lösung an
 
@@ -79,4 +79,6 @@ b.
 
 $ sin(x)+2,5=4 \hspace{0.5cm}\Big\vert -2.5 $
 
-$ sin(x)+2,5=4
+$ sin(x)+2,5=1.5$
+
+=> keine Lösung möglich, da 1,5 nicht innerhalb des Wertebereiches der Sinus-Funktion liegt.
