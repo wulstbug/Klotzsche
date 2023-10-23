@@ -8,11 +8,11 @@ Cäsium 137 hat eine Halbwertszeit von 33 Jahren, das heißt die Hälfte der Ato
 
     b. Berechne nach wie viel Jahren noch 70% der Cäsium-Kerne vorhanden sind
 
-## Hinweis: Zerfall von Caesium
+### Hinweis: Zerfall von Caesium
 
 Die Anzahl der Caesium-Atome kann durch folgende Gleichung beschrieben werden: 
 
-$ N(t) = N_0 \cdot (\dfrac{1}{2})^{(\frac{t}{T})} $
+$ N(t) = N_0 \cdot 0,5^{(\frac{t}{T})} $
 
 wobei 
 
@@ -20,6 +20,6 @@ wobei
 
     $T$...Halbwertszeit (hier 33 a)
 
-## Lsg: 1.a
+### Lsg: 1.a
 
-$ N(t) = N_0 \cdot \dfrac{1}{2}^{(\frac{t}{T})} \Big\vert : N_0 $
+$ N(t) = N_0 \cdot 0,5^{(\frac{t}{T})} \Big\vert : N_0 $
