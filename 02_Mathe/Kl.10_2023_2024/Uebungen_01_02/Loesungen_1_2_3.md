@@ -161,4 +161,8 @@ $$ x_{min} = \frac{3\pi}{4} $$
 
 </span>
 
-<H4> ==> Lösung 2 </H4>
+<H4> ==> Lösung 2 g(x) </H4>
+
+# Lösung Aufgabe 2: g(x)
+
+![Loesung2_g.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/cKDoRzBMAgj35rz/download)
