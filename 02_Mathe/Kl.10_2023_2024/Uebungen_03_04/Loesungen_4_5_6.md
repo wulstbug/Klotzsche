@@ -44,3 +44,8 @@ b.  Gesucht ist t, sodass $ \dfrac{N(t)}{N_0} = 0,7 $
 
     Nach etwa 17 Jahren sind noch 70% vorhanden.
 
+# 2. Bogenmaß
+
+Gib folgende Winkel im Bogenmaß an
+   a)    23,5°			b)    258,2°
+
