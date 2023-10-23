@@ -98,3 +98,7 @@ a.
 $ a=2cm$, $b=\frac{2\pi }{0,6\,s}$
 
 $s(t)=2\cdot sin(10,47\cdot t) $
+
+b.
+
+$s(1,1)=2\cdot sin(10,47\cdot 1,1) \approx 0,4 $
