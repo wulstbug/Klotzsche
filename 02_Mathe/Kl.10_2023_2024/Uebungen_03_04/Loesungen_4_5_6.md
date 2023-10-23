@@ -20,12 +20,15 @@ wobei
 
     $T$...Halbwertszeit (hier 33 a)
 
-### Lsg: 1.a
+### Lösung: Zerfall von Caesium
 
-$ N(t) = N_0 \cdot 0,5^{(\frac{t}{T})} \Big\vert : N_0 $
 
-$ \frac{N(t)}{N_0} = 0,5^{(\frac{t}{T})}
+a)  $ N(t) = N_0 \cdot 0,5^{(\frac{t}{T})} \Big\vert : N_0 $
 
-für t = 100 gilt:
+    $ \frac{N(t)}{N_0} = 0,5^{(\frac{t}{T})}
 
-0,5^{(\frac{100}{33})} = 0,122 ->
+    für t = 100 gilt:
+
+    $0,5^{(\frac{100}{33})} = 0,1224$ => etwa 12,24%
+
+b)
