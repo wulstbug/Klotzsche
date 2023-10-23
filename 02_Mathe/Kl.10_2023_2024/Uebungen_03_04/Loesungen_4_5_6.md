@@ -51,4 +51,8 @@ Gib folgende Winkel im Bogenmaß an
 
 ### Lösung
 
+Gib folgende Winkel im Bogenmaß an
 
+   a)    $23,5° = \dfrac{23,5}{360}\cdot 2\pi = $
+   
+   b)    258,2°
