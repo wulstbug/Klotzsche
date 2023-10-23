@@ -82,3 +82,7 @@ $ sin(x)+2,5=4 \hspace{0.5cm}\Big\vert -2.5 $
 $ sin(x)+2,5=1.5$
 
 => keine Lösung möglich, da 1,5 nicht innerhalb des Wertebereiches der Sinus-Funktion liegt.
+
+## Schwingung einer Kugel an einer Feder
+
+Eine Kugel hängt an einer Feder (Ruheposition). Wird die Kugel um 2 cm nach unten gezogen ($s_{max}$) und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach 300 ms. Nach weiteren 300 ms erreicht die Kugel wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Kugel durch die Ruheposition auf dem Weg nach oben). Dieser Prozess soll ohne Reibung betrachtet werden.
