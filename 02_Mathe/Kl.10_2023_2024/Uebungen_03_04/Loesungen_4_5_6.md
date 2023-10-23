@@ -33,4 +33,7 @@ a.
 
     $0,5^{(\frac{100}{33})} = 0,1224$ => etwa 12,24%
 
-b.  
+
+b.  Gesucht ist t, sodass $ \dfrac{N(t)}{N_0} = 0,7 $ 
+
+    
