@@ -10,7 +10,9 @@ Cäsium 137 hat eine Halbwertszeit von 33 Jahren, das heißt die Hälfte der Ato
 
 ## Lsg: Zerfall von Caesium
 
-Die Anzahl der Caesium-Atome kann durch folgende Gleichung beschrieben werden: $ N(t) = N_0 \cdot \dfrac{1}{2}^(t/T_{\{1}{2}}) $
+Die Anzahl der Caesium-Atome kann durch folgende Gleichung beschrieben werden: 
+
+$ N(t) = N_0 \cdot \dfrac{1}{2}^{(\frac{t}{T})} $
 
 wobei 
 
