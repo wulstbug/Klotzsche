@@ -83,11 +83,11 @@ $ sin(x)+2,5=1.5$
 
 => keine Lösung möglich, da 1,5 nicht innerhalb des Wertebereiches der Sinus-Funktion liegt.
 
-## 4. Schwingung einer Kugel an einer Feder
+## 4. Schwingung einer Masse an einer Feder
 
-![Federschwinger](https://www.biancahoegel.de/mechanik/bilder/Simple_harmonic_oscillator.gif)Ein Massestück hängt an einer Feder (Ruheposition). Wird die Masse um 2 cm nach unten gezogen $(s_{max})$ und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach $0,3s$. Nach weiteren $0,3 s$ erreicht die Kugel wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Kugel durch die Ruheposition auf dem Weg nach oben). _Hinweis: Dieser Prozess soll ohne Reibung betrachtet werden._ <br> <br>
+![Federschwinger](https://www.biancahoegel.de/mechanik/bilder/Simple_harmonic_oscillator.gif)Ein Massestück hängt an einer Feder (Ruheposition). Wird die Masse um 2 cm nach unten gezogen $(s_{max})$ und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach $0,3s$. Nach weiteren $0,3 s$ erreicht die Masse wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Masse durch die Ruheposition auf dem Weg nach oben). <br> _Hinweis: Dieser Prozess soll ohne Reibung betrachtet werden._ <br> <br>
 a. Bestimme eine Funktion der Form $s(t)=a·sin(b·t)$ für diese Schwingung. <br> <br>
-b. Errechne an welcher Position s(t) sich die Kugel nach $t=1,1 s$ befindet.
+b. Errechne an welcher Position s(t) sich die Masse nach $t=1,1 s$ befindet.
 
 ### Lösung
 
