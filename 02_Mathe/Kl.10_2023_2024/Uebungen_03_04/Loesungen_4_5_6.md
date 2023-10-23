@@ -61,10 +61,10 @@ b.    $258,2° = \dfrac{258,2}{360}\cdot 2\pi \approx 4,51 $
 
 Gib für folgende Gleichungen je eine Lösung an
 
-$$ a. sin(x)+2=1		$$
+a.  $ sin(x)+2 = 1		$
 
-$$ b. sin(x)+2,5=4      $$
+b.  $ sin(x)+2,5=4      $
 
 ### Lösung
 
-$$ a. sin(x) +          $$
+a.  $ sin(x)+2 = 1	 	$
