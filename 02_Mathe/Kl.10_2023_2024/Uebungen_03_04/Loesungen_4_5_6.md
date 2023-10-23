@@ -47,7 +47,7 @@ b.  Gesucht ist t, sodass $ \dfrac{N(t)}{N_0} = 0,7 $
 ## 2. Bogenmaß
 
 Gib folgende Winkel im Bogenmaß an
-   a)    23,5°			b)    258,2°
+   a.    23,5°			b.    258,2°
 
 ### Lösung
 
@@ -57,3 +57,12 @@ a.    $23,5° = \dfrac{23,5}{360}\cdot 2\pi \approx 0,41 $ <br>
 <br>
 b.    $258,2° = \dfrac{258,2}{360}\cdot 2\pi \approx 4,51 $
 
+## Gleichungen mit sin(x)
+
+Gib für folgende Gleichungen je eine Lösung an
+
+a. sin(x)+2=1		b. cos(x) -2=-1,5		c. sin(x)+2,5=4
+
+### Lösung
+
+a. 
