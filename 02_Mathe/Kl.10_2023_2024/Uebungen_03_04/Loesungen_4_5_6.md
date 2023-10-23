@@ -95,4 +95,4 @@ b. Errechne an welcher Position s(t) sich die Kugel nach $t=1,1 s$ befindet.
 
 a.
 
-$ a=2cm, b=\frac{2\pi }{$
+$ a=2cm$, $b=\frac{2\pi }{600\,ms}$, s(t)=2\cdot sin()
