@@ -165,7 +165,7 @@ $$ x_{min} = \frac{3\pi}{4} $$
 
 # Lösung Aufgabe 2: g(x)
 
-Vergleiche deine Skizze!
+Vergleiche deine Skizze mit dieser Lösung:
 
 ![Loesung2_g.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/cKDoRzBMAgj35rz/download)
 
