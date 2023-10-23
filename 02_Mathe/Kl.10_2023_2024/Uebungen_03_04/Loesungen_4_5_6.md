@@ -36,4 +36,4 @@ a.
 
 b.  Gesucht ist t, sodass $ \dfrac{N(t)}{N_0} = 0,7 $ 
 
-    $
+    $$ 0,7 = 0,5^{\frac{t}{33}} $$ 
