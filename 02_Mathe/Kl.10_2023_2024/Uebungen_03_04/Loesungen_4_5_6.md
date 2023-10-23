@@ -104,3 +104,4 @@ b.
 $s(1,1)=2\,cm \cdot sin(10,47 \cdot 1,1) \approx -1,73 cm$
 
 Die Kugel befindet sich bei etwa -1,73 cm
+
