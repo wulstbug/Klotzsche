@@ -8,9 +8,7 @@ link: https://gist.githubusercontent.com/andre-dietrich/3c69f68b2c4d80c8c6eb1772
 narrator: Ukrainian Female
 -->
 
-# Übungen zur LK
-
-# 1. Wachstumsvorgänge und Zerfallsprozesse
+# Übungen zur LK Wachstumsvorgänge und Zerfallsprozesse
 
 ## Lösungen zu LB S.52
 
