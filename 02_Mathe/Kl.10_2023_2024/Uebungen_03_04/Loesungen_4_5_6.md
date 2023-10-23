@@ -67,4 +67,11 @@ b.  $ sin(x)+2,5=4      $
 
 ### Lösung
 
-a.  $ sin(x)+2 = 1	 	$
+a.  
+
+$ sin(x)+2 = 1	\hspace{0.5cm}\Big\vert-1 	$
+
+$ sin(x) = -1	$
+
+$ x = \dfrac{3\pi}{2} $
+
