@@ -40,5 +40,7 @@ b.  Gesucht ist t, sodass $ \dfrac{N(t)}{N_0} = 0,7 $
 
     $$ log_{0,5}(0,7) = \frac{t}{33} \hspace{0.5cm}\Big\vert \cdot 33 $$
 
-    $$ 33 \cdot log_{0,5}(0,7) = $$
+    $$ 33 \cdot log_{0,5}(0,7) = \underline{16,98} $$
+
+    Nach etwa 17 Jahren sind noch 70% vorhanden.
 
