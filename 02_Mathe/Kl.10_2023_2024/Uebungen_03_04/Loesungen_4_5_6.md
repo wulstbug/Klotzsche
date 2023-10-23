@@ -85,7 +85,7 @@ $ sin(x)+2,5=1.5$
 
 ## 4. Schwingung einer Kugel an einer Feder
 
-Eine Kugel hängt an einer Feder (Ruheposition). Wird die Kugel um 2 cm nach unten gezogen $(s_{max})$ und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach 300 ms. Nach weiteren 300 ms erreicht die Kugel wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Kugel durch die Ruheposition auf dem Weg nach oben). _Hinweis: Dieser Prozess soll ohne Reibung betrachtet werden._
+Eine Kugel hängt an einer Feder (Ruheposition). Wird die Kugel um 2 cm nach unten gezogen $(s_{max})$ und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach $0,3s$. Nach weiteren $0,3 s$ erreicht die Kugel wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Kugel durch die Ruheposition auf dem Weg nach oben). _Hinweis: Dieser Prozess soll ohne Reibung betrachtet werden._
 
 a. Bestimme eine Funktion der Form $s(t)=a·sin(b·t)$ für diese Schwingung.
 
@@ -95,4 +95,4 @@ b. Errechne an welcher Position s(t) sich die Kugel nach $t=1,1 s$ befindet.
 
 a.
 
-$ a=2cm$, $b=\frac{2\pi }{600\,ms}$, s(t)=2\cdot sin()
+$ a=2cm$, $b=\frac{2\pi }{600\,ms}=\frac{2\pi }{0,6\,s}$, s(t)=2\cdot sin()
