@@ -23,3 +23,9 @@ wobei
 ### Lsg: 1.a
 
 $ N(t) = N_0 \cdot 0,5^{(\frac{t}{T})} \Big\vert : N_0 $
+
+$ \frac{N(t)}{N_0} = 0,5^{(\frac{t}{T})}
+
+für t = 100 gilt:
+
+0,5^{(\frac{100}{33})} = 0,122 ->
