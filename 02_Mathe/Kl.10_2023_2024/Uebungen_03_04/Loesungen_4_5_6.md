@@ -125,9 +125,13 @@ mit <br>
 
 __oder__
 
-$ f(h) = p_0 \cdot 0,83^{h)}$ .. mit h in km
+$$ f(h) = p_0 \cdot 0,83^{h)}$$ 
+
+mit 
+
+    $h$ Höhe in km
 
 __Mount Everest:__
 
-$ f(h) = 10
+$ f(h) = 101,3 kPa \cdot 0,83^{8,8} = 
 
