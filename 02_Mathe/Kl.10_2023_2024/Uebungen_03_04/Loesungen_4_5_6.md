@@ -105,9 +105,9 @@ Die Ausdehnung der Feder gibt einen Hinweis auf den Parameter a der Sinusfunktio
 
 Die Zeit, bis der Federschwinger in seine ursprüngliche Position zurückgekehrt ist, gibt einen Hinweis auf den Parameter b.
 
-  - Für b ist zu beachten, dass wenn b der Periodendauer entspricht, der Wert innerhalb der Sinusklammer genau $2\pi$ ergeben muss.
+ - Für b ist zu beachten, dass wenn x der Periodendauer entspricht, muss der Wert innerhalb der Sinusklammer genau $2\pi$ ergeben.
 
-  - D.h. für $sin(b\cdot x)$ muss gelten: Wenn x=T (mit T..Periodendauer), dann ist $b\cdot T = 2\pi$.
+ - D.h. für $sin(b\cdot x)$ muss gelten: Wenn x=T (mit T..Periodendauer), dann ist $b\cdot T = 2\pi$.
 
 ### Lösung
 
