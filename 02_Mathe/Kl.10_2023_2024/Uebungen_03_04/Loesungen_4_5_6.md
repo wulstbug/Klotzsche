@@ -73,7 +73,7 @@ b.  $ sin(x)+2,5=4      $
 
 ### Lösungshinweis
 
-
+Gleichung zunächt so umstellen, das sin(x) allein auf einer Seite steht. Dann entweder im GTR arcsin verwenden, oder überlegen, für welchen Wert x der Sinus die Gleichung erfüllt.
 
 ### Lösung
 
@@ -98,6 +98,10 @@ $ sin(x)+2,5=1.5$
 ![Federschwinger](https://www.biancahoegel.de/mechanik/bilder/Simple_harmonic_oscillator.gif)Ein Massestück hängt an einer Feder (Ruheposition). Wird die Masse um 2 cm nach unten gezogen $(s_{max})$ und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach $0,3s$. Nach weiteren $0,3 s$ erreicht die Masse wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Masse durch die Ruheposition auf dem Weg nach oben). <br> _Hinweis: Dieser Prozess soll ohne Reibung betrachtet werden._ <br> <br>
 a. Bestimme eine Funktion der Form $s(t)=a·sin(b·t)$ für diese Schwingung. <br> <br>
 b. Errechne an welcher Position s(t) sich die Masse nach $t=1,1 s$ befindet.
+
+###
+
+
 
 ### Lösung
 
