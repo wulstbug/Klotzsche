@@ -131,11 +131,15 @@ a) Gib die zugehörige Funktionsgleichung an und bestimme den Luftdruck auf dem 
 
 b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
 
+c) Bestimme die Höhe, in welcher sich der Luftdruck halbiert hat.
+
 ### Lösungshinweis
 
 Hier empfiehlt es sich, die Höhe in der Einheit km zu nutzen.
 
+Der Exponentialfunktion hat als Wachstumsfaktor q, die Luftdruckabnahme je km.
 
+Die Höhe in km ist dann der Exponent.
 
 ### Lösung a)
 
