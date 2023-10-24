@@ -115,7 +115,13 @@ b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
 
 a) 
 
-$ f(h) = p_0 \cdot 0,83^{(\frac{h}{1000})}$ mit h ... Höhe in Meter
+$ f(h) = p_0 \cdot 0,83^{(\frac{h}{1000})}$ 
+
+mit <br>
+
+    $h$ .. Höhe in Meter
+
+    $p_0$ .. Luftdruck auf Meeresspiegel (101,3 kPa)
 
 oder 
 
@@ -123,5 +129,5 @@ $ f(h) = p_0 \cdot 0,83^{h)}$ .. mit h in km
 
 Mount Everest:
 
-$ f(h) = 
+$ f(h) = 10
 
