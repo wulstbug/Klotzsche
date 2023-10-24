@@ -53,7 +53,7 @@ Gib folgende Winkel im Bogenmaß an
 
 Dreisatz nutzen.
 
-$$ \frac{Gradmaß}{360^circ}
+$$ \frac{Gradmaß}{360^\circ} = \frac{Bogenmaß}{2\pi} $$
 
 ### Lösung
 
@@ -70,6 +70,10 @@ Gib für folgende Gleichungen je eine Lösung an
 a.  $ sin(x)+2 = 1		$
 
 b.  $ sin(x)+2,5=4      $
+
+### Lösungshinweis
+
+
 
 ### Lösung
 
