@@ -103,11 +103,11 @@ b. Errechne an welcher Position s(t) sich die Masse nach $t=1,1 s$ befindet.
 
 Die Ausdehnung der Feder gibt einen Hinweis auf den Parameter a der Sinusfunktionen.
 
-Die Zeit, bis der Federschwinger in seine ursprüngliche Position zurückgekehrt ist, gibt einen Hinweis auf den Parameter b.
+Die Zeit, bis der Federschwinger in seine ursprüngliche Position zurückgekehrt ist (Periodendauer T), gibt einen Hinweis auf den Parameter b.
 
- - Für b ist zu beachten, dass wenn x der Periodendauer entspricht, muss der Wert innerhalb der Sinusklammer genau $2\pi$ ergeben.
+ - Für b ist zu beachten, dass wenn t gleich der Periodendauer T ist, muss der Wert innerhalb der Sinusklammer genau $2\pi$ ergeben.
 
- - D.h. für $sin(b\cdot x)$ muss gelten: Wenn x=T (mit T..Periodendauer), dann ist $b\cdot T = 2\pi$.
+ - D.h. für $sin(b\cdot t)$ muss gelten: Wenn t=T, dann ist $b\cdot T = 2\pi$.
 
 ### Lösung
 
