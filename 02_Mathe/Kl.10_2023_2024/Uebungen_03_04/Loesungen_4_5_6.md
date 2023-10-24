@@ -103,3 +103,10 @@ $s(1,1)=2\,cm \cdot sin(10,47 \cdot 1,1) \approx -1,73 cm$
 
 Die Kugel befindet sich bei etwa -1,73 cm
 
+## Luftdruck der Erdatmosphäre
+
+Der Luftdruck der Erdatmosphäre nimmt mit zunehmender Höhe um ca. 13% je 1000 m Höhenunterschied ab. Der Luftdruck in Meereshöhe beträgt durchschnittlich 101,3 kPa (Kilopascal).
+
+a) Gib die zugehörige Funktionsgleichung an und bestimme den Luftdruck auf dem Mount Everest (ca. 8800m).
+
+b) Bestimme den Abnahmefaktor für den Höhenunterschied 1m. 
