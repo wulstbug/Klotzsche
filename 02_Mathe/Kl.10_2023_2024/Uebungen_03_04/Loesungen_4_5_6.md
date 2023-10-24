@@ -131,6 +131,8 @@ __Mount Everest:__
 
 $$ f(h) = 101,3 kPa \cdot 0,83^{8,8} = 19,66 kPa $$
 
-b) Wachstumsfaktor für 1m
+b) Wachstumsfaktor $q_{1m}$ für $\Delta h = 1m$
 
-$$ q = \frac{f(h)}{f(h+1m)} $$
+$$ q_{1m} = \frac{f(h+1)}{f(h)} $$
+
+$$ q_{1m} = \frac{0,83^{(h+1m)}}
