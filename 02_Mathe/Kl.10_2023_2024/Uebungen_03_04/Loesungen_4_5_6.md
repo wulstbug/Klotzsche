@@ -8,7 +8,7 @@ Cäsium 137 hat eine Halbwertszeit von 33 Jahren, das heißt die Hälfte der Ato
 
     b. Berechne nach wie viel Jahren noch 70% der Cäsium-Kerne vorhanden sind
 
-### Hinweis: Zerfall von Caesium
+### Lösungshinweis: Zerfall von Caesium
 
 Die Anzahl der Caesium-Atome kann durch folgende Gleichung beschrieben werden: 
 
@@ -48,6 +48,12 @@ b.  Gesucht ist t, sodass $ \dfrac{N(t)}{N_0} = 0,7 $
 
 Gib folgende Winkel im Bogenmaß an
    a.    23,5°			b.    258,2°
+
+### Lösungshinweis
+
+Dreisatz nutzen.
+
+$$ \frac{Gradmaß}{360^circ}
 
 ### Lösung
 
@@ -103,7 +109,7 @@ $s(1,1)=2\,cm \cdot sin(10,47 \cdot 1,1) \approx -1,73 cm$
 
 Die Kugel befindet sich bei etwa -1,73 cm
 
-## Luftdruck der Erdatmosphäre
+## 5. Luftdruck der Erdatmosphäre
 
 Der Luftdruck der Erdatmosphäre nimmt mit zunehmender Höhe um ca. 13% je 1000 m Höhenunterschied ab. Der Luftdruck in Meereshöhe beträgt durchschnittlich 101,3 kPa (Kilopascal).
 
