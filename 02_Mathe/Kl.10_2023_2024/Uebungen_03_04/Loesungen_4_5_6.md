@@ -117,19 +117,15 @@ a)
 
 $$ f(h) = p_0 \cdot 0,83^{(\frac{h}{1000})}$$
 
-mit 
+ - $h$ .. Höhe in Meter
 
-    - $h$ .. Höhe in Meter
-
-    - $p_0$ .. Luftdruck auf Meeresspiegel (101,3 kPa)
+ - $p_0$ .. Luftdruck auf Meeresspiegel (101,3 kPa)
 
 __oder__
 
 $$ f(h) = p_0 \cdot 0,83^{h}$$ 
 
-mit 
-
-    $h$ .. Höhe in km
+ - $h$ .. Höhe in km
 
 __Mount Everest:__
 
