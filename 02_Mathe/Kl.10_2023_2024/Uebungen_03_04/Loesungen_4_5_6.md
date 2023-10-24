@@ -115,5 +115,13 @@ b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
 
 a) 
 
-$ f(x) = p_0 \cdot 0,83^{(\frac{h}{1000})}$ mit h ... Höhe in Meter
+$ f(h) = p_0 \cdot 0,83^{(\frac{h}{1000})}$ mit h ... Höhe in Meter
+
+oder 
+
+$ f(h) = p_0 \cdot 0,83^{h)}$ .. mit h in km
+
+Mount Everest:
+
+$ f(h) = 
 
