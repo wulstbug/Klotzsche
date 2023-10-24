@@ -139,6 +139,6 @@ b) Wachstumsfaktor $q_{1m}$ für $\Delta h = 0,001 km$
 
 $$ q_{1m} = \frac{f(h+\Delta h)}{f(h)} $$
 
-  
+$$ q_{1m} = \frac{0,83^{(h+0,001)}}{0,83^{h}} $$
 
-$$ q_{1m} = \frac{0,83^{(h+0,001)}} $$
+$$ q_{1m} = \frac{0,83^h\cdot 0,83^{0,001}}{0,83^{h}} $$
