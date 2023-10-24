@@ -107,7 +107,7 @@ Die Zeit, bis der Federschwinger in seine ursprüngliche Position zurückgekehrt
 
  - Für b ist zu beachten, dass wenn t gleich der Periodendauer T ist, muss der Wert innerhalb der Sinusklammer genau $2\pi$ ergeben.
 
- - D.h. für $sin(b\cdot t)$ muss gelten: Wenn t=T, dann ist $b\cdot T = 2\pi$.
+ - D.h. für $sin(b\cdot t)$ muss gelten: wenn t=T, dann ist $b\cdot T = 2\pi$.
 
 ### Lösung
 
@@ -130,6 +130,12 @@ Der Luftdruck der Erdatmosphäre nimmt mit zunehmender Höhe um ca. 13% je 1000 
 a) Gib die zugehörige Funktionsgleichung an und bestimme den Luftdruck auf dem Mount Everest (ca. 8800m).
 
 b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
+
+### Lösungshinweis
+
+Hier empfiehlt es sich, die Höhe in der Einheit km zu nutzen.
+
+
 
 ### Lösung a)
 
