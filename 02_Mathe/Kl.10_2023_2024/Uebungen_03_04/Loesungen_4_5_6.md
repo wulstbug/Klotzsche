@@ -99,9 +99,11 @@ $ sin(x)+2,5=1.5$
 a. Bestimme eine Funktion der Form $s(t)=a·sin(b·t)$ für diese Schwingung. <br> <br>
 b. Errechne an welcher Position s(t) sich die Masse nach $t=1,1 s$ befindet.
 
-###
+### Lösungshinweis
 
+Die Ausdehnung der Feder gibt einen Hinweis auf den Parameter a der Sinusfunktionen.
 
+Die Zeit, bis der 
 
 ### Lösung
 
