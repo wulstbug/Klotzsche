@@ -183,8 +183,12 @@ c)
 
 Es muss gelten: 
 
-$$ 0,5 = 0,83^h $$
+$$ 0,5 = 0,83^h_{1/2} $$
 
 Demzufolge ist
 
-$$ log_{0,5}()
+$$ log_{0,83}(0,5) = h_{1/2} $$
+
+und
+
+$$ h_{1/2} \approx  $$ 
