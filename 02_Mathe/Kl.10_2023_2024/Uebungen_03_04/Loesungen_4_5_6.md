@@ -176,3 +176,15 @@ $$ q_{1m} = \frac{0,83^h\cdot 0,83^{0,001}}{0,83^{h}} $$
 $$ q_{1m} = 0,83^{0,001} $$ 
 
 $$ q_{1m} = \underline{0,9998} $$
+
+### Lösung c
+
+c)
+
+Es muss gelten: 
+
+$$ 0,5 = 0,83^h $$
+
+Demzufolge ist
+
+$$ log_{0,5}()
