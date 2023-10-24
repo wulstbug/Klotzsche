@@ -111,8 +111,9 @@ a) Gib die zugehörige Funktionsgleichung an und bestimme den Luftdruck auf dem 
 
 b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
 
-## Lösung
+### Lösung
 
 a) 
 
-$ f(x) = p_0 \cdot 
+$ f(x) = p_0 \cdot 0,83^{(\frac{h}{1000})}$ mit h ... Höhe in Meter
+
