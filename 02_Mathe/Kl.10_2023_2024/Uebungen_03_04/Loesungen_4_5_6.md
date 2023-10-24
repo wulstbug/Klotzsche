@@ -111,7 +111,7 @@ a) Gib die zugehörige Funktionsgleichung an und bestimme den Luftdruck auf dem 
 
 b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
 
-### Lösung
+### Lösung a)
 
 a) 
 
@@ -135,5 +135,4 @@ __Mount Everest:__
 
 $$ f(h) = 101,3 kPa \cdot 0,83^{8,8} = 19,66 kPa $$
 
-
-
+b) Wachstumsfaktor für 
