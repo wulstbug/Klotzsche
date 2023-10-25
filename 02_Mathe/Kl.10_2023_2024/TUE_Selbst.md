@@ -253,7 +253,7 @@ narrator: Ukrainian Female
     ![7_2_Sin.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/sXYaToKX79j9dDK/download)
 ***************
 
-2. ![7_ExpSin.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/96mdTALEJyB5WdX/download) Im folgenden Diagramm ist eine zusammengesetzte Funktion f dargestellt (farblich getrennt). Sie ist in zwei Intervalle geteilt: <br>
+2. ![7_ExpSin.png](https://diversewolken.ddns.net/nextcloud/index.php/s/96mdTALEJyB5WdX/download) Im folgenden Diagramm ist eine zusammengesetzte Funktion f dargestellt (farblich getrennt). Sie ist in zwei Intervalle geteilt: <br>
     1: <span style="color:orange">für x≤0: $\hspace{0.5cm}\rightarrow f(x) = e^x+1$ <br>(wobei $e\approx2,72$ (Euler'sche Zahl) beträgt )</span> <br>
     2: <span style="color:purple">für x≥0: $\hspace{0.5cm}\rightarrow f(x) = a \cdot sin(b \cdot x)+ d$</span><br>
         a. Gib den Wachstumsfaktor für den Abschnitt 1 an. {3}{<span style="color:red"> -> e oder 2,72</span>}<br>
