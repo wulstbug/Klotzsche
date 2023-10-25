@@ -212,5 +212,5 @@ $\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{(v_0)^2}{a} \Big( \dfrac{1}{
 
 und 
 
-$\hspace{1cm} 
+$\hspace{1cm} v_0 = \sqrt{-2\cdot a \cdot s_{\textcircled{\textbf{B}}}} $
 
