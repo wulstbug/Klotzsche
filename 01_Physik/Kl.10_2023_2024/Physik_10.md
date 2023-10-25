@@ -242,7 +242,9 @@ $\hspace{0.5cm}$ Beschleunigende Kraft {9}{$F_R \rightarrow F_R = m \cdot a $} {
 
 {{11}}
 *************************
-$\hspace{0.5cm}$ a = 
+$\hspace{0.5cm}$ $a = \dfrac{F_R}{m}$
+
+$\hspace{0.5cm}$ $a = \dfrac{2000 N}{1000 kg} = 2 \dfrac{N}{kg} = 2 \dfrac{m}{s^2}$
 *************************
 
 
