@@ -244,8 +244,14 @@ $\hspace{0.5cm}$ Beschleunigende Kraft {9}{$F_R \rightarrow F_R = m \cdot a $} {
 *************************
 $\hspace{0.5cm}$ $a = \dfrac{F_R}{m}$
 
-$\hspace{0.5cm}$ $a = \dfrac{2000 N}{1000 kg} = 2 \dfrac{N}{kg} = 2 \dfrac{m}{s^2}$
+$\hspace{0.5cm}$ $a = \dfrac{2000 N}{1000 kg} = 2 \dfrac{N}{kg}$
 *************************
+
+{{12}}
+*************************
+$\hspace{0.5cm}$ $a = 2 \dfrac{m}{s^2}$
+*************************
+
 
 
 ## Simulation Schiefe Ebene
