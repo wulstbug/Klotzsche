@@ -218,3 +218,9 @@ Nun ist $s_{\textcircled{\textbf{B}}}$ nicht bekannt, kann aber aus den gegebene
 
 $\hspace{1cm} s = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}} = 600m$
 
+Somit ist 
+
+$\hspace{1cm} s_{\textcircled{\textbf{B}}} = 600m - s_{\textcircled{\textbf{A}}}$
+
+
+
