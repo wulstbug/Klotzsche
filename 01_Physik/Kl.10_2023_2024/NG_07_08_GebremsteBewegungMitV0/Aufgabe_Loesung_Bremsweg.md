@@ -214,3 +214,7 @@ und
 
 $\hspace{1cm} v_0 = \sqrt{-2\cdot a \cdot s_{\textcircled{\textbf{B}}}} $
 
+Nun ist $s_{\textcircled{\textbf{B}}}$ nicht bekannt, kann aber aus den gegebenen Dinge ermittelt werden. Es galt für den Gesamtweg
+
+$\hspace{1cm} s = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}} = 600m$
+
