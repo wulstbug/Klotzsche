@@ -233,7 +233,9 @@ $\hspace{0.5cm}$ Zunächst berechnen wir die Beschleunigung, die durch den Brems
 
 {{7}}
 *************************
-$\hspace{0.5cm}$ 
+$\hspace{0.5cm}$ 2. Newton'sches Gesetz
+
+$\hspace{0.5cm} F = m \cdot a $
 *************************
 
 
