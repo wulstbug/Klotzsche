@@ -99,7 +99,7 @@ b.
 
 $ sin(x)+2,5=4 \hspace{0.5cm}\Big\vert -2.5 $
 
-$ sin(x)+2,5=1.5$
+$ sin(x)=1.5$
 
 => keine Lösung möglich, da 1,5 nicht innerhalb des Wertebereiches der Sinus-Funktion liegt.
 
