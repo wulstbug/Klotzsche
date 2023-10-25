@@ -164,7 +164,13 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 
 ## Beschleunigte Bewegung mit Anfangsgeschwindigkeit $v_0$
 
+Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
 
+$s = \dfrac{1}{2} \cdot a \cdot t^2 <span style="color:red"></span> \hspace{1cm} v=a \cdot t$
+
+s..zurückgelegte Strecke<br>
+a..Beschleunigung<br>
+v..Geschwindigkeit<br> <br> <br>
 
 ## Simulation Schiefe Ebene
 
