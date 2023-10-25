@@ -188,7 +188,7 @@ $v$..Geschwindigkeit<br>
 
 {{2}}
 *************************
-__Bei einer gleichmäßig gebremste Bewegung gilt für die Beschleunigung a:__
+__Bei einer gleichmäßig gebremsten Bewegung gilt für die Beschleunigung a:__
 
 {{2-3}}
 *************************
