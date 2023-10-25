@@ -198,4 +198,4 @@ $\hspace{1cm} t_{Brems}=-\dfrac{v_0}{a}$
 
 nutzen und in $s_{\textcircled{\textbf{B}}}$ einsetzen.
 
-$\hspace{1cm} $s_{\textcircled{\textbf{B}}} = $\dfrac{1}{2} \cdot a \cdot \Big( \Big) $
+$\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot \Big( -\dfrac{v_0}{a} \Big) ^2 + v_0 $
