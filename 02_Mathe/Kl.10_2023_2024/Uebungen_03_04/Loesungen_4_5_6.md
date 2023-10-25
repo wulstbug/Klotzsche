@@ -10,7 +10,7 @@ narrator: Ukrainian Female
 
 # Vermischte Aufgaben
 
-## 1. Zerfall von Caesium
+## 1. Zerfall von Caesium (\*)
 
 Cäsium 137 hat eine Halbwertszeit von 33 Jahren, das heißt die Hälfte der Atomkerne wird nach 33 Jahren zerfallen sein.
 
