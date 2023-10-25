@@ -139,3 +139,5 @@ Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, 
 
 Der Bremsweg für 200km/h ist also ca. 800m.
 
+<span style="color:red">Ergebnis: Der Zusammenhang von Anfangsgeschwindigkeit und Bremsweg ist eine quadratische Funktion.</span>
+
