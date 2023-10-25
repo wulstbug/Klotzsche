@@ -83,7 +83,7 @@ b.  $ sin(x)+2,5=4      $
 
 ### Lösungshinweis
 
-Gleichung zunächt so umstellen, das sin(x) allein auf einer Seite steht. Dann entweder im GTR arcsin verwenden, oder überlegen, für welchen Wert x der Sinus die Gleichung erfüllt.
+Gleichung zunächt so umstellen, das sin(x) allein auf einer Seite steht. Dann entweder im GTR $sin^{-1}$ verwenden, oder überlegen, für welchen Wert x der Sinus die Gleichung erfüllt.
 
 ### Lösung
 
