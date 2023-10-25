@@ -213,6 +213,10 @@ Zeit: 6:17 min
 *************************
 __Beispielrechung: Bremsweg eines Fahrzeugs::__
 
+geg.:
+
+    - $v_0 = 
+
 *************************
 
 
