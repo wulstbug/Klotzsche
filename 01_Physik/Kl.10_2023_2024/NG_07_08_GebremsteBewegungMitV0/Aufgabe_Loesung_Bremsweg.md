@@ -190,4 +190,8 @@ Lsg.:
 
 $\hspace{1cm} $ Für $\textcircled{\textbf{A}}$ gilt: $s_{\textcircled{\textbf{A}}} = v_0 \cdot t_{Reak} $
 
-$\hspace{1cm} $ Für $\textcircled{\textbf{B}}$ gilt: $s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot t_{Brems}^2$ $ + v_0 \cdot t_{Brems}$
+$\hspace{1cm} $ Für $\textcircled{\textbf{B}}$ gilt: $s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot t_{Brems}^2$ $ + v_0 \cdot t_{Brems}$ 
+
+und 
+
+$t_{Brems}=-\dfrac{v_0}{a} = t_{Brems}$
