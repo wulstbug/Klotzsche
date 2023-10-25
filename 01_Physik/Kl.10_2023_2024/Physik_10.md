@@ -222,7 +222,7 @@ $\hspace{0.5cm} F_R = 2000 N$ .. Reibungskraft beim Bremsen
 $\hspace{0.5cm} m = 1 t$ {6}{<span style="color:red">$=1000kg$</span>}
 
 ges.:
-
+    $\hspace{0.5cm} a$ .. Beschleunigung
     $\hspace{0.5cm} s$ .. Bremsweg
 *************************
 
