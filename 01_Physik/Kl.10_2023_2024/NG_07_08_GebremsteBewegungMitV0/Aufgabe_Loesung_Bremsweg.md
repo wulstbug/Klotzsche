@@ -87,7 +87,7 @@ $$-\dfrac{v_0}{a} = t_{Brems} $$
 
 $$ t_{Brems} = -\dfrac{27,78\frac{m}{s}}{-2\frac{m}{s^2}} = 13,89 s \hspace{0.5cm}\Big[ \dfrac{\frac{m}{s}}{\frac{m}{s^2}}= \frac{m}{s} \cdot \frac{s^2}{m} =s \Big]$$
 
-Die Bremszeit beträgt demnach 13,89s. Nutze nun Gleichung $\textcircled{\textbf{1}}$ und berechne den Bremsweg s.
+Die Bremszeit beträgt demnach 13,89s. Nutze nun Gleichung $\textcircled{\textbf{1}}$ und berechne den Bremsweg s. Achte auf das Vorzeichen von a.
 
 ## Lösungshinweis (5)
 
@@ -95,3 +95,4 @@ $\hspace{1cm} \textcircled{\textbf{1}}\, s = \dfrac{1}{2} \cdot a \cdot t_{Brems
 
 Die berechnete Bremszeit $t_{Brems}=13,89s$ eingesetzt ergibt das:
 
+$\hspace{1cm} s = \dfrac{1}{2} \cdot -2\frac{m}{s^2} (13,89s)^2 + 
