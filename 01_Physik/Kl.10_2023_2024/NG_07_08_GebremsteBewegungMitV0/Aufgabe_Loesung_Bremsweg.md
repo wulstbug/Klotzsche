@@ -105,8 +105,8 @@ Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $50 \frac{km}{h}$
 
 
 | | | |
-| $v_0$ in $\frac{km}{h}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
-| 50 | | |
-| 100 | | |
-| 150 | | |
-| 200 | | |
+| $v_0$ in $\frac{km}{h}$ | $v_0$ in $\frac{m}{s}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
+| 50 |  | | |
+| 100 | 27,78 | 13,89 | 192,93 |
+| 150 | | | |
+| 200 | | | |
