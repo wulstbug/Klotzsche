@@ -219,6 +219,8 @@ $\hspace{0.5cm} v_0 = 100 \frac{km}{h}$ .. Anfangsgeschwindigkeit
 
 $\hspace{0.5cm} F_R = 2000 N$ .. Reibungskraft beim Bremsen
 
+$\hspace{0.5cm} m = 1000 kg$
+
 ges.:
 
     $\hspace{0.5cm} s$ .. Bremsweg
@@ -236,6 +238,8 @@ $\hspace{0.5cm}$ Zunächst berechnen wir die Beschleunigung, die durch den Brems
 $\hspace{0.5cm}$ 2. Newton'sches Gesetz
 
 $\hspace{0.5cm} F = m \cdot a $
+
+
 *************************
 
 
