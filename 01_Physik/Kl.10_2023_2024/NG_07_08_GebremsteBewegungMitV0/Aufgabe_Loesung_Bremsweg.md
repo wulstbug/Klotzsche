@@ -216,12 +216,12 @@ $\hspace{1cm} \textcircled{\textbf{3}}\, v_0^2 = -2\cdot a \cdot s_{\textcircled
 
 Nun ist $s_{\textcircled{\textbf{B}}}$ nicht bekannt, kann aber aus den gegebenen Dinge ermittelt werden. Es galt für den Gesamtweg
 
-$\hspace{1cm} s = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}} = 600m$
+$\hspace{1cm} s_{ges} = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}}$
 
 Somit ist 
 
-$\hspace{1cm} s_{\textcircled{\textbf{B}}} = 600m - s_{\textcircled{\textbf{A}}}$
+$\hspace{1cm} s_{\textcircled{\textbf{B}}} = s_{ges} - s_{\textcircled{\textbf{A}}}$
 
 Wir setzen $s_{\textcircled{\textbf{B}}}$ in $\textcircled{\textbf{3}}$ ein und erhalten
 
-$\hspace{1cm} v_0^2 = -2\cdot a \cdot (600m - s_{\textcircled{\textbf{A}}}) $
+$\hspace{1cm} v_0^2 = -2\cdot a \cdot (s_{ges} - s_{\textcircled{\textbf{A}}}) $
