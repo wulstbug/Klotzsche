@@ -101,9 +101,9 @@ $\hspace{1cm} \underline{s_{Brems} = 192,93 m}$
 
 # Zweite Aufgabe: Bremswege
 
-Der reine Bremsweg (ohne Reaktionszeit) für eine Geschwindigkeit von 100km/h beträgt ca. 200m. Schätze nun den Bremsweg für 
+1. Der reine Bremsweg (ohne Reaktionszeit) für eine Geschwindigkeit von 100km/h beträgt ca. 200m. Schätze nun den Bremsweg für 200km/h Anfangsgeschwindigkeit und notiere die Zahl mit Bleistift am Rand.
 
-Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, $50 \frac{km}{h}$, $150 \frac{km}{h}$, $200 \frac{km}{h}$. Ergänze dazu die folgende Tabelle in deinen Hefter. Du kannst die Formeln aus der Rechnung vorher nutzen.
+2. Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, $50 \frac{km}{h}$, $150 \frac{km}{h}$, $200 \frac{km}{h}$. Ergänze dazu die folgende Tabelle in deinen Hefter. Du kannst die Formeln aus der Rechnung vorher nutzen.
 
 | | | |
 | $v_0$ in $\frac{km}{h}$ | $v_0$ in $\frac{m}{s}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
@@ -136,3 +136,6 @@ Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, 
 | 100 | 27,78 | 13,89 | 192,93 |
 | 150 | 41,67 | 20,83 | 434,03 |
 | 200 | 55,56 | 27,78 | 771,6 |
+
+Der Bremsweg für 200km/h ist also ca. 800m.
+
