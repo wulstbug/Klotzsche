@@ -75,7 +75,7 @@ __Hinweise:__
 
 __Lösung:__
 
-![Loesung2_f](https://diversewolken.ddns.net:4443/nextcloud/index.php/apps/files_sharing/publicpreview/t2TdWJdFRjgyPdK?file=/&fileId=119220&x=1920&y=1080&a=true&etag=6ce24628ac399a141b611f2009ae8aa7)
+![Loesung2_f](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/t2TdWJdFRjgyPdK?file=/&fileId=119220&x=1920&y=1080&a=true&etag=6ce24628ac399a141b611f2009ae8aa7)
 
 <H4>==> Lösung 3)</H4>
 
@@ -167,5 +167,5 @@ $$ x_{min} = \frac{3\pi}{4} $$
 
 Vergleiche deine Skizze mit dieser Lösung:
 
-![Loesung2_g.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/cKDoRzBMAgj35rz/download)
+![Loesung2_g.png](https://diversewolken.ddns.net/nextcloud/index.php/s/cKDoRzBMAgj35rz/download)
 
