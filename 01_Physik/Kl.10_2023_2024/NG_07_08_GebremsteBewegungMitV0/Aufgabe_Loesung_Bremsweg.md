@@ -254,6 +254,8 @@ $\rightarrow$ __Ergebnis (*)Bremswege__
 
 ## Ergebnis (*)Bremswege
 
+$\hspace{1cm} v_0 = a\cdot t_{Reak} \pm \sqrt{(a\cdot t_{Reak})^2-2\cdot a \cdot s_{ges}}$
+
 $\hspace{1cm}$<span style="color:orange">***selber rechnen macht schlau***</span>
 
-<span style="color:white">$\hspace{1cm} v_0 = 58,52 \frac{m}{s}$</span>
+<span style="color:white">$\hspace{1cm} v_0 = 58,52 \frac{m}{s} = \frac{km}{h} $</span>
