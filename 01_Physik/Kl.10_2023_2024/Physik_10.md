@@ -188,9 +188,9 @@ $v$..Geschwindigkeit<br>
 
 {{2}}
 *************************
-Für eine gleichmäßig gebremste Bewegung gilt:
+Bei einer gleichmäßig gebremste Bewegung gilt für die Beschleunigung:
 
-
+$$a\leq 0$ oder $a \geq 0$ ? 
 *************************
 
 ## Simulation Schiefe Ebene
