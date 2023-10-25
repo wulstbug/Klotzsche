@@ -208,5 +208,9 @@ $\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot \Big( -\
 
 Nach $v_0$ umgestellt bedeutet das:
 
-$\hspace{1cm} s_{\textcircled{\textbf{B}}} = \frac{(v_0)^2}{a} \Big( \dfrac{1}{2a} - \dfrac{1}{a} \Big) $
+$\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{(v_0)^2}{a} \Big( \dfrac{1}{2} - 1 \Big) $
+
+und 
+
+$\hspace{1cm} 
 
