@@ -202,6 +202,20 @@ $$a\leq 0$$
 
 *************************
 
+{{4-5}}
+*************************
+!?[Reibung_Am_Auto_Ab_6_35.webm](https://youtu.be/MM4Q11mAjmE)
+
+Zeit: 6:17 min
+*************************
+
+{{5}}
+*************************
+__Beispielrechung: Bremsweg eines Fahrzeugs::__
+
+*************************
+
+
 ## Simulation Schiefe Ebene
 
 ??[SchiefeEbenePhET](https://phet.colorado.edu/sims/cheerpj/motion-series/latest/motion-series.html?simulation=ramp-forces-and-motion&locale=de)
