@@ -91,8 +91,10 @@ Die Bremszeit beträgt demnach 13,89s. Nutze nun Gleichung $\textcircled{\textbf
 
 ## Lösungshinweis (5)
 
-$\hspace{1cm} \textcircled{\textbf{1}}\, s = \dfrac{1}{2} \cdot a \cdot t_{Brems}^2$ $ + v_0 \cdot t_{Brems}$
+$\hspace{1cm} \textcircled{\textbf{1}}\, s_{Brems} = \dfrac{1}{2} \cdot a \cdot t_{Brems}^2$ $ + v_0 \cdot t_{Brems}$
 
 Die berechnete Bremszeit $t_{Brems}=13,89s$ eingesetzt ergibt das:
 
-$\hspace{1cm} s = \dfrac{1}{2} \cdot -2\frac{m}{s^2} (13,89s)^2 + 27,78\frac{m}{s} \cdot 13,89s$
+$\hspace{1cm} s_{Brems} = \dfrac{1}{2} \cdot -2\frac{m}{s^2} (13,89s)^2 + 27,78\frac{m}{s} \cdot 13,89s$
+
+$\hspace{1cm} s_{Brems} = 192,93 m
