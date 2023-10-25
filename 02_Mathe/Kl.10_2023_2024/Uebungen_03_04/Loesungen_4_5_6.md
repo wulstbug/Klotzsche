@@ -193,7 +193,7 @@ c)
 
 Es muss gelten: 
 
-$$ 0,5 = 0,87^h_{1/2} $$
+$$ 0,5 = 0,87^{h_{1/2}} $$
 
 Demzufolge ist
 
