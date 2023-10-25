@@ -101,8 +101,12 @@ $\hspace{1cm} \underline{s_{Brems} = 192,93 m}$
 
 # Zweite Aufgabe: Bremswege
 
-Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $50 \frac{km}{h}$, $150 \frac{km}{h}$, $200 \frac{km}{h}$. Ergänze dazu die folgende Tabelle.
+Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $50 \frac{km}{h}$, $150 \frac{km}{h}$, $200 \frac{km}{h}$. Ergänze dazu die folgende Tabelle in deinen Hefter. Du kannst die Formeln aus der Rechnung vorher nutzen.
 
 
 | | | |
-| $v_0$ in $\frac{km}{h}$ | $t_{Brems}$ in s | $s_{Brems}$ in m | 
+| $v_0$ in $\frac{km}{h}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
+| 50 | | |
+| 100 | | |
+| 150 | | |
+| 200 | | |
