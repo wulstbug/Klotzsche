@@ -192,3 +192,8 @@ $\hspace{1cm} $ Für $\textcircled{\textbf{A}}$ gilt: $s_{\textcircled{\textbf{A
 
 $\hspace{1cm} $ Für $\textcircled{\textbf{B}}$ gilt: $s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot t_{Brems}^2$ $ + v_0 \cdot t_{Brems}$
 
+Wir können aus der Überlegung in Aufgabe 1 die Formel für die Bremszeit:
+
+$\hspace{1cm} t_{Brems}=-\dfrac{v_0}{a}$
+
+nutzen und in 
