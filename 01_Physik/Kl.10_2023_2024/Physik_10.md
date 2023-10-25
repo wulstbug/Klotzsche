@@ -177,14 +177,13 @@ $v$..Geschwindigkeit<br>
 
 {{1}}
 *************************
-Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
+Gleichmäßig beschleunigte Bewegung (<span style="color:red">mit Anfangsgeschwindigkeit $v_0$</span>):
 
 $s = \dfrac{1}{2} \cdot a \cdot t^2$ <span style="color:red">$ + v_0 \cdot t$</span> $\hspace{1cm} v=a \cdot t$ <span style="color:red">$+v_0$</span>
 
 $s$..zurückgelegte Strecke<br>
 $a$..Beschleunigung<br>
 $v$..Geschwindigkeit<br>
-<span style="color:red">$v_0$..Anfangsgeschwindigkeit</span> <br> <br>
 *************************
 
 ## Simulation Schiefe Ebene
