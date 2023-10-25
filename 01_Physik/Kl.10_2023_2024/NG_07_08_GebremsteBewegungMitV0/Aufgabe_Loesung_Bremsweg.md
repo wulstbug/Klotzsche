@@ -212,7 +212,7 @@ $\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{(v_0)^2}{a} \Big( \dfrac{1}{
 
 und 
 
-$\hspace{1cm} v_0 = \sqrt{-2\cdot a \cdot s_{\textcircled{\textbf{B}}}} $
+$\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{\textcircled{\textbf{B}}} $
 
 Nun ist $s_{\textcircled{\textbf{B}}}$ nicht bekannt, kann aber aus den gegebenen Dinge ermittelt werden. Es galt für den Gesamtweg
 
@@ -222,5 +222,5 @@ Somit ist
 
 $\hspace{1cm} s_{\textcircled{\textbf{B}}} = 600m - s_{\textcircled{\textbf{A}}}$
 
-
+Die Strecke $s_{\textcircled{\textbf{A}}}$
 
