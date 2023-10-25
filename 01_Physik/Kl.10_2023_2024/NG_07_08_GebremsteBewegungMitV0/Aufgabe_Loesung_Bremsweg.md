@@ -63,6 +63,6 @@ Warum ist $\textcircled{\textbf{1}}$ nicht günstig? Weil auch die (Brems-)Zeit 
 
 Somit bleibt noch Gleichung $\textcircled{\textbf{2}}$.
 
-$\hspace{1cm} \textcircled{\textbf{2}}\, v=a \cdot t$ 
+$\hspace{1cm} \textcircled{\textbf{2}}\, v=a \cdot t +v_0$.
 
-Überlege nun, 
+Diese Gleichung gibt die Geschwindigkeit zu jedem Zeitpunkt an. 
