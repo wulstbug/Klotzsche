@@ -61,4 +61,8 @@ Gleichung $\textcircled{\textbf{1}}$ ist hier noch nicht günstig, obwohl dort d
 
 Warum ist $\textcircled{\textbf{1}}$ nicht günstig? Weil auch die (Brems-)Zeit $t$ in dieser Gleichung steckt und die Bremszeit ist unbekannt.
 
-Somit bleibt noch Gleichung $\textcircled{\textbf{2}}$
+Somit bleibt noch Gleichung $\textcircled{\textbf{2}}$.
+
+$\hspace{1cm} \textcircled{\textbf{2}}\, v=a \cdot t$ 
+
+Überlege nun, 
