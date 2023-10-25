@@ -99,9 +99,10 @@ $\hspace{1cm} s_{Brems} = \dfrac{1}{2} \cdot -2\frac{m}{s^2} (13,89s)^2 + 27,78\
 
 $\hspace{1cm} \underline{s_{Brems} = 192,93 m}$
 
-## Zweite Aufgabe
+# Zweite Aufgabe: Bremswege
 
 Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $50 \frac{km}{h}$, $150 \frac{km}{h}$, $200 \frac{km}{h}$. Ergänze dazu die folgende Tabelle.
 
 
 | | | |
+| $v_0$ in $\frac{km}{h}$ | $t_{Brems}$ in s | $s_{Brems}$ in m | 
