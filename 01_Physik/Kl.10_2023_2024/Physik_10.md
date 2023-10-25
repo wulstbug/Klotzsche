@@ -192,11 +192,11 @@ __Bei einer gleichmäßig gebremsten Bewegung gilt für die Beschleunigung a:__
 
 {{2-3}}
 *************************
-$$a\leq 0 \hspace{1cm} \textbf{oder} \hspace{1cm} a \geq 0 $$ ??
+$$a < 0 \hspace{1cm} \textbf{oder} \hspace{1cm} a > 0 $$ ??
 *************************
 {{3}}
 *************************
-$$a\leq 0$$
+$$a < 0$$
 *************************
 
 
