@@ -188,4 +188,4 @@ $\hspace{1cm} v_0$
 
 Lsg.:
 
-$\hspace{1cm} $ Für \textcircled{\textbf{A}} gilt:
+$\hspace{1cm} $ Für $\textcircled{\textbf{A}}$ gilt: $s_{\textcircled{\textbf{A}}} = v_0 \cdot t_{Reak} $
