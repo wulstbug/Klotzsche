@@ -139,7 +139,7 @@ Der Luftdruck der Erdatmosphäre nimmt mit zunehmender Höhe um ca. 13% je 1000 
 
 a) Gib die zugehörige Funktionsgleichung an und bestimme den Luftdruck auf dem Mount Everest (ca. 8800m).
 
-b) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
+b*) Bestimme den Abnahmefaktor (Wachstumsfaktor) für den Höhenunterschied 1m.
 
 c) Bestimme die Höhe, in welcher sich der Luftdruck halbiert hat.
 
