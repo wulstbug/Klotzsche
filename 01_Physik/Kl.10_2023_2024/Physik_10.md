@@ -164,9 +164,18 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 
 ## Beschleunigte Bewegung mit Anfangsgeschwindigkeit $v_0$
 
-{{1-2}}
+{{0-1}}
+*************************
+Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
 
-{{2}}
+$s = \dfrac{1}{2} \cdot a \cdot t^2$  $\hspace{1cm} v=a \cdot t$
+
+$s$..zurückgelegte Strecke<br>
+$a$..Beschleunigung<br>
+$v$..Geschwindigkeit<br>
+*************************
+
+{{1}}
 *************************
 Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
 
