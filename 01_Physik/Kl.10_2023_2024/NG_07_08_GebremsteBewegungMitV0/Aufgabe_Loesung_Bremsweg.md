@@ -85,4 +85,4 @@ $$-v_0 = a \cdot t_{Brems} \hspace{0.5cm}\Big\vert :a $$
 
 $$-\dfrac{v_0}{a} = t_{Brems} $$
 
-$$ t_{Brems} = -\dfrac{27,78}{-2} = 13,89 s \Big[ \dfrac{\frac{m}{s}}{\frac{m}{s^2}}= \frac{m}{s} \cdot  =s \Big]$$
+$$ t_{Brems} = -\dfrac{27,78\frac{m}{s}}{-2\frac{m}{s^2}} = 13,89 s \hspace{0.5cm}\Big[ \dfrac{\frac{m}{s}}{\frac{m}{s^2}}= \frac{m}{s} \cdot \frac{s^2}{m} =s \Big]$$
