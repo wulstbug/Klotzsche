@@ -162,6 +162,8 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 
 5. In einer Entfernung von 50m (bergab, Stoßstange-Stoßstange) ist ein LKW der Masse 40t geparkt. Bestimme die Zeit, nach welcher das Auto auf den LKW prallt. Bestimme auch die Aufprallgeschwindigkeit.
 
+## Beschleunigte Bewegung mit Anfangsgeschwindigkeit $v_0$
+
 
 
 ## Simulation Schiefe Ebene
