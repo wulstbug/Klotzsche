@@ -190,7 +190,9 @@ $v$..Geschwindigkeit<br>
 *************************
 Bei einer gleichmäßig gebremste Bewegung gilt für die Beschleunigung:
 
-$$a\leq 0$ oder $a \geq 0$ ? 
+$$a\leq 0 \hspace{1cm} \textbf{oder} \hspace{1cm} a \geq 0 $$
+
+??
 *************************
 
 ## Simulation Schiefe Ebene
