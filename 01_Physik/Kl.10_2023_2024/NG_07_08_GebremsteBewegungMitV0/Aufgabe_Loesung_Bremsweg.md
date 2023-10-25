@@ -57,6 +57,8 @@ Ziel der Aufgabe ist es, den Bremsweg $s$ zu berechnen. Überlege noch einmal, w
 
 ## Lösungshinweis (2)
 
+Bisher kennen wir die Beschleunigung $a=-2\frac{m}{s^2}$ und die Anfangsgeschwindigkeit $v_0 = 27,78 \frac{m}{s}$.
+
 Gleichung $\textcircled{\textbf{1}}$ ist hier noch nicht günstig, obwohl dort die gesuchte Größe $s$ vorkommt.
 
 Warum ist $\textcircled{\textbf{1}}$ nicht günstig? Weil auch die (Brems-)Zeit $t$ in dieser Gleichung steckt und die Bremszeit ist unbekannt.
