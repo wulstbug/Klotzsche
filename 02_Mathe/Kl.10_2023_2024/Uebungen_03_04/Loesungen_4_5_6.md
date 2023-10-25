@@ -155,7 +155,7 @@ Die Höhe in km ist dann der Exponent.
 
 a) 
 
-$$ f(h) = p_0 \cdot 0,83^{(\frac{h}{1000})}$$
+$$ f(h) = p_0 \cdot 0,87^{(\frac{h}{1000})}$$
 
  - $h$ .. Höhe in Meter
 
@@ -163,13 +163,13 @@ $$ f(h) = p_0 \cdot 0,83^{(\frac{h}{1000})}$$
 
 __oder__
 
-$$ f(h) = p_0 \cdot 0,83^{h}$$ 
+$$ f(h) = p_0 \cdot 0,87^{h}$$ 
 
  - $h$ .. Höhe in km
 
 __Mount Everest:__
 
-$$ f(h) = 101,3 kPa \cdot 0,83^{8,8} = 19,66 kPa $$
+$$ f(h) = 101,3 kPa \cdot 0,87^{8,8} = 19,66 kPa $$
 
 ### Lösung b)
 
@@ -181,9 +181,9 @@ $$ q_{1m} = \frac{f(h+\Delta h)}{f(h)} $$
 
 $$ q_{1m} = \frac{0,87^{(h+0,001)}}{0,87^{h}} $$
 
-$$ q_{1m} = \frac{0,73^h\cdot 0,83^{0,001}}{0,83^{h}} $$
+$$ q_{1m} = \frac{0,87^h\cdot 0,87^{0,001}}{0,87^{h}} $$
 
-$$ q_{1m} = 0,83^{0,001} $$ 
+$$ q_{1m} = 0,87^{0,001} $$ 
 
 $$ \underline{q_{1m} = 0,9998} $$
 
@@ -193,11 +193,11 @@ c)
 
 Es muss gelten: 
 
-$$ 0,5 = 0,83^h_{1/2} $$
+$$ 0,5 = 0,87^h_{1/2} $$
 
 Demzufolge ist
 
-$$ log_{0,83}(0,5) = h_{1/2} $$
+$$ log_{0,87}(0,5) = h_{1/2} $$
 
 und
 
