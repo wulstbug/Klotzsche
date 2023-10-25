@@ -141,7 +141,7 @@ Der Bremsweg für 200km/h ist also ca. 800m.
 
 <span style="color:red">Ergebnis: Der Zusammenhang von Anfangsgeschwindigkeit und Bremsweg ist eine quadratische Funktion.</span>
 
-# 3. *Bremswege
+# 3. Vertiefung: Bremswege (*)
 
 Ein Fahrzeug fährt auf einer Autobahn. Plötzlich erkennt der Fahrer in 600m Entfernung ein Hindernis auf der Straße. Seine Reaktionszeit beträgt 0,5s. Dann beginnt er zu bremsen und das Auto hat eine Verzögerung von a=-3 m/s².
 Glücklicherweise kommt er direkt vor dem Hindernis zum stehen. Berechne seine Anfangsgeschwindigkeit.
@@ -212,7 +212,7 @@ $\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{(v_0)^2}{a} \Big( \dfrac{1}{
 
 und 
 
-$\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{\textcircled{\textbf{B}}} $
+$\hspace{1cm} \textcircled{\textbf{3}}\, v_0^2 = -2\cdot a \cdot s_{\textcircled{\textbf{B}}} $
 
 Nun ist $s_{\textcircled{\textbf{B}}}$ nicht bekannt, kann aber aus den gegebenen Dinge ermittelt werden. Es galt für den Gesamtweg
 
@@ -222,5 +222,5 @@ Somit ist
 
 $\hspace{1cm} s_{\textcircled{\textbf{B}}} = 600m - s_{\textcircled{\textbf{A}}}$
 
-Die Strecke $s_{\textcircled{\textbf{A}}}$ 
+
 
