@@ -219,7 +219,7 @@ $\hspace{0.5cm} v_0 = 100 \frac{km}{h}$ .. Anfangsgeschwindigkeit
 
 $\hspace{0.5cm} F_R = 2000 N$ .. Reibungskraft beim Bremsen
 
-$\hspace{0.5cm} m = 1000 kg$
+$\hspace{0.5cm} m = 1 t$ {8}{$=1000kg$}
 
 ges.:
 
