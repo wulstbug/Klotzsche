@@ -93,7 +93,7 @@ $ sin(x)+2 = 1	\hspace{0.5cm}\Big\vert-2 	$
 
 $ sin(x) = -1	$
 
-$ \underline{x = \dfrac{3\pi}{2}} $
+$ \underline{x = \dfrac{3\pi}{2}} $ oder $ \underline{x = -\dfrac{\pi}{2}} $
 
 b.
 
