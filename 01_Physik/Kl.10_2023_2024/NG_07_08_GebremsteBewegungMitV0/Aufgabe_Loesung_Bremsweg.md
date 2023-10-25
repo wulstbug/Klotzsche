@@ -53,4 +53,6 @@ $\hspace{0.5cm} a= -2 \dfrac{m}{s^2}$
 
 ## Lösungshinweis (1)
 
-Ziel der Aufgabe ist es, den Bremsweg $s$ zu berechnen. Überlege noch einmal, welche Größen dir bereits bekannt sind. Entscheide nun, welche der beiden Gleichungen $\textcircled{\textbf{1}}$ oder $\textcircled{\textbf{2}}$
+Ziel der Aufgabe ist es, den Bremsweg $s$ zu berechnen. Überlege noch einmal, welche Größen dir bereits bekannt sind. Entscheide nun, welche der beiden Gleichungen $\textcircled{\textbf{1}}$ oder $\textcircled{\textbf{2}}$ du zunächst besser verwenden kannst.
+
+## Lösungshinweis (2)
