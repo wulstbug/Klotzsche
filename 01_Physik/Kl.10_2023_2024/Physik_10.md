@@ -230,7 +230,7 @@ ges.:
 *************************
 Lsg.:
 
-$\hspace{0.5cm}$ __Zunächst berechnen wir die Beschleunigung, die durch den Bremsvorgang hervorgerufen wird.__
+$\hspace{0.5cm}$ __Zunächst berechnen wir die Beschleunigung a, die durch den Bremsvorgang hervorgerufen wird.__
 *************************
 
 {{8}}
