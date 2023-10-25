@@ -85,3 +85,4 @@ $$-v_0 = a \cdot t_{Brems} \hspace{0.5cm}\Big\vert :a $$
 
 $$-\dfrac{v_0}{a} = t_{Brems} $$
 
+$$ t_{Brems} = -\dfrac{27,78}{-2} = 13,89 s \Big[  \Big]$$
