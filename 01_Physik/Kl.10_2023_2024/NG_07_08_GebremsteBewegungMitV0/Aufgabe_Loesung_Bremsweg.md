@@ -155,7 +155,9 @@ $\hspace{1cm} \textcircled{\textbf{A}}\,$ Gleichförmige Bewegung bis zur Reakti
 $\hspace{1cm} \textcircled{\textbf{B}}\,$ Gleichmäßig gebremste Bewegung bis zum Stillstand
 
 geg.:
+
 $\hspace{1cm} t_{Reak} = 0,5s $ .. Reaktionszeit
+$\hspace{1cm} a = -3\frac{m}{s^2}$ .. Reaktionszeit
 
 ges.:
 
