@@ -152,4 +152,11 @@ Dieser Vorgang ist in zwei Abschnitte zu teilen.
 
 $\hspace{1cm} \textcircled{\textbf{A}}\,$ Gleichförmige Bewegung bis zur Reaktion
 
-$\hspace{1cm} \textcircled{\textbf{B}}\,$ Gleichmäßig gebremste Bewegung 
+$\hspace{1cm} \textcircled{\textbf{B}}\,$ Gleichmäßig gebremste Bewegung bis zum Stillstand
+
+geg.:
+$\hspace{1cm} t_{Reak} = 0,5s $ .. Reaktionszeit
+
+ges.:
+
+$\hspace{1cm} v_0$
