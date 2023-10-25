@@ -75,4 +75,8 @@ Die Geschwindigkeit des Autos am Ende des Bremsvorgangs ist v=0, denn das Auto s
 
 $\hspace{1cm} 0 = a \cdot t_{Brems} + v_0 $.
 
-Setze nun die bekannten Größen.
+Stelle die Gleichung nach $t_{Brems}$ um und setze dann die bekannten Größen $a$ und $v_0$ ein.
+
+## Lösungshinweis (4)
+
+$\hspace{1cm} 0 = \cdot t_{Brems} + v_0 $.
