@@ -230,7 +230,7 @@ ges.:
 *************************
 Lsg.:
 
-$\hspace{0.5cm}$ Zunächst berechnen wir die Beschleunigung, die durch den Bremsvorgang hervorgerufen wird.
+$\hspace{0.5cm}$ __Zunächst berechnen wir die Beschleunigung, die durch den Bremsvorgang hervorgerufen wird.__
 *************************
 
 {{7}}
@@ -254,6 +254,8 @@ $\hspace{0.5cm}$ Da $F_R$ der Bewegung entgegen wirkt muss $ a \leq 0$ sein, d.h
 <span style="color:red">***$\hspace{0.5cm} a= -2 \dfrac{m}{s^2}$***</span>
 
 *************************
+
+
 
 ## Simulation Schiefe Ebene
 
