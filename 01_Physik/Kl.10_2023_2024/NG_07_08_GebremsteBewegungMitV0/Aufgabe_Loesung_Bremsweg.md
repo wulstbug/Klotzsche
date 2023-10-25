@@ -79,4 +79,6 @@ Stelle die Gleichung nach $t_{Brems}$ um und setze dann die bekannten Größen $
 
 ## Lösungshinweis (4)
 
-$$\hspace{1cm} 0 = a \cdot t_{Brems} + v_0 \hspace{0,5cm}\Big\vert -v_0 $$
+$$\hspace{1cm} 0 = a \cdot t_{Brems} + v_0 \hspace{0.5cm}\Big\vert -v_0 $$
+
+$$\hspace{1cm} -v_0 = a \cdot t_{Brems} \hspace{0.5cm}\Big\vert :t_{Brems} $$
