@@ -90,3 +90,5 @@ $$ t_{Brems} = -\dfrac{27,78\frac{m}{s}}{-2\frac{m}{s^2}} = 13,89 s \hspace{0.5c
 Die Bremszeit beträgt demnach 13,89s. Nutze nun Gleichung $\textcircled{\textbf{1}}$ und berechne den Bremsweg s.
 
 ## Lösungshinweis (5)
+
+$\textcircled{\textbf{1}}\, s = \dfrac{1}{2} \cdot a \cdot t^2_{Brems}^2$ $ + v_0 \cdot t$
