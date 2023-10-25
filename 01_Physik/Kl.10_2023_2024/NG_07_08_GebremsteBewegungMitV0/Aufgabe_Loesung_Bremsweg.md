@@ -99,7 +99,7 @@ $\hspace{1cm} s_{Brems} = \dfrac{1}{2} \cdot -2\frac{m}{s^2} (13,89s)^2 + 27,78\
 
 $\hspace{1cm} \underline{s_{Brems} = 192,93 m}$
 
-# Zweite Aufgabe: Bremswege
+# 2. Bremswege
 
 1. Der reine Bremsweg (ohne Reaktionszeit) für eine Geschwindigkeit von 100km/h beträgt ca. 200m. Schätze nun den Bremsweg für 200km/h Anfangsgeschwindigkeit und notiere die Zahl mit Bleistift am Rand.
 
@@ -141,7 +141,7 @@ Der Bremsweg für 200km/h ist also ca. 800m.
 
 <span style="color:red">Ergebnis: Der Zusammenhang von Anfangsgeschwindigkeit und Bremsweg ist eine quadratische Funktion.</span>
 
-# Dritte Aufgabe: Bremswege
+# 3. Bremswege
 
 Ein Fahrzeug fährt auf einer Autobahn. Plötzlich erkennt der Fahrer in 600m Entfernung ein Hindernis auf der Straße. Seine Reaktionszeit beträgt 0,5s. Dann beginnt er zu bremsen und das Auto hat eine Verzögerung von a=-3 m/s².
 Glücklicherweise kommt er direkt vor dem Hindernis zum stehen. Berechne seine Anfangsgeschwindigkeit.
@@ -152,4 +152,4 @@ Dieser Vorgang ist in zwei Abschnitte zu teilen.
 
 $\hspace{1cm} \textcircled{\textbf{A}}\,$ Gleichförmige Bewegung bis zur Reaktion
 
-$\hspace{1cm} \textcircled{\textbf{B}}\,$
+$\hspace{1cm} \textcircled{\textbf{B}}\,$ Gleichmäßig gebremste Bewegung 
