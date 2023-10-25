@@ -215,11 +215,9 @@ __Beispielrechung: Bremsweg eines Fahrzeugs::__
 
 geg.:
 
-<u1>
-$v_0 = 100 \frac{km}{h}$ .. Anfangsgeschwindigkeit
+    Test $v_0 = 100 \frac{km}{h}$ .. Anfangsgeschwindigkeit
 
-$F_R = 2000 N$
-</u1>
+ $F_R = 2000 N$ .. Reibungskraft beim Bremsen
 
 ges.:
 
