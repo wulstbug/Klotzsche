@@ -257,6 +257,8 @@ $\hspace{0.5cm}$ Da $F_R$ der Bewegung entgegen wirkt muss $ a \leq 0$ sein, d.h
 
 <span style="color:blue">Bestimme nun den Bremsweg s. Du kannst es in einer kleinen Gruppe allein probieren oder folgende Hilfestellung verwenden.</span>
 
+
+
 ## Simulation Schiefe Ebene
 
 ??[SchiefeEbenePhET](https://phet.colorado.edu/sims/cheerpj/motion-series/latest/motion-series.html?simulation=ramp-forces-and-motion&locale=de)
