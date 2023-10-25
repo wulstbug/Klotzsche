@@ -56,3 +56,9 @@ $\hspace{0.5cm} a= -2 \dfrac{m}{s^2}$
 Ziel der Aufgabe ist es, den Bremsweg $s$ zu berechnen. Überlege noch einmal, welche Größen dir bereits bekannt sind. Entscheide nun, welche der beiden Gleichungen $\textcircled{\textbf{1}}$ oder $\textcircled{\textbf{2}}$ du zunächst besser verwenden kannst.
 
 ## Lösungshinweis (2)
+
+Gleichung $\textcircled{\textbf{1}}$ ist hier noch nicht günstig, obwohl dort die gesuchte Größe $s$ vorkommt.
+
+Warum ist $\textcircled{\textbf{1}}$ nicht günstig? Weil auch die (Brems-)Zeit $t$ in dieser Gleichung steckt und die Bremszeit ist unbekannt.
+
+Somit bleibt noch Gleichung $\textcircled{\textbf{2}}$
