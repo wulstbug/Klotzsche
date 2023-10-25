@@ -222,5 +222,6 @@ Somit ist
 
 $\hspace{1cm} s_{\textcircled{\textbf{B}}} = 600m - s_{\textcircled{\textbf{A}}}$
 
+Wir setzen in $\textcircled{\textbf{3}}$ ein und erhalten
 
-
+$\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{\textcircled{\textbf{B}}} $
