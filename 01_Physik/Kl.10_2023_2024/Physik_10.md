@@ -188,7 +188,7 @@ $v$..Geschwindigkeit<br>
 
 {{2}}
 *************************
-Bei einer gleichmäßig gebremste Bewegung gilt für die Beschleunigung:
+__Bei einer gleichmäßig gebremste Bewegung gilt für die Beschleunigung a:__
 
 $$a\leq 0 \hspace{1cm} \textbf{oder} \hspace{1cm} a \geq 0 $$
 
