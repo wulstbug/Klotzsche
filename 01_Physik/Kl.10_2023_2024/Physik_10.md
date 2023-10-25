@@ -228,9 +228,12 @@ ges.:
 *************************
 Lsg.:
 
-$\hspace{0.5cm}$ Zunächst berechnen wir die Beschleunigung, die durch den Bremsvorgang ervorgerufen wird.
+$\hspace{0.5cm}$ Zunächst berechnen wir die Beschleunigung, die durch den Bremsvorgang hervorgerufen wird.
+*************************
 
-
+{{7}}
+*************************
+$\hspace{0.5cm}$ 
 *************************
 
 
