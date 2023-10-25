@@ -247,5 +247,7 @@ $\hspace{1cm} 0 = v_0^2 - 2\cdot a \cdot v_0 \cdot t_{Reak} + 2\cdot a \cdot s_{
 
 Die p-q-Formel oder der GTR verraten:
 
-$\hspace{1cm} v_0 = a\cdot t_{Reak} \pm \sqrt{}$
+$\hspace{1cm} v_0 = a\cdot t_{Reak} \pm \sqrt{(a\cdot t_{Reak})^2}-2\cdot a \cdot s_{ges}$
 ********************
+
+## Lösung 
