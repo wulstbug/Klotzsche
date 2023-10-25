@@ -120,8 +120,8 @@ Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, 
 | | | |
 | $v_0$ in $\frac{km}{h}$ | $v_0$ in $\frac{m}{s}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
 | 0 | 0 | 0 | 0 |
-| 50 | 13,89 | 6,94 | 48,23 |
-| 100 | 27,78 | 13,89 | 192,93 |
+| 50 | 13.89 | 6.94 | 48.23 |
+| 100 | 27.78 | 13.89 | 192.93 |
 | 150 | | | |
 | 200 | | | |
 
@@ -131,10 +131,10 @@ Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, 
 
 | $v_0$ in $\frac{km}{h}$ | $v_0$ in $\frac{m}{s}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
 | 0 | 0 | 0 | 0 |
-| 50 | 13,89 | 6,94 | 48,23 |
-| 100 | 27,78 | 13,89 | 192,93 |
-| 150 | 41,67 | 20,83 | 434,03 |
-| 200 | 55,56 | 27,78 | 771,6 |
+| 50 | 13.89 | 6.94 | 48.23 |
+| 100 | 27.78 | 13.89 | 192.93 |
+| 150 | 41.67 | 20.83 | 434.03 |
+| 200 | 55.56 | 27.78 | 771.6 |
 
 Der Bremsweg für 200km/h ist also ca. 800m.
 
