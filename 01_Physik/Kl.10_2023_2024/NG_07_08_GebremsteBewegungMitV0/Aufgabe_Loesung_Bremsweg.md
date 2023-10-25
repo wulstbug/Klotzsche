@@ -228,12 +228,14 @@ Wir setzen $s_{\textcircled{\textbf{B}}}$ in $\textcircled{\textbf{3}}$ ein und 
 
 $\hspace{1cm} v_0^2 = -2\cdot a \cdot (s_{ges} - s_{\textcircled{\textbf{A}}}) $
 
-$\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot s_{\textcircled{\textbf{A}}} $
+$\hspace{1cm} \textcircled{\textbf{4}}\, v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot s_{\textcircled{\textbf{A}}} $
 
-Nun nutzen wir $s_{\textcircled{\textbf{A}}}$ 
+Nun nutzen wir $s_{\textcircled{\textbf{A}}}$: 
 ********************
 
 {{2}}
 ********************
-$\hspace{1cm} 
+$\hspace{1cm} s_{\textcircled{\textbf{A}}} = v_0 \cdot t_{Reak} $
+
+und setzen das in 
 ********************
