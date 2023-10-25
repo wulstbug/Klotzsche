@@ -255,7 +255,11 @@ $\hspace{0.5cm}$ Da $F_R$ der Bewegung entgegen wirkt muss $ a \leq 0$ sein, d.h
 
 *************************
 
-<span style="color:blue">Bestimme nun den Bremsweg s. Du kannst es in einer kleinen Gruppe allein probieren oder folgende Hilfestellung verwenden.</span>
+<span style="color:blue">Bestimme nun den Bremsweg s. Du kannst es in einer kleinen Gruppe oder allein probieren.</span>
+
+Lösungshinweise/Lösung: 
+
+[qr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/01_Physik/Kl.10_2023_2024/NG_07_08_GebremsteBewegungMitV0/Aufgabe_Loesung_Bremsweg.md#1)
 
 
 
