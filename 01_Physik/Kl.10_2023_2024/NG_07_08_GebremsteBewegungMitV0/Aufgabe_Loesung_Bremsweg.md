@@ -200,9 +200,13 @@ nutzen und in $s_{\textcircled{\textbf{B}}}$ einsetzen.
 
 $\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot \Big( -\dfrac{v_0}{a} \Big) ^2 + v_0 \Big( -\dfrac{v_0}{a} \Big) $
 
-Lösungshinweis (3):
+## Lösungshinweis (3):
 
 Es ergibt sich:
+
+$\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot \Big( -\dfrac{v_0}{a} \Big) ^2 + v_0 \Big( -\dfrac{v_0}{a} \Big) $
+
+Nach $v_0$ umgestellt bedeutet das:
 
 $\hspace{1cm} s_{\textcircled{\textbf{B}}} = \dfrac{1}{2} \cdot a \cdot \Big( -\dfrac{v_0}{a} \Big) ^2 + v_0 \Big( -\dfrac{v_0}{a} \Big) $
 
