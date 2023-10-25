@@ -256,3 +256,4 @@ $\hspace{1cm} v_0 = a\cdot t_{Reak} \pm \sqrt{(a\cdot t_{Reak})^2-2\cdot a \cdot
 
 $\hspace{1cm}$<span style="color:orange">***selber nachrechnen***</span>
 
+<span style="color:white">$\hspace{1cm} v_0 = $</span>
