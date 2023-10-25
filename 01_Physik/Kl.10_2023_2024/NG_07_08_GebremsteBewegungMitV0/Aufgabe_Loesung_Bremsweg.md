@@ -239,5 +239,10 @@ $\hspace{1cm} s_{\textcircled{\textbf{A}}} = v_0 \cdot t_{Reak} $
 
 und setzen das in $\textcircled{\textbf{4}}$ ein:
 
-$\hspace{1cm} \textcircled{\textbf{4}}\, v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot v_0 \cdot t_{Reak}$
+$\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot v_0 \cdot t_{Reak}$
+
+Es ergibt sich eine quadratische Gleichung mit $v_0$:
+
+$\hspace{1cm} 0 = v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot v_0 \cdot t_{Reak}$
+
 ********************
