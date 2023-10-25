@@ -143,5 +143,6 @@ Der Bremsweg für 200km/h ist also ca. 800m.
 
 # Dritte Aufgabe: Bremswege
 
-Ein Fahrzeug hat eine Geschwindigkeit von 160 km/h. Plötzlich erkennt der Fahrer in 600m Entfernung ein Hindernis auf der Straße. Seine Reaktionszeit beträgt 0,5s. Dann beginnt er zu bremsen und das Auto hat eine Verzögerung von a=-3 m/s².
+Ein Fahrzeug fährt auf einer Autobahn. Plötzlich erkennt der Fahrer in 600m Entfernung ein Hindernis auf der Straße. Seine Reaktionszeit beträgt 0,5s. Dann beginnt er zu bremsen und das Auto hat eine Verzögerung von a=-3 m/s².
+Glücklicherweise kommt er direkt vor dem Hindernis zum stehen. 
 
