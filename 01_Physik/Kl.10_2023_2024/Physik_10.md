@@ -168,9 +168,10 @@ Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
 
 $s = \dfrac{1}{2} \cdot a \cdot t^2$ <span style="color:red">$ + v_0 \cdot t$</span> $\hspace{1cm} v=a \cdot t$ <span style="color:red">$+v_0$</span>
 
-s..zurückgelegte Strecke<br>
-a..Beschleunigung<br>
-v..Geschwindigkeit<br> <br> <br>
+$s$..zurückgelegte Strecke<br>
+$a$..Beschleunigung<br>
+$v$..Geschwindigkeit<br>
+<span style="color:red">$v_0$..Anfangsgeschwindigkeit</span> <br> <br>
 
 ## Simulation Schiefe Ebene
 
