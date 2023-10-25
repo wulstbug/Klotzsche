@@ -67,7 +67,7 @@ Somit bleibt noch Gleichung $\textcircled{\textbf{2}}$.
 
 $\hspace{1cm} \textcircled{\textbf{2}}\, v=a \cdot t +v_0$.
 
-Diese Gleichung gibt die Geschwindigkeit zu jedem Zeitpunkt an. Entscheide nun, wie groß die Geschwindigkeit am Ende des Bremszyklus ist. Setze dein Ergebnis in die Gleichung ein.
+Diese Gleichung gibt die Geschwindigkeit zu jedem Zeitpunkt an. Entscheide nun, wie groß die Geschwindigkeit am Ende des Bremsvorgangs ist. Setze dein Ergebnis in die Gleichung ein.
 
 ## Lösungshinweis (3)
 
