@@ -201,4 +201,4 @@ $$ log_{0,87}(0,5) = h_{1/2} $$
 
 und
 
-$$ \underline{h_{1/2} \approx 3,72 km} $$ 
+$$ \underline{h_{1/2} \approx 4,977 km} $$ 
