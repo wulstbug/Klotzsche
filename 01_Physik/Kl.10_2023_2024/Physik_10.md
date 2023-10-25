@@ -215,7 +215,7 @@ __Beispielrechung: Bremsweg eines Fahrzeugs::__
 
 geg.:
 
-$\hspace{0.5cm} v_0 = 100 \frac{km}{h}${8}{$\approx 27,78 \{m}{s}$} .. Anfangsgeschwindigkeit
+$\hspace{0.5cm} v_0 = 100 \frac{km}{h}$ {8}{<span style="color:red">$\approx 27,78 \frac{m}{s}$</span>} .. Anfangsgeschwindigkeit
 
 $\hspace{0.5cm} F_R = 2000 N$ .. Reibungskraft beim Bremsen
 
