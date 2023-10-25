@@ -157,7 +157,11 @@ $\hspace{1cm} \textcircled{\textbf{B}}\,$ Gleichmäßig gebremste Bewegung bis z
 geg.:
 
 $\hspace{1cm} t_{Reak} = 0,5s $ .. Reaktionszeit
-$\hspace{1cm} a = -3\frac{m}{s^2}$ .. Reaktionszeit
+
+$\hspace{1cm} a = -3\frac{m}{s^2}$ .. Beschleunigung
+
+$\hspace{1cm} s_{\textcircled{\textbf{A}}
+\textcircled{\textbf{B}}} = 600m $ .. Gesamter Bremsweg
 
 ges.:
 
