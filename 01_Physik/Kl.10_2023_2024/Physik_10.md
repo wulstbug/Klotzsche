@@ -166,7 +166,7 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 
 Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
 
-$s = \dfrac{1}{2} \cdot a \cdot t^2 <span style="color:red"></span> \hspace{1cm} v=a \cdot t$
+$s = \dfrac{1}{2} \cdot a \cdot t^2$ <span style="color:red">$ + v_0 \cdot t$</span> $\hspace{1cm} v=a \cdot t$ <span style="color:red">$+v_0$</span>
 
 s..zurückgelegte Strecke<br>
 a..Beschleunigung<br>
