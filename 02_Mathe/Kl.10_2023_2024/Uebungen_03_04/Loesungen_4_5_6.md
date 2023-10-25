@@ -89,7 +89,7 @@ Gleichung zunächt so umstellen, das sin(x) allein auf einer Seite steht. Dann e
 
 a.  
 
-$ sin(x)+2 = 1	\hspace{0.5cm}\Big\vert-1 	$
+$ sin(x)+2 = 1	\hspace{0.5cm}\Big\vert-2 	$
 
 $ sin(x) = -1	$
 
