@@ -105,7 +105,7 @@ $\hspace{1cm} \underline{s_{Brems} = 192,93 m}$
 
 2. Berechne nun den Bremsweg für eine Anfangsgeschwindigkeit von $0\frac{km}{h}$, $50 \frac{km}{h}$, $150 \frac{km}{h}$, $200 \frac{km}{h}$. Ergänze dazu die folgende Tabelle in deinen Hefter. Du kannst die Formeln aus der Rechnung vorher nutzen.
 
-
+| | | |
 | $v_0$ in $\frac{km}{h}$ | $v_0$ in $\frac{m}{s}$  | $t_{Brems}$ in s | $s_{Brems}$ in m | 
 | 0 |  |  |  |
 | 50 |  | | |
@@ -141,3 +141,6 @@ Der Bremsweg für 200km/h ist also ca. 800m.
 
 <span style="color:red">Ergebnis: Der Zusammenhang von Anfangsgeschwindigkeit und Bremsweg ist eine quadratische Funktion.</span>
 
+## Dritte Aufgabe: Bremswege
+
+Ein Fahrzeug hat eine Geschwindigkeit von 160 km/h.
