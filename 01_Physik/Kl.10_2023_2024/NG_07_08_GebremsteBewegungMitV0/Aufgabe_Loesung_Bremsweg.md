@@ -227,3 +227,7 @@ Wir setzen $s_{\textcircled{\textbf{B}}}$ in $\textcircled{\textbf{3}}$ ein und 
 $\hspace{1cm} v_0^2 = -2\cdot a \cdot (s_{ges} - s_{\textcircled{\textbf{A}}}) $
 
 $\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot s_{\textcircled{\textbf{A}}} $
+
+## Lösungshinweis (4)
+
+Nun nutzen wir $s_{\textcircled{\textbf{A}}}$ 
