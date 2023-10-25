@@ -237,7 +237,12 @@ $\hspace{0.5cm}$ Zunächst berechnen wir die Beschleunigung, die durch den Brems
 *************************
 $\hspace{0.5cm}$ 2. Newton'sches Gesetz: $\hspace{0.5cm} F = m \cdot a $
 
-$\hspace{0.5cm}$ Beschleunigende Kraft {9}{$F_R \rightarrow F_R = m \cdot a $}
+$\hspace{0.5cm}$ Beschleunigende Kraft {9}{$F_R \rightarrow F_R = m \cdot a $} {10}{$\Big\vert :m$}
+*************************
+
+{{11}}
+*************************
+$\hspace{0.5cm}$ a = 
 *************************
 
 
