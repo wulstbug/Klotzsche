@@ -214,6 +214,8 @@ und
 
 $\hspace{1cm} \textcircled{\textbf{3}}\, v_0^2 = -2\cdot a \cdot s_{\textcircled{\textbf{B}}} $
 
+{{1}}
+********************
 Nun ist $s_{\textcircled{\textbf{B}}}$ nicht bekannt, kann aber aus den gegebenen Dinge ermittelt werden. Es galt für den Gesamtweg
 
 $\hspace{1cm} s_{ges} = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}}$
@@ -228,6 +230,5 @@ $\hspace{1cm} v_0^2 = -2\cdot a \cdot (s_{ges} - s_{\textcircled{\textbf{A}}}) $
 
 $\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot s_{\textcircled{\textbf{A}}} $
 
-## Lösungshinweis (4)
-
 Nun nutzen wir $s_{\textcircled{\textbf{A}}}$ 
+********************
