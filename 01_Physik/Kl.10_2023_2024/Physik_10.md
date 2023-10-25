@@ -162,11 +162,11 @@ $s = \dfrac{1}{2}\cdot$ <span style="color:blue"> $g \cdot sin(\alpha)$ </span> 
 
 5. In einer Entfernung von 50m (bergab, Stoßstange-Stoßstange) ist ein LKW der Masse 40t geparkt. Bestimme die Zeit, nach welcher das Auto auf den LKW prallt. Bestimme auch die Aufprallgeschwindigkeit.
 
-## Beschleunigte Bewegung mit Anfangsgeschwindigkeit $v_0$
+## Gleichmäßig beschleunigte/gebremste Bewegung mit Anfangsgeschwindigkeit $v_0$
 
 {{0-1}}
 *************************
-Gleichmäßig beschleunigte Bewegung (ohne Anfangsgeschwindigkeit):
+Gleichmäßig beschleunigte/gebremste Bewegung (ohne Anfangsgeschwindigkeit):
 
 $s = \dfrac{1}{2} \cdot a \cdot t^2$  $\hspace{1cm} v=a \cdot t$
 
@@ -177,7 +177,7 @@ $v$..Geschwindigkeit<br>
 
 {{1}}
 *************************
-Gleichmäßig beschleunigte Bewegung (<span style="color:red">mit Anfangsgeschwindigkeit $v_0$</span>):
+Gleichmäßig beschleunigte/gebremste Bewegung (<span style="color:red">mit Anfangsgeschwindigkeit $v_0$</span>):
 
 $s = \dfrac{1}{2} \cdot a \cdot t^2$ <span style="color:red">$ + v_0 \cdot t$</span> $\hspace{1cm} v=a \cdot t$ <span style="color:red">$+v_0$</span>
 
