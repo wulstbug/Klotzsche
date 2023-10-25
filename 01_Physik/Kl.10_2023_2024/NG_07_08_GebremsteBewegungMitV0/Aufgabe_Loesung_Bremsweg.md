@@ -69,4 +69,8 @@ Diese Gleichung gibt die Geschwindigkeit zu jedem Zeitpunkt an. Entscheide nun, 
 
 ## Lösungshinweis (3)
 
-Die Geschwindigkeit des Autos am Ende des Bremsvorgangs ist v=0, denn das Auto steht. 
+Die Geschwindigkeit des Autos am Ende des Bremsvorgangs ist v=0, denn das Auto steht. D.h.
+
+$\hspace{1cm} 0 = a \cdot t_{Brems} + v_0 $.
+
+Setze nun die bekannten Größen.
