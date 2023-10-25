@@ -143,4 +143,4 @@ Der Bremsweg für 200km/h ist also ca. 800m.
 
 ## Dritte Aufgabe: Bremswege
 
-Ein Fahrzeug hat eine Geschwindigkeit von 160 km/h.
+Ein Fahrzeug hat eine Geschwindigkeit von 160 km/h. Plötzlich erkennt der Fahrer in 600m Entfernung
