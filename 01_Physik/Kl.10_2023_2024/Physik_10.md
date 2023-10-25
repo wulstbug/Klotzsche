@@ -215,9 +215,11 @@ __Beispielrechung: Bremsweg eines Fahrzeugs::__
 
 geg.:
 
- - $v_0 = 100 \frac{km}{h}$ .. Anfangsgeschwindigkeit
+<u1>
+$v_0 = 100 \frac{km}{h}$ .. Anfangsgeschwindigkeit
 
- - $F_R = 2000 N$
+$F_R = 2000 N$
+</u1>
 
 ges.:
 
