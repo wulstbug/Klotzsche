@@ -150,5 +150,6 @@ Glücklicherweise kommt er direkt vor dem Hindernis zum stehen. Berechne seine A
 
 Dieser Vorgang ist in zwei Abschnitte zu teilen.
 
+$\hspace{1cm} \textcircled{\textbf{A}}\,$ Gleichförmige Bewegung bis zur Reaktion
 
-
+$\hspace{1cm} \textcircled{\textbf{B}}\,$
