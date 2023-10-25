@@ -190,8 +190,14 @@ $v$..Geschwindigkeit<br>
 *************************
 __Bei einer gleichmäßig gebremste Bewegung gilt für die Beschleunigung a:__
 
-{2-3}{$$a\leq 0 \hspace{1cm} \textbf{oder} \hspace{1cm} a \geq 0 $$ ??}
-{3}{$$a\leq 0$$}
+{{2-3}}
+*************************
+$$a\leq 0 \hspace{1cm} \textbf{oder} \hspace{1cm} a \geq 0 $$ ??
+*************************
+{{3}}
+*************************
+$$a\leq 0$$
+*************************
 
 
 *************************
