@@ -224,7 +224,7 @@ Er gibt jeden Monat 20% des Geldes, das nach der Überweisung seiner Eltern auf 
 {{4}}
 ***************************
 |  | |
-| 2: [qr-code](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/JqTFF53bM8TbD3E) | 3: [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/kHAg4qrHwqPEZYA?file=/&fileId=113876&x=1680&y=1050&a=true&etag=783f0a1c9fbdbb3f2a906dd9dfcc1d2f) |
+| 2: [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/JqTFF53bM8TbD3E) | 3: [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/kHAg4qrHwqPEZYA?file=/&fileId=113876&x=1680&y=1050&a=true&etag=783f0a1c9fbdbb3f2a906dd9dfcc1d2f) |
 | 5: [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/EqbeEkAHkAP7Qtm?file=/&fileId=113877&x=1680&y=1050&a=true&etag=3fdfa9ddf2f82a5272b11e2819c70d98) | 6: [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/apps/files_sharing/publicpreview/7WDYfSnwM4JfwSc?file=/&fileId=113878&x=1680&y=1050&a=true&etag=2b7bba4c14e1cbe7775d4d2580af871f) |
 ***************************
 
