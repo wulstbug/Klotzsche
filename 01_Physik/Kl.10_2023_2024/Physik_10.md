@@ -215,25 +215,25 @@ __Beispielrechung: Bremsweg eines Fahrzeugs::__
 
 geg.:
 
-$\hspace{0.5cm} v_0 = 100 \frac{km}{h}$ {8}{<span style="color:red">$\overset{:3,6}{\approx} 27,78 \frac{m}{s}$</span>} .. Anfangsgeschwindigkeit
+$\hspace{0.5cm} v_0 = 100 \frac{km}{h}$ {6}{<span style="color:red">$\overset{:3,6}{\approx} 27,78 \frac{m}{s}$</span>} .. Anfangsgeschwindigkeit
 
 $\hspace{0.5cm} F_R = 2000 N$ .. Reibungskraft beim Bremsen
 
-$\hspace{0.5cm} m = 1 t$ {8}{$=1000kg$}
+$\hspace{0.5cm} m = 1 t$ {6}{<span style="color:red">$=1000kg$</span>}
 
 ges.:
 
     $\hspace{0.5cm} s$ .. Bremsweg
 *************************
 
-{{6}}
+{{7}}
 *************************
 Lsg.:
 
 $\hspace{0.5cm}$ __Zunächst berechnen wir die Beschleunigung, die durch den Bremsvorgang hervorgerufen wird.__
 *************************
 
-{{7}}
+{{8}}
 *************************
 $\hspace{0.5cm}$ 2. Newton'sches Gesetz: $\hspace{0.5cm} F = m \cdot a $
 
