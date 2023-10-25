@@ -225,3 +225,5 @@ $\hspace{1cm} s_{\textcircled{\textbf{B}}} = s_{ges} - s_{\textcircled{\textbf{A
 Wir setzen $s_{\textcircled{\textbf{B}}}$ in $\textcircled{\textbf{3}}$ ein und erhalten
 
 $\hspace{1cm} v_0^2 = -2\cdot a \cdot (s_{ges} - s_{\textcircled{\textbf{A}}}) $
+
+$\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot s_{\textcircled{\textbf{A}}} $
