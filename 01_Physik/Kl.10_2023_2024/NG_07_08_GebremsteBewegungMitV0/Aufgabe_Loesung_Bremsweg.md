@@ -168,5 +168,24 @@ $\hspace{1cm} v_0$
 
 ## Lösungshinweis (2)
 
+Lsg.:Dieser Vorgang ist in zwei Abschnitte zu teilen.
+
+$\hspace{1cm} \textcircled{\textbf{A}}\,$ Gleichförmige Bewegung bis zur Reaktion
+
+$\hspace{1cm} \textcircled{\textbf{B}}\,$ Gleichmäßig gebremste Bewegung bis zum Stillstand
+
+geg.:
+
+$\hspace{1cm} t_{Reak} = 0,5s $ .. Reaktionszeit
+
+$\hspace{1cm} a = -3\frac{m}{s^2}$ .. Beschleunigung
+
+$\hspace{1cm} s = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}} = 600m $ .. Gesamter Bremsweg
+
+ges.:
+
+$\hspace{1cm} v_0$
+
 Lsg.:
 
+$\hspace{1cm} $ Für \textcircled{\textbf{A}} gilt:
