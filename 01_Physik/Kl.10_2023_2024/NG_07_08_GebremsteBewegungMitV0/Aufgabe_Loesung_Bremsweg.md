@@ -160,9 +160,13 @@ $\hspace{1cm} t_{Reak} = 0,5s $ .. Reaktionszeit
 
 $\hspace{1cm} a = -3\frac{m}{s^2}$ .. Beschleunigung
 
-$\hspace{1cm} s_{\textcircled{\textbf{A}}
-\textcircled{\textbf{B}}} = 600m $ .. Gesamter Bremsweg
+$\hspace{1cm} s = s_{\textcircled{\textbf{A}}}+s_{\textcircled{\textbf{B}}} = 600m $ .. Gesamter Bremsweg
 
 ges.:
 
 $\hspace{1cm} v_0$
+
+## Lösungshinweis (2)
+
+Lsg.:
+
