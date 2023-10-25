@@ -188,6 +188,8 @@ $v$..Geschwindigkeit<br>
 
 {{2}}
 *************************
+Für eine gleichmäßig gebremste Bewegung gilt:
+
 
 *************************
 
