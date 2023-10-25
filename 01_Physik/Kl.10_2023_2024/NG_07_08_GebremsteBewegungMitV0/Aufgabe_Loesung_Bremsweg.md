@@ -232,3 +232,8 @@ $\hspace{1cm} v_0^2 = -2\cdot a \cdot s_{ges} + 2\cdot a \cdot s_{\textcircled{\
 
 Nun nutzen wir $s_{\textcircled{\textbf{A}}}$ 
 ********************
+
+{{2}}
+********************
+$\hspace{1cm} 
+********************
