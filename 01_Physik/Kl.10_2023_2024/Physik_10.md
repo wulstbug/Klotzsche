@@ -185,6 +185,7 @@ $\textcircled{\textbf{1}} s = \dfrac{1}{2} \cdot a \cdot t^2$ <span style="color
 $s$..zurückgelegte Strecke<br>
 $a$..Beschleunigung<br>
 $v$..Geschwindigkeit<br>
+$t$..Zeit
 *************************
 
 {{2}}
