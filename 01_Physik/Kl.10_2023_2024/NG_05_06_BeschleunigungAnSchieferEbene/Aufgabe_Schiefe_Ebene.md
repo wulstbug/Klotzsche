@@ -16,7 +16,7 @@
 
 # Lösung 1.
 
-![L1]()
+![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
 
 # Lösung 2.
 
