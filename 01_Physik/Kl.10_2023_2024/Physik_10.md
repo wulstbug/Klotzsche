@@ -213,7 +213,7 @@ Zeit: 6:17 min
 
 {{5}}
 *************************
-__Beispielrechung: Bremsweg eines Fahrzeugs::__
+__Beispielrechung - Bremsweg eines Fahrzeugs:__
 
 geg.:
 
