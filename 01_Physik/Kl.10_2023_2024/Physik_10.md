@@ -173,6 +173,7 @@ $\textcircled{\textbf{1}} s = \dfrac{1}{2} \cdot a \cdot t^2$  $\hspace{1cm} \te
 $s$..zurückgelegte Strecke<br>
 $a$..Beschleunigung<br>
 $v$..Geschwindigkeit<br>
+$t$..Zeit
 *************************
 
 {{1}}
