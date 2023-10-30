@@ -10,6 +10,12 @@ narrator: Ukrainian Female
 
 # Aufgabe zur Kombination von Exponential- und Sinusfunktion
 
+<H2> <span style="color:blue">***Diese Aufgabe kannst du erledigen, wenn du die KA zu deiner Zufriedenheit abgearbeitet hast.***</span></H2>
+
+[gr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/02_Mathe/Kl.10_2023_2024/Periodisch_05_06/ExpDaempfung.md#1)
+
+
+
 ## Schwingung einer Masse an einer Feder
 
 ![Federschwinger](https://www.biancahoegel.de/mechanik/bilder/Simple_harmonic_oscillator.gif)Ein Massestück hängt an einer Feder (Ruheposition). Wird die Masse um 5 cm nach unten gezogen $(s_{max})$ und anschließend losgelassen so schwingt diese nach oben und erreicht den höchsten Punkt nach $1s$. Nach weiteren $1s$ erreicht die Masse wieder den Ausgangspunkt an dem sie losgelassen wurde. (Zum Zeitpunkt t=0 bewegt sich die Masse durch die Ruheposition auf dem Weg nach oben). 
