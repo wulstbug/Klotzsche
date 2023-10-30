@@ -11,8 +11,8 @@ narrator: Ukrainian Female
 # Aufgabe zur Kombination von Exponential- und Sinusfunktion
 
 <H2> <span style="color:blue">***Diese Aufgabe kannst du erledigen, wenn du die KA zu deiner Zufriedenheit abgearbeitet hast.***</span></H2>
-
-[gr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/02_Mathe/Kl.10_2023_2024/Periodisch_05_06/ExpDaempfung.md#1)
+| | |
+| https://ogy.de/10bExpSin <br> [gr-code](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/02_Mathe/Kl.10_2023_2024/Periodisch_05_06/ExpDaempfung.md#1) | ![Federschwinger](https://www.biancahoegel.de/mechanik/bilder/Simple_harmonic_oscillator.gif) | 
 
 
 
