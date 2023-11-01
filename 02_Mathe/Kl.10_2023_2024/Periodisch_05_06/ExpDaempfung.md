@@ -64,7 +64,7 @@ $ a=5cm$, $b=\frac{2\pi }{4\,s}=\frac{\pi}{2}$
 
 __Ab jetzt ohne Einheiten (Strecke in cm und Zeit in Sekunden):__
 
-$s(t)=2\cdot sin(\frac{\pi}{2}\cdot t) $
+$s(t)=5\cdot sin(\frac{\pi}{2}\cdot t) $
 
 b.
 
