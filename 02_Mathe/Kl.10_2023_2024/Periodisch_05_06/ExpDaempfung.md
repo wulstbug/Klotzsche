@@ -40,7 +40,7 @@ e. Zeichne ein Diagramm in welches du die Funktion a(t) und die Funktion -a(t) a
 
 f. Die Funktionsgleichung der Schwingung ist nun ein Produkt aus der Amplitudenfunktion a(t) und der Sinus-Schwingung aus Aufgabe a. Notiere diese neue gedämpfte Schwingung s(t).
 
-g. Markiere dir nun in deinem Diagramm aus Aufgabe die Maxima und die Minima der Funktion s(t) entlang der Funktionen a(t) und -a(t). Markiere die ebenso die Nulldurchgänge der Sinusfunktion.
+g. Markiere dir nun in deinem Diagramm aus Aufgabe e. die Maxima und die Minima der Funktion s(t) entlang der Funktionen a(t) und -a(t). Markiere die ebenso die Nulldurchgänge der Sinusfunktion.
 
 h. Zeichne mit Hilfe der Stützstellen die gedämpfte Schwingung der Feder.
 
