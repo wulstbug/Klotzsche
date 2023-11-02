@@ -24,11 +24,17 @@ Exakt berechnet wird die __Gewichtskraft__ $F_g$ mit dem genauen Ortsfaktor $g=9
 
 $ F_g = 1500\text{kg} \cdot 9,81\frac{N}{kg} = 14715 N$.
 
-Die __Hangabtriebskraft__ $F_H$ kann (wie in der Skizze durch ein rechtwinkliges Dreieck mit dem Winkel 8° zeichnerisch ermittelt werden), hier 1,1cm, was 4400N entspricht.
+Die __Hangabtriebskraft__ $F_H$ kann (wie in der Skizze durch ein rechtwinkliges Dreieck mit dem Winkel 8° zeichnerisch ermittelt werden), hier 1,1cm, was 2200N entspricht.
 
 Berechnet werden kann die __Hangabtriebskraft__ $F_H$ mit Hilfe des Sinus.
 
-$F_H = F_g \cdot sin(\alpha) = 14715 N \cdot sin(8^\circ) = $.
+$F_H = F_g \cdot sin(\alpha) = 14715 N \cdot sin(8^\circ) = 2047 N$.
+
+Die __Normalkraft__ $F_N$ kann ebenfalls abgelesen werden (14.800 N) oder durch Berechnung ermittelt:
+
+$F_N = F_g \cdot cos(\alpha)$ oder $F_N = \sqrt{F_g^2 - F_H^2}$
+
+$F_N = $
 
 ![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
 
