@@ -25,7 +25,7 @@ __schwimmt__ wenn $F_A \geq F_g$ und __sinkt__ wenn $F_A < F_g$.
 
 ## 1. Beispiel Cola-Dosen
 
-Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original) mit identischem Volumen in Wasser getaucht.
+Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original) ins Wasser getaucht.
 
 {{0-1}}
 ************
