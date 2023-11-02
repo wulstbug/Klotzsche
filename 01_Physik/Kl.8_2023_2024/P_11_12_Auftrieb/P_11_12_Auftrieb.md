@@ -23,7 +23,7 @@ Der Körper
 __schwimmt__ wenn $F_A \geq F_g$ und __sinkt__ wenn $F_A < F_g$.
 **********************
 
-## Beispiel Cola-Dosen
+## 1. Beispiel Cola-Dosen
 
 Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original) mit identischem Volumen in Wasser getaucht.
 
@@ -37,7 +37,7 @@ __Beobachtung:__ Die Cola-Light schwimmt, die Cola-Original sinkt.
 __Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wasser. Daher sinkt die Cola-Light. Die Dichte der Cola-Light ist kleiner als die Dichte von Wasser. Daher schwimmt die Cola-Light.
 ************
 
-## Dichte verschiedener Stoffe
+## 2. Dichte verschiedener Stoffe
 
 <span style="color:blue">Aufgabe: Recherchiere mit Hilfe des Tafelwerks die Dichte von sechs verschiedenen Stoffen. Dabei sollen jeweils drei in Wasser schwimmen und drei Stoffe versinken.</span>
 
@@ -50,7 +50,7 @@ __Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wa
 | | | sinkt |
 
 
-## Beispielberechnung zur Dichte
+## 3. Beispielberechnung zur Dichte
 
 <span style="color:blue">Aufgabe: Notiere folgende Aufgabe im Hefter und löse sie anschließend.</span>
 
@@ -82,7 +82,7 @@ Dichte $\rho = \dfrac{m}{V} = \dfrac{700\text{kg}}{560\text{m}^3}=1,25\dfrac{\te
 
 Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Wasser.
 
-# Auftrieb und das Gesetz von Archimedes
+## 4. Auftrieb und das Gesetz von Archimedes
 
 > Das Gesetz von Archimedes besagt: Die Auftriebskraft eines Körpers in einer Flüssigkeit ist immer genau so groß, wie die Gewichtskraft der verdrängten Flüssigkeit $F_{g(fl)}$.
 
