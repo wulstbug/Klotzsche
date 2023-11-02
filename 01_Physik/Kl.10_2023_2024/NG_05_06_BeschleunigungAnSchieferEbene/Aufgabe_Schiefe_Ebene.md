@@ -34,7 +34,11 @@ Die __Normalkraft__ $F_N$ kann ebenfalls abgelesen werden (14.800 N) oder durch 
 
 $F_N = F_g \cdot cos(\alpha)$ oder $F_N = \sqrt{F_g^2 - F_H^2}$
 
-$F_N = $
+$F_N = 14571,8 N$
+
+Die Reibungskraft muss genauso groß sein, wie die Hangabtriebskraft, sonst würde der Körper losrollen/losrutschen.
+
+$F_R = F_H = 
 
 ![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
 
