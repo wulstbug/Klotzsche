@@ -111,14 +111,14 @@ Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Was
 
 {{1-2}}
 *****************
-| Schweben | Sinken | Steigen | Schwimmen |
+| Steigen | Sinken | Schweben | Schwimmen |
 | $F_A$ ? $F_g$ | $F_A$ ? $F_g$ | $F_A$ ? $F_g$ | $F_A$ ? $F_g$ |
 *****************
 
 {{2}}
 *****************
-| Schweben | Sinken | Steigen | Schwimmen |
-| $F_A$ = $F_g$ | $F_A$ < $F_g$ | $F_A$ > $F_g$ | $F_A$ = $F_g$ |
+| Steigen | Sinken | Schweben | Schwimmen |
+| $F_A$ > $F_g$ | $F_A$ < $F_g$ | $F_A$ = $F_g$ | $F_A$ = $F_g$ |
 
 ![SchwimmenSchwebenSinken](https://diversewolken.ddns.net/nextcloud/index.php/s/M2ji9tHNR2YKmmE/download)
 
