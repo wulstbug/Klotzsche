@@ -35,6 +35,8 @@ Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original)
 {{2}}
 ************
 __Beobachtung:__ Die Cola-Light schwimmt, die Cola-Original sinkt.
+
+![ColaDosen.png](https://diversewolken.ddns.net/nextcloud/index.php/s/zfXdq8iK5yZYGgw/download)
 ************
 
 {{3}}
