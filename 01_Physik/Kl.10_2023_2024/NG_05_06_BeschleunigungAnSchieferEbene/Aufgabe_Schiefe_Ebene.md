@@ -40,7 +40,7 @@ Die Reibungskraft muss genauso groß sein, wie die Hangabtriebskraft, sonst wür
 
 $F_R = F_H = 2047 N$
 
-![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
+![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/qYLgmd6AaqKrSnm/download)
 
 # Lösung 2.
 
