@@ -41,12 +41,12 @@ __Beobachtung:__ Die Cola-Light schwimmt, die Cola-Original sinkt.
 
 {{3}}
 ************
-__Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wasser. Daher sinkt die Cola-Original. Die Dichte der Cola-Light ist kleiner als die Dichte von Wasser. Daher schwimmt die Cola-Light.
+__Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wasser. Daher sinkt die Cola-Original. <br> Die Dichte der Cola-Light ist kleiner als die Dichte von Wasser. Daher schwimmt die Cola-Light.
 ************
 
 ## 2. Dichte verschiedener Stoffe
 
-<span style="color:blue">Aufgabe: Recherchiere mit Hilfe des Tafelwerks die Dichte von sechs verschiedenen Stoffen. Dabei sollen jeweils drei in Wasser schwimmen und drei Stoffe versinken.</span>
+<span style="color:blue">Aufgabe: Recherchiere mit Hilfe des Tafelwerks (S.76) die Dichte von sechs verschiedenen Stoffen. Dabei sollen jeweils drei Stoffe auf Wasser schwimmen und drei Stoffe versinken.</span>
 
 | Name des Stoffs |  Dichte in $\dfrac{g}{cm^3}$ | schwimmt/sinkt | 
 | | | schwimmt |
