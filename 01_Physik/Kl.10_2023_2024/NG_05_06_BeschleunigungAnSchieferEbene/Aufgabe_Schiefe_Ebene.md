@@ -22,13 +22,13 @@ In der unteren Zeichnung ist die __Gewichtskraft__ $F_g$ mit der gerundeten Erdb
 
 Exakt berechnet wird die __Gewichtskraft__ $F_g$ mit dem genauen Ortsfaktor $g=9,81\frac{N}{kg}$ und es ergibt sich:
 
-$ F_g = 1500\text{kg}14715 N$.
+$ F_g = 1500\text{kg} \cdot 9,81\frac{N}{kg} = 14715 N$.
 
 Die __Hangabtriebskraft__ $F_H$ kann (wie in der Skizze durch ein rechtwinkliges Dreieck mit dem Winkel 8° zeichnerisch ermittelt werden), hier 1,1cm, was 4400N entspricht.
 
-Berechnet kann die __Hangabtriebskraft__ $F_H$ mit Hilfe des Sinus berechnet werden.
+Berechnet werden kann die __Hangabtriebskraft__ $F_H$ mit Hilfe des Sinus.
 
-$F_H = F_g \cdot sin(\alpha)$.
+$F_H = F_g \cdot sin(\alpha) = $.
 
 ![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
 
