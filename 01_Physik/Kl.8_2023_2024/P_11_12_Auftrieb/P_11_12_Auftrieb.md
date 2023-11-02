@@ -95,7 +95,7 @@ Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Was
 <iframe src="https://learningapps.org/watch?app=2627563" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ************
 
-# Schweben, Schwimmen, Sinken, Steigen
+## 5 Schweben, Schwimmen, Sinken, Steigen
 
 {{0-1}}
 *****************
