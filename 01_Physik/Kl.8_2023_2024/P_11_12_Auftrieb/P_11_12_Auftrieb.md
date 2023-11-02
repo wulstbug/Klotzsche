@@ -39,7 +39,7 @@ __Beobachtung:__ Die Cola-Light schwimmt, die Cola-Original sinkt.
 
 {{3}}
 ************
-__Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wasser. Daher sinkt die Cola-Light. Die Dichte der Cola-Light ist kleiner als die Dichte von Wasser. Daher schwimmt die Cola-Light.
+__Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wasser. Daher sinkt die Cola-Original. Die Dichte der Cola-Light ist kleiner als die Dichte von Wasser. Daher schwimmt die Cola-Light.
 ************
 
 ## 2. Dichte verschiedener Stoffe
