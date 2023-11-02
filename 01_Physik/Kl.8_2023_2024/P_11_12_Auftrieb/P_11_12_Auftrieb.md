@@ -122,7 +122,7 @@ Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Was
 
 ![SchwimmenSchwebenSinken](https://diversewolken.ddns.net/nextcloud/index.php/s/M2ji9tHNR2YKmmE/download)
 
-<span style="color:blue">Skizziere dieses Bild Skizze in deinen Hefter.</span>
+<span style="color:blue">Skizziere dieses Bild in deinen Hefter.</span>
 *****************
 
 {{3}}
