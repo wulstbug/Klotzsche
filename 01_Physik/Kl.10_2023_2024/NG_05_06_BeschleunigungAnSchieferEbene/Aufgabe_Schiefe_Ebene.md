@@ -28,7 +28,7 @@ Die __Hangabtriebskraft__ $F_H$ kann (wie in der Skizze durch ein rechtwinkliges
 
 Berechnet werden kann die __Hangabtriebskraft__ $F_H$ mit Hilfe des Sinus.
 
-$F_H = F_g \cdot sin(\alpha) = 14715 N \cdot sin(30^\circ) = $.
+$F_H = F_g \cdot sin(\alpha) = 14715 N \cdot sin(8^\circ) = $.
 
 ![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
 
