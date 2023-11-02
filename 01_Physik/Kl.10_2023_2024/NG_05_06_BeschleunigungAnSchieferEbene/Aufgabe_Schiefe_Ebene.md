@@ -16,10 +16,11 @@
 
 # Lösung 1.
 
-Lösungshinweise: Man kann hier zweierlei vorgehen. Zum einen können alle Kräfte (bis auf die Gewichtskraft) grafisch ermittelt werden.
-In der unteren Zeichnung ist die Gewichtskraft mit der gerundeten Erdbeschleunigung von $g=10\frac{N}{kg} berechnet: $F_g = m \cdot g = 1.500 kg \cdot 10 \frac{N}{kg} = 15.000 N$.
+Lösungshinweise: Man kann hier zweierlei vorgehen. Zum einen können alle Kräfte (bis auf die Gewichtskraft) grafisch ermittelt werden. Zum anderen können alle Kräfte berechnet werden.
 
-Exakt berechnet wird die Gewichtskraft mit dem genauen Ortsfaktor $g=9,81\frac{N}{kg}$ und es ergibt sich:
+In der unteren Zeichnung ist die __Gewichtskraft $F_g$__ mit der gerundeten Erdbeschleunigung von $g=10\frac{N}{kg}$ berechnet: $F_g = m \cdot g = 1.500 kg \cdot 10 \frac{N}{kg} = 15.000 N$.
+
+Exakt berechnet wird die __Gewichtskraft $F_g$__ mit dem genauen Ortsfaktor $g=9,81\frac{N}{kg}$ und es ergibt sich:
 
 $ F_g = 14715 N$.
 
