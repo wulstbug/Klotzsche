@@ -18,15 +18,15 @@
 
 Lösungshinweise: Man kann hier zweierlei vorgehen. Zum einen können alle Kräfte (bis auf die Gewichtskraft) grafisch ermittelt werden. Zum anderen können alle Kräfte berechnet werden.
 
-In der unteren Zeichnung ist die __Gewichtskraft $F_g$__ mit der gerundeten Erdbeschleunigung von $g=10\frac{N}{kg}$ berechnet: $F_g = m \cdot g = 1.500 kg \cdot 10 \frac{N}{kg} = 15.000 N$.
+In der unteren Zeichnung ist die __Gewichtskraft__ $F_g$ mit der gerundeten Erdbeschleunigung von $g=10\frac{N}{kg}$ berechnet: $F_g = m \cdot g = 1.500 kg \cdot 10 \frac{N}{kg} = 15.000 N$.
 
-Exakt berechnet wird die __Gewichtskraft $F_g$__ mit dem genauen Ortsfaktor $g=9,81\frac{N}{kg}$ und es ergibt sich:
+Exakt berechnet wird die __Gewichtskraft__ $F_g$ mit dem genauen Ortsfaktor $g=9,81\frac{N}{kg}$ und es ergibt sich:
 
 $ F_g = 14715 N$.
 
-Die __Hangabtriebskraft $F_H$__ kann (wie in der Skizze durch ein rechtwinkliges Dreieck mit dem Winkel 8° zeichnerisch ermittelt werden), hier 1,1cm, was 4400N entspricht.
+Die __Hangabtriebskraft__ $F_H$ kann (wie in der Skizze durch ein rechtwinkliges Dreieck mit dem Winkel 8° zeichnerisch ermittelt werden), hier 1,1cm, was 4400N entspricht.
 
-
+Berechnet kann die __Hangabtriebskraft__ $F_H$ mit Hilfe des Sinus berechnet werden.
 
 ![L1](https://diversewolken.ddns.net/nextcloud/index.php/s/AGcpFGySB5mbyb8/download)
 
