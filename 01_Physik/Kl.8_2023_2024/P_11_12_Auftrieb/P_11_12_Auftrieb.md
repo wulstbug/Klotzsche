@@ -27,19 +27,14 @@ __schwimmt__ wenn $F_A \geq F_g$ und __sinkt__ wenn $F_A < F_g$.
 
 Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original) ins Wasser getaucht.
 
-{{0-1}}
-************
-!?[ColaDosenExperiment](https://www.youtube.com/watch?v=j3xLzDcYAGg)
-************
-
-{{2}}
+{{1}}
 ************
 __Beobachtung:__ Die Cola-Light schwimmt, die Cola-Original sinkt.
 
 ![ColaDosen.png](https://diversewolken.ddns.net/nextcloud/index.php/s/zfXdq8iK5yZYGgw/download)
 ************
 
-{{3}}
+{{2}}
 ************
 __Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wasser. Daher sinkt die Cola-Original. <br> Die Dichte der Cola-Light ist kleiner als die Dichte von Wasser. Daher schwimmt die Cola-Light.
 ************
