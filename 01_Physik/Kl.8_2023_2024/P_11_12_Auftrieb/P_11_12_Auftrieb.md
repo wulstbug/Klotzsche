@@ -82,7 +82,7 @@ Volumen $V = 10\text{m}\cdot 7\text{m} \cdot 8\text{m} = 560\text{m}^3$
 
 Dichte $\rho = \dfrac{m}{V} = \dfrac{700\text{kg}}{560\text{m}^3}=1,25\dfrac{\text{kg}}{\text{m}^3}$
 
-Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Wasser.
+Antwort: Der Körper schwimmt, da seine Dichte kleiner ist, als die Dichte von Wasser.
 
 ## 4. Auftrieb und das Gesetz von Archimedes
 
