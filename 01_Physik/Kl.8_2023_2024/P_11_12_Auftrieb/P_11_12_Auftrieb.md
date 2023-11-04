@@ -78,13 +78,20 @@ Mit diesen Angaben lässt sich die Aufgabe berechnen.
 
 Lösung: 
 
-Volumen $V = 10\text{m}\cdot 7\text{m} \cdot 8\text{m} = 560\text{m}^3$
+geg.: 
 
-Masse $m=700\text{t}=700.000\text{kg}$
+$\hspace{1cm}$ Volumen $V = 10\text{m}\cdot 7\text{m} \cdot 8\text{m} = 560\text{m}^3$
 
-Dichte $\rho = \dfrac{m}{V} = \dfrac{700.000\text{kg}}{560\text{m}^3}$
+$\hspace{1cm}$  Masse $m=700\text{t}=700.000\text{kg}$
 
-Dichte $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
+ges.: 
+$\hspace{1cm}$ Dichte $\rho$
+
+Lsg.: 
+
+$\hspace{1cm}$  $\rho = \dfrac{m}{V} = \dfrac{700.000\text{kg}}{560\text{m}^3}$
+
+$\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 
 Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Wasser.
 
