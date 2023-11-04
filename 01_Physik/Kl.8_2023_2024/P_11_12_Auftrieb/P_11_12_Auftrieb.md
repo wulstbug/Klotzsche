@@ -97,7 +97,9 @@ $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 
 Antwort: Der Körper [[ (sinkt) | schwimmt ]], da seine Dichte [[ kleiner | (größer) ]] als die Dichte von Wasser ist.
 
-Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
+Anhand der Dichte könnte das Material des Körpers 
+<!-- data-solution-button="off" -->[[ Ziegelstein ]] 
+sein.
 
 
 ## 4. Auftrieb und das Gesetz von Archimedes
