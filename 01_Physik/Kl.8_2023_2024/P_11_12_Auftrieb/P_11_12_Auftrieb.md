@@ -56,7 +56,7 @@ __Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wa
 
 <span style="color:blue">Aufgabe: Notiere folgende Aufgabe im Hefter und löse sie anschließend.</span>
 
-Aufgabe: Ein Quader aus einem unbekannten Material hat eine Masse von 700 kg und die Seitenlängen 10m x 7m x 8 m. Berechne das Volumen V, berechne die Dichte $\rho$ des Körpers entscheide, ob der Körper schwimmt oder sinkt.
+Aufgabe: Ein Quader aus einem unbekannten Material hat eine Masse von 700 t und die Seitenlängen 10m x 7m x 8 m. Berechne das Volumen V, berechne die Dichte $\rho$ des Körpers entscheide, ob der Körper schwimmt oder sinkt.
 
 ### Lösungshinweis Beispielrechnung Dichte
 
@@ -80,7 +80,9 @@ Lösung:
 
 Volumen $V = 10\text{m}\cdot 7\text{m} \cdot 8\text{m} = 560\text{m}^3$
 
-Dichte $\rho = \dfrac{m}{V} = \dfrac{700\text{kg}}{560\text{m}^3}=1,25\dfrac{\text{kg}}{\text{m}^3}$
+Masse $m=700\text{t}=700.000\text{kg}$
+
+Dichte $\rho = \dfrac{m}{V} = \dfrac{700.000\text{kg}}{560\text{m}^3}=1,25\dfrac{\text{kg}}{\text{m}^3}$
 
 Antwort: Der Körper schwimmt, da seine Dichte kleiner ist, als die Dichte von Wasser.
 
