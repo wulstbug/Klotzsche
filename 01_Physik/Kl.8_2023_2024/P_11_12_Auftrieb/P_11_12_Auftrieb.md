@@ -130,17 +130,11 @@ Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
 <span style="color:blue">Ergänze unter der Überschrift (oben) folgende Tabelle im Hefter und ersetze die Fragezeichen durch sinnvolle Relationen (>,<,=).</span>
 *****************
 
-{{1-2}}
-*****************
 | Steigen | Sinken | Schweben | Schwimmen |
-| $F_A$ ? $F_g$ | $F_A$ ? $F_g$ | $F_A$ ? $F_g$ | $F_A$ ? $F_g$ |
-*****************
+| $F_A$ [[ > ]] $F_g$ | $F_A$ [[ < ]] $F_g$ | $F_A$ [[ = ]]$F_g$ | $F_A$ [[ = ]] $F_g$ |
 
 {{2}}
-*****************
-| Steigen | Sinken | Schweben | Schwimmen |
-| $F_A$ > $F_g$ | $F_A$ < $F_g$ | $F_A$ = $F_g$ | $F_A$ = $F_g$ |
-
+****************
 ![SchwimmenSchwebenSinken](https://diversewolken.ddns.net/nextcloud/index.php/s/M2ji9tHNR2YKmmE/download)
 
 <span style="color:blue">Skizziere dieses Bild in deinen Hefter.</span>
@@ -152,4 +146,3 @@ Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
 
 <span style="color:orange">Merke: Wenn ein Körper auf dem Wasser schwimmt, dann ist er so tief ins Wasser eingetaucht, sodass Auftriebskraft und Gewichtskraft identisch sind (siehe Schiffe).</span> 
 *****************
-
