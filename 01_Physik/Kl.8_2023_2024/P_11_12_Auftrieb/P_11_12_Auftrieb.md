@@ -95,7 +95,7 @@ $\hspace{1cm}$  $\rho = \dfrac{m}{V} = \dfrac{700.000\text{kg}}{560\text{m}^3}$
 
 $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 
-Antwort: Der Körper [[ sinkt ]], da seine Dichte [[ größer ]] ist, als die Dichte von.
+Antwort: Der Körper [[ sinkt | schwimmt ]], da seine Dichte [[ kleiner | größer ]] ist, als die Dichte von.
 
 Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
 
