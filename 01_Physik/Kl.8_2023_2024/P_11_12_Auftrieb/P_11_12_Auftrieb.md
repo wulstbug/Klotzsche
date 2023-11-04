@@ -127,11 +127,12 @@ Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
 
 {{1}}
 *****************
-<span style="color:blue">Ergänze unter der Überschrift (oben) folgende Tabelle im Hefter und ersetze die Fragezeichen durch sinnvolle Relationen (>,<,=).</span>
-*****************
+<span style="color:blue">Ergänze unter der Überschrift (oben) folgende Tabelle im Hefter und ersetze die Fragezeichen durch sinnvolle Relationen (>,<,=). Du kannst sie vorher hier überprüfen.</span>
+
 
 | Steigen | Sinken | Schweben | Schwimmen |
 | $F_A$ [[ > ]] $F_g$ | $F_A$ [[ < ]] $F_g$ | $F_A$ [[ = ]]$F_g$ | $F_A$ [[ = ]] $F_g$ |
+*****************
 
 {{2}}
 ****************
