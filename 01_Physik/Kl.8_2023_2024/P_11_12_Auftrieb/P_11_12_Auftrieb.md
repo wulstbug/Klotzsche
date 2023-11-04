@@ -136,9 +136,9 @@ Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
 
 {{2}}
 ****************
-![SchwimmenSchwebenSinken](https://diversewolken.ddns.net/nextcloud/index.php/s/M2ji9tHNR2YKmmE/download)
-
 <span style="color:blue">Skizziere dieses Bild in deinen Hefter.</span>
+
+![SchwimmenSchwebenSinken](https://diversewolken.ddns.net/nextcloud/index.php/s/M2ji9tHNR2YKmmE/download)
 *****************
 
 {{3}}
