@@ -93,7 +93,9 @@ $\hspace{1cm}$  $\rho = \dfrac{m}{V} = \dfrac{700.000\text{kg}}{560\text{m}^3}$
 
 $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 
-Antwort: Der Körper sinkt, da seine Dichte größer ist, als die Dichte von Wasser.
+Antwort: Der Körper [[ sinkt ]], da seine Dichte [[ größer ]] ist, als die Dichte von.
+
+
 
 ## 4. Auftrieb und das Gesetz von Archimedes
 
