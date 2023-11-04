@@ -58,6 +58,8 @@ __Erklärung:__ Die Dichte der Cola-Original ist größer, als die Dichte von Wa
 
 Aufgabe: Ein Quader aus einem unbekannten Material hat eine Masse von 700 t und die Seitenlängen 10m x 7m x 8 m. Berechne das Volumen V, berechne die Dichte $\rho$ des Körpers entscheide, ob der Körper schwimmt oder sinkt.
 
+Aus welchem Material könnte der Körper sein?
+
 ### Lösungshinweis Beispielrechnung Dichte
 
 Das Volumen eines Quaders berechnet sich aus
@@ -95,6 +97,7 @@ $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 
 Antwort: Der Körper [[ sinkt ]], da seine Dichte [[ größer ]] ist, als die Dichte von.
 
+Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
 
 
 ## 4. Auftrieb und das Gesetz von Archimedes
