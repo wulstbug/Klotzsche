@@ -104,7 +104,6 @@ $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 <!-- data-solution-button="off" -->
 Antwort: Der Körper [[ (sinkt) | schwimmt ]], da seine Dichte [[ kleiner | (größer) ]] als die Dichte von Wasser ist.
 
-<!-- data-solution-button="off" -->
 Anhand der Dichte könnte das Material des Körpers [[ Ziegel ]] sein.
 
 
