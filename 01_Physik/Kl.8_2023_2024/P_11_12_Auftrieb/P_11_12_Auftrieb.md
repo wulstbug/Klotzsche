@@ -30,7 +30,7 @@ Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original)
 {{0-1}}
 ************
 !?[ColaDosenExperiment](https://www.youtube.com/watch?v=j3xLzDcYAGg)
-************
+************ 
 
 {{1}}
 ************
@@ -105,7 +105,7 @@ $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 Antwort: Der Körper [[ (sinkt) | schwimmt ]], da seine Dichte [[ kleiner | (größer) ]] als die Dichte von Wasser ist.
 
 <!-- data-solution-button="off" -->
-Anhand der Dichte könnte das Material des Körpers [[ Ziegelstein ]] sein.
+Anhand der Dichte könnte das Material des Körpers [[ Ziegel ]] sein.
 
 
 ## 4. Auftrieb und das Gesetz von Archimedes
