@@ -19,18 +19,12 @@ Jeder Körper der <span style="color:blue">Gewichtskraft $F_g$</span> erfährt i
 
 {{2}}
 **********************
-Der Körper
-__schwimmt__ wenn $F_A \geq F_g$ und __sinkt__ wenn $F_A < F_g$.
+Der Körper __schwimmt__, wenn $F_A \geq F_g$ und __sinkt__ wenn $F_A < F_g$.
 **********************
 
 ## 1. Beispiel Cola-Dosen
 
 Im Demonstrationsexperiment werden zwei Coladosen (Cola-Light und Cola-Original) ins Wasser getaucht.
-
-{{0-1}}
-************
-!?[ColaDosenExperiment](https://www.youtube.com/watch?v=j3xLzDcYAGg)
-************ 
 
 {{1}}
 ************
