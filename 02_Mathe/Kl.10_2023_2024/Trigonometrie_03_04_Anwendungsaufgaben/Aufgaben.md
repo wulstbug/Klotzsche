@@ -22,7 +22,7 @@ narrator: Ukrainian Female
 
 __Durchmesser eines Werkstücks berechnen__
 
-Aus einem Drehteil soll ein Sechskant gefräst werden. Berechne den Durchmesser des Drehteils (schwarze runde Form), aus dem der Sechskant (blaue Form) für eine Schlüsselweite (orange Linie) von 20 mm gefertigt werden kann?
+Aus einem Drehteil soll ein Sechskant gefräst werden. Berechne den Durchmesser des Drehteils (schwarze runde Form), aus dem der Sechskant (blaue Form) für eine Schlüsselweite (orange Linie) von 20 mm gefertigt werden kann.
 
 Geg.: Schlüsselweite = 20 mm
 Ges.:	Durchmesser D des Drehteils
