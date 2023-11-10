@@ -14,6 +14,8 @@ narrator: Ukrainian Female
 
 ??[Anwendungsaufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/KxStZES6TfN2cY5)
 
+https://diversewolken.ddns.net/nextcloud/index.php/s/KxStZES6TfN2cY5
+
 ### 8. Messtechnik - Sechskant
 
 __Durchmesser eines Werkstücks berechnen__
