@@ -14,7 +14,9 @@ narrator: Ukrainian Female
 
 ??[Anwendungsaufgaben](https://diversewolken.ddns.net/nextcloud/index.php/s/KxStZES6TfN2cY5)
 
-https://diversewolken.ddns.net/nextcloud/index.php/s/KxStZES6TfN2cY5
+[qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/KxStZES6TfN2cY5)
+
+[pdf](https://diversewolken.ddns.net/nextcloud/index.php/s/KxStZES6TfN2cY5)
 
 ### 8. Messtechnik - Sechskant
 
