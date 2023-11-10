@@ -263,3 +263,66 @@ narrator: Ukrainian Female
         e. Zeige, dass die Funktionen $f_1(x)$ und $f_2(x)$ an der Stelle x=0 denselben Funktionswert haben.<br> {7}{<span style="color:red"> $f_1(0)=e^0+1=1+1=2$ und $2\cdot sin(0,5\cdot 0)+2 = 0+2 = 2$</span>}
 
 
+# TÜ #9
+
+<div style="float: right; height: 100px; position: relative; width: 200px; overflow: hidden; top: -80px;"> <div style="overflow: hidden;"> </div> <div> <iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:08:30&showbuttons=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe> </div> </div>
+
+
+1. ![9_1.png](https://diversewolken.ddns.net/nextcloud/index.php/s/a9CXQCjMHHPgrE2/download)Ermittle die Größe von $\alpha$ im Bogenmaß. (1P)
+
+{1}{<span style="color:red">$\hspace{1cm} 5\alpha=\pi \rightarrow \alpha=\dfrac{\pi}{5}$</span>}
+
+2. Stelle folgende Formel nach der angegebenen Größe um (2P). 
+
+$\hspace{1cm}$ a) $ A = \dfrac{a+c}{2}\cdot h $ (nach c) $\hspace{0.5cm}$ b) $ \dfrac{sin(\alpha)}{\sin(\beta)} = \dfrac{a}{b} $ (nach b)
+
+{2}{<span style="color:red">$\hspace{1cm} a)\,\dfrac{2A}{h} - a = c $</span>} {3}{<span style="color:red">$\hspace{2cm} b)\,b = a\cdot\dfrac{sin(\beta)}{\sin(\alpha)}$</span>}
+
+
+
+3. Eine quadratische Rasenfläche hat den Umfang 200 m. Gib den Flächeninhalt der Rasenfläche an (1P).
+
+{4}{<span style="color:red">$\hspace{1cm}$ Seitenlänge ist 50m, daher $A=(50m)^2=2500m^2$</span>}
+
+4. Drei Massestücke werden auf eine Waage gelegt. Bestimme die angezeigte Masse in der Einheit kg: 3,4 kg + 200g + 0,04t (1P).
+
+{5}{<span style="color:red">$\hspace{1cm}$ 3,4kg + 0,2kg + 40kg = 43,6kg</span>}
+
+
+5. Gib den Wertebereich der Funktion $f(x) = -4 \cdot \big[cos(3x-\pi/2) + 2\big]$ an (1P).
+
+{6}{<span style="color:red">$\hspace{1cm}$ $ W_f = \{y \in \R: y \in [-12;-4] \} $ oder $W_f = \{y \in \R: -12 \leq y \leq -4 \}$</span>}
+
+6. Gibt die Periodenlänge der Funktion $f(x)$ aus Aufgabe 5. an (1P).
+
+{7}{<span style="color:red">$\hspace{1cm}$ $ T_f = \dfrac{2\pi}{3} $</span>}
+
+7. Folgende Gleichung sei erfüllt. sin(x) = cos(x). Bestimme eine mögliche Lösung für x.
+
+{{8}}
+**************
+<span style="color:red">
+| | |
+| ![SinCos](https://diversewolken.ddns.net/nextcloud/index.php/s/YxMx7rfSSJ9Ctjz/download) |$ x = \frac{\pi}{4}$ oder <br> $ x = \frac{5\pi}{4}$|
+</span>
+**************
+
+# TÜ #10
+
+<div style="float: right; height: 100px; position: relative; width: 200px; overflow: hidden; top: -80px;"> <div style="overflow: hidden;"> </div> <div> <iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:08:30&showbuttons=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe> </div> </div>
+
+
+![10_Dreieck.png](https://diversewolken.ddns.net/nextcloud/index.php/s/2csMyoRsMJoPcnL/download) 1.  Benenne die Seite c im Bezug auf Winkel $\alpha$. {1}{<span style="color:red">Ankathete</span>} <br> 2. Benenne die Seite b. (1P). {2}{<span style="color:red">Hypothenuse</span>} <br> 3. Bestimme die Länge von a (1P). {3}{<span style="color:red">$\sqrt{5^2-4^2}=3$</span>} <br> 4. Ergänze mit Formelzeichen: $sin(\alpha) = .. $ {4}{<span style="color:red">$\dfrac{a}{b}$</span>} <br> 5. Ergänze mit Formelzeichen: $b\cdot cos(\beta)  = .. $ {5}{<span style="color:red">$a$</span>}
+
+Nutze folgende Wertetabelle: 
+
+![10_WTSinCos.png](https://diversewolken.ddns.net/nextcloud/index.php/s/Bq5pXCERmHkWxbN/download) 6. Nun sei im obigen Beispiel c = 2,5 cm und b = 5cm. Zeige dass dann $\alpha=60^\circ$ gilt. {6}{<span style="color:red">$cos(\alpha)=\dfrac{c}{b}=\dfrac{2,5cm}{5cm}=\dfrac{1}{2} \Rightarrow \alpha = 60^\circ$</span>} <br> 7. Bestimme $a$ (ohne Nutzung des Satz von Pythagoras). {7}{<span style="color:red">$sin(\alpha)=\dfrac{a}{b}  \Rightarrow \dfrac{\sqrt{3}\cdot b}{2} = a$ </span>} <br> 8. Gib den Punkt P an, an dem sich sin(x) und cos(x) schneiden (x im Bogenmaß). {8}{<span style="color:red">$sin(45^\circ)=cos(45^\circ)=\dfrac{\sqrt{2}}{2} \Rightarrow P\Big( \dfrac{\pi}{4} | \dfrac{\sqrt{2}}{2} \Big)$ oder $P\Big( \dfrac{5\pi}{4} | \dfrac{-\sqrt{2}}{2} \Big)$ </span>}
+
+{{9}}
+**************
+<span style="color:red">
+| | |
+| ![SinCos](https://diversewolken.ddns.net/nextcloud/index.php/s/YxMx7rfSSJ9Ctjz/download) |$ x = \frac{\pi}{4}$ oder <br> $ x = \frac{5\pi}{4}$|
+</span>
+**************
+
