@@ -1,6 +1,6 @@
 # Protokoll und Bewertung
 
-![Protokol.png](https://diversewolken.ddns.net/nextcloud/index.php/s/Ms68gdZYoqxzGMX/download)
+![Protokol.png](https://diversewolken.ddns.net/nextcloud/index.php/s/Ms68gdZYoqxzGMX/download) <span style="color:red">Unter Test der Schaltung beschreibt ihr bitte, wie weit ihr mit eurer Schaltung gekommen seid und welche Arbeitsschritt noch ausstanden.</span>
 
 # Trockenheitsanzeiger
 
