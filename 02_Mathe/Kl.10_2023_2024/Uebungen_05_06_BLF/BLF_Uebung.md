@@ -73,7 +73,7 @@ b) $A = \dfrac{1}{2} \cdot  Grundseite \cdot Höhe$
 
 c) Ergänze das Dreieck zu einem Rechteck, dann verdoppelt sich der Flächeninhalt.
 
-d) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x$. Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
+e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x$. Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
 
 ## Lösungshinweis 2)
 
