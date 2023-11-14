@@ -141,7 +141,7 @@ $sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overli
 
 $ \alpha = sin^{-1}\Big(\dfrac{\sqrt{8}}{\sqrt{80}}\Big) = 18,43^\circ$ <br>
 
-Der Winkel $\beta$ ist demzufolge $90^\circ-\alpha=$
+Der Winkel $\beta$ ist demzufolge $90^\circ-\alpha=71,57^\circ$
 
 
 
