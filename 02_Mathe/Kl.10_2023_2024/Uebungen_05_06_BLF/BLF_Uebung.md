@@ -59,7 +59,9 @@ Der See ist 150 Meter breit.
     c)Aus den Punkten $A,$ $B,$ $C$ und $D$ soll ein Viereck gebildet werden, dessen Flächeninhalt doppelt so groß ist wie der des Dreiecks $ABC.$
     Gib die Koordinaten eines solchen Punktes $D$ an.
 
-    d)Begründe, dass es keine Funktion $f$ mit $f(x) = a\cdot b^x$ $(a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte $A$, $B$ und $C$ verläuft.
+    d) Bestimme die Größe aller Winkel des Dreiecks.
+
+    e)Begründe, dass es keine Funktion $f$ mit $f(x) = a\cdot b^x$ $(a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte $A$, $B$ und $C$ verläuft.
 
 <br> <br> <br>
 
@@ -72,6 +74,8 @@ a) Gilt für ein Dreieck der Satz des Pythagoras so ist es rechtwinklig. Wenn du
 b) $A = \dfrac{1}{2} \cdot  Grundseite \cdot Höhe$
 
 c) Ergänze das Dreieck zu einem Rechteck, dann verdoppelt sich der Flächeninhalt.
+
+d) 
 
 e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x$. Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
 
