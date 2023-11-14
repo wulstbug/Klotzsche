@@ -133,7 +133,7 @@ c)Am einfachsten ist es, das Dreieck zu einem Rechteck zu ergänzen. Ein möglic
 
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
 
-d) 
+d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da die $$
 
 ## Lösung 1e)
 
