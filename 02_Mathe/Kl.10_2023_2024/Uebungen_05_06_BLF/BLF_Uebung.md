@@ -59,7 +59,7 @@ Der See ist 150 Meter breit.
     c)Aus den Punkten $A,$ $B,$ $C$ und $D$ soll ein Viereck gebildet werden, dessen Flächeninhalt doppelt so groß ist wie der des Dreiecks $ABC.$
     Gib die Koordinaten eines solchen Punktes $D$ an.
 
-    d) Bestimme die Größe aller Winkel des Dreiecks.
+    d) Nutze die Definition von sin und cos im rechtwinkligen Dreieck.
 
     e)Begründe, dass es keine Funktion $f$ mit $f(x) = a\cdot b^x$ $(a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte $A$, $B$ und $C$ verläuft.
 
@@ -75,7 +75,7 @@ b) $A = \dfrac{1}{2} \cdot  Grundseite \cdot Höhe$
 
 c) Ergänze das Dreieck zu einem Rechteck, dann verdoppelt sich der Flächeninhalt.
 
-d) 
+d) Nutze die Definition von sin und cos im rechtwinkligen Dreieck.
 
 e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x$. Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
 
