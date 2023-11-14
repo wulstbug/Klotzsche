@@ -137,9 +137,12 @@ d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da $\overline{AB}$ die 
 
 Es gilt:<br>
 
-$sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overline{BC}}{\overline{AB}} = \dfrac{\sqrt{8}}{\sqrt{80}}$ $
+$sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overline{BC}}{\overline{AB}} = \dfrac{\sqrt{8}}{\sqrt{80}}$ <br>
 
-$ \alpha = sin^{-1}\Big(\dfrac{\sqrt{8}}{\sqrt{80}}\Big) = 18,43^\circ$
+$ \alpha = sin^{-1}\Big(\dfrac{\sqrt{8}}{\sqrt{80}}\Big) = 18,43^\circ$ <br>
+
+Der Winkel $\beta$ ist demzufolge $90^\circ-\alpha=$
+
 
 
 ## Lösung 1e)
