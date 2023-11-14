@@ -133,7 +133,12 @@ c)Am einfachsten ist es, das Dreieck zu einem Rechteck zu ergänzen. Ein möglic
 
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
 
-d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da die $$
+d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da $\overline{AB}$ die längste Seite des Dreiecks darstellt und somit die Hypothenuse ist. <br>
+
+Es gilt:<br>
+
+$sin(\alpha) = 
+
 
 ## Lösung 1e)
 
