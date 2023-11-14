@@ -137,7 +137,7 @@ d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da $\overline{AB}$ die 
 
 Es gilt:<br>
 
-$sin(\alpha) = 
+$sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overline{AB}
 
 
 ## Lösung 1e)
