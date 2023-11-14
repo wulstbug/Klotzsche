@@ -139,7 +139,7 @@ Es gilt:<br>
 
 $sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overline{BC}}{\overline{AB}} = \dfrac{\sqrt{8}}{\sqrt{80}}$ $
 
-$ \alpha = sin^{-1}(0,1) = 5,7^\circ$
+$ \alpha = sin^{-1}\Big(\dfrac{\sqrt{8}}{\sqrt{80}}\Big) = 18,43^\circ$
 
 
 ## Lösung 1e)
