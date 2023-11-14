@@ -137,7 +137,9 @@ d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da $\overline{AB}$ die 
 
 Es gilt:<br>
 
-$sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overline{BC}}{\overline{AB}} = \dfrac{\overline{BC}}{\overline{AB}}$
+$sin(\alpha) = \dfrac{\text{Gegenkathete}}{\text{Hypothenuse}} =  \dfrac{\overline{BC}}{\overline{AB}} = \dfrac{8}{80}$ $
+
+$ \alpha = sin^{-1}(0,1) = 5,7^\circ$
 
 
 ## Lösung 1e)
