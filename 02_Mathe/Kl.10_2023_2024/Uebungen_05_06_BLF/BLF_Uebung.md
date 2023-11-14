@@ -20,36 +20,10 @@ narrator: Ukrainian Female
 
         b)Gib eine Funktionsgleichung von $g$ an.
 
-{{2}}
-*********************
-<span style="color:orange">
-    a)![lsg2](https://diversewolken.ddns.net/nextcloud/index.php/s/SkjqqABbFHwL5JF/download)
-
-    b) Die Steigung $\dfrac{-3}{2}$ und die Verschiebung um 2 Einheiten nach unten lassen sich aus der Abbildung aus Teilaufgabe a) ablesen. <br>
-
-    Die Funktionsgleichung von $g$ lautet $g(x)=-\dfrac{-3}{2}\cdot x - 2$
-
-</span>
-*********************
-
 3. ![see](https://diversewolken.ddns.net/nextcloud/index.php/s/tX94KG9sazQofPk/download) Leon möchte die Breite eines Sees bestimmen und fertigt eine Skizze an. Die gestrichelten Linien verlaufen parallel. Berechne die Breite des Sees.
-
-{{3}}
-*********************
-<span style="color:orange">
-Die Breite x des Sees lässt sich mit dem Strahlensatz berechnen.
-
-![LsgSee](https://diversewolken.ddns.net/nextcloud/index.php/s/8tRikC33bziZGNC/download)
-
-Der See ist 150 Meter breit.
-</span>
-*********************
 
 ## Lösung 1
 
-{{1}}
-*********************
-<span style="color:orange">
 Der Graph von f bildet eine um 2 Einheiten nach oben verschobene Kosinusfunktion ab:<br>
 
 $\hspace{1cm} f(x) = cos(x) + 2$ <br>
@@ -57,8 +31,22 @@ $\hspace{1cm} f(x) = cos(x) + 2$ <br>
 Der Graph von g bildet eine gespiegelte und um den Faktor 3 gestreckte Sinusfunktion ab: <br>
 
 $\hspace{1cm} g(x) = -3 \cdot sin(x)$ <br>
-</span>
-*********************
+
+## Lösung 2
+
+    a)![lsg2](https://diversewolken.ddns.net/nextcloud/index.php/s/SkjqqABbFHwL5JF/download)
+
+    b) Die Steigung $\dfrac{-3}{2}$ und die Verschiebung um 2 Einheiten nach unten lassen sich aus der Abbildung aus Teilaufgabe a) ablesen. <br>
+
+    Die Funktionsgleichung von $g$ lautet $g(x)=-\dfrac{-3}{2}\cdot x - 2$
+
+## Lösung 3
+
+Die Breite x des Sees lässt sich mit dem Strahlensatz berechnen.
+
+![LsgSee](https://diversewolken.ddns.net/nextcloud/index.php/s/8tRikC33bziZGNC/download)
+
+Der See ist 150 Meter breit.
 
 # BLF Übung mit Hilfsmitteln
 
