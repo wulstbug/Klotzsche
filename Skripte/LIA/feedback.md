@@ -117,5 +117,4 @@ Z.B. im Textbuch Modus (Auch falls mal alles Offline ist?)
 
 _es ist spät geworden_
 
-??[pinky]()"https://giphy.com/embed/A3556xyE9eMyE7ETv2")
-
+<iframe src="https://giphy.com/embed/A3556xyE9eMyE7ETv2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
