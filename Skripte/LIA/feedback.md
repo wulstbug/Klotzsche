@@ -83,7 +83,7 @@ Es passiert mir häufiger, dass ich den Bildschirm effektiver nutzen will und mi
 
 In folgendem Beispiel sieht man was ich meine. Ich hätte gern das Bild direkt neben der Lösung (ist mir nicht gelungen.)
 
-??[bsp1](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/Skripte/bsp1.md)
+??[bsp1](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/Skripte/LIA/bsp1.md)
 
 ### 2. Farbiger Text 
 
