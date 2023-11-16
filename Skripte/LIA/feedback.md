@@ -113,4 +113,5 @@ Z.B. im Textbuch Modus (Auch falls mal alles Offline ist?)
 
 <span style="color:blue">***Oder gibt es einen Workaround?***</span>
 
-# Insgesamt
+# Danke fürs lesen
+
