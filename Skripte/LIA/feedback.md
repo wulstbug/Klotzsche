@@ -99,7 +99,7 @@ Momentan nutze ich CSS als Umweg, gibt es eine einfachere Möglichkeit Text farb
 
 Zum Effektiven Teilen mit Lernenden würde ich gern im Link bereits einige Einstellungen mit übergeben z.B.:
 
-Modus: "Präsentation" (in nightly "Navigation" - was ich beinahe ausschließlich verwende wegen der besser genutzten Bildschirmfläche).
+Modus: "Präsentation" (in nightly "Navigation" - was ich beinahe immer verwende wegen der besser genutzten Bildschirmfläche).
 
 Schriftgröße: Medium
 
@@ -112,3 +112,5 @@ Z.B. im Textbuch Modus (Auch falls mal alles Offline ist?)
 <span style="color:orange">***<H5>Das wäre großartig!!</H5>***</span>
 
 <span style="color:blue">***Oder gibt es einen Workaround?***</span>
+
+# Insgesamt
