@@ -115,3 +115,4 @@ Z.B. im Textbuch Modus (Auch falls mal alles Offline ist?)
 
 # Danke fürs Lesen
 
+<iframe src="https://giphy.com/embed/A3556xyE9eMyE7ETv2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hulu-animaniacs-the-A3556xyE9eMyE7ETv2">via GIPHY</a></p>
