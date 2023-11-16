@@ -81,6 +81,10 @@ Nun noch einige LIA-spezifische Fragen/Anmerkungen, die mir im Laufe meiner doch
 
 Es passiert mir häufiger, dass ich den Bildschirm effektiver nutzen will und mir da die Hände gebunden sind. Beispielsweise wünsche ich mir in einigen Fällen, den Bildschirm geschickt in zwei (oder drei) horizontale Spalten teilen zu können und darin dann beliebig zu walten. Mir ist bewusst, dass dies prinzipiell mit Tabellen möglich ist (z.b. | .. | .. |), aber bei dieser Formatierung stoße ich immer wieder an grenzen, weil ich innerhalb einer Spalte komplexere Elemente (z.B. Latex-Code, Farbigen Text, eine Aufzählung) drin haben möchte und es mir noch nicht gelungen ist, dem LIA-Interpreter meine Wünsche adäquat zu codieren. Gibt es da eine andere Möglichkeit?
 
+In folgendem Beispiel sieht man was ich meine. Ich hätte gern das Bild direkt neben der Lösung (ist mir nicht gelungen.)
+
+??[bsp1]()
+
 ### 2. Farbiger Text 
 
 Momentan nutze ich CSS als Umweg, gibt es eine einfachere Möglichkeit Text farbig zu gestalten? Mein Beispiel:
