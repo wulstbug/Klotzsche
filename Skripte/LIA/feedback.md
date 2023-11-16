@@ -22,7 +22,7 @@ Der m.E. nach Interessanteste Aspekt von LIA-CR sind die Quizzes und Surveys. In
 
 Ich zeige dir hier mal ein Beispiel und verlinke konkret die Seite die ich meinte:
 
-??[bsp2](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/Skripte/LIA/bsp2.md)
+??[bsp2](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/Skripte/LIA/bsp2.md#1)
 
 ## Mein Eindruck
 
