@@ -89,9 +89,11 @@ In folgendem Beispiel sieht man was ich meine. Ich hätte gern das Bild direkt n
 
 Momentan nutze ich CSS als Umweg, gibt es eine einfachere Möglichkeit Text farbig zu gestalten? Mein Beispiel:
 
-<span style="color:red">Schnittpunkt bei $( -\frac{\pi}{2} | -4 ) $ </span>
+`<span style="color:red">Schnittpunkt bei $( -\frac{\pi}{2} | -4 ) $ </span>`
 
 <span style="color:red">Schnittpunkt bei $( -\frac{\pi}{2} | -4 ) $ </span>
+
+
 
 ### 3. Einstellungen im Link
 
