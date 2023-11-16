@@ -61,7 +61,7 @@ Leider hat m.E. das CR-Feedback mit den entsprechenden Trials in keinem der dida
 
 Für mich als Lernbegleiter hingegen ist hier eine Sache sehr wichtig: 
 
-> Ich weiß, ohne bei jedem auf den Bildschirm zu schauen, wieviele SuS eine bestimmte Aufgabe bereits erreicht haben (und ggf. richtig gelöst haben). 
+> Ich weiß bzw. möchte gern wissen, _ohne bei jedem auf den Bildschirm zu schauen_, wieviele SuS eine bestimmte Aufgabe bereits erreicht haben (und ggf. richtig gelöst haben). 
 
 In meinem konkret schulischen Fall, wo es um Wissensvermittlung ging und nicht um ein gemeinsames Auswerten von Meinungen / Stimmungen / Ideen konnte die Power die LIA-CR mitbringt nicht so richtig genutzt werden. 
 
