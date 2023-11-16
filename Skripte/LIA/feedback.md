@@ -55,7 +55,7 @@ oder (_miau_)
 
 > einfach nur abschreiben [worst case]. 
 
-Leider hat m.E. das Feedback mit den entsprechenden Lösungen in keinem der didaktischen Niveaus einen Nutzen. Es ist in diesem Fall, für die Lernenden eher hinderlich gewesen (ich meine das hier nur konkret auf meinen Fall bezogen).
+Leider hat m.E. das CR-Feedback mit den entsprechenden Trials in keinem der didaktischen Niveaus einen Nutzen. Es ist in diesem Fall, für die Lernenden eher hinderlich gewesen (ich meine das hier nur konkret auf meinen Fall bezogen).
 
 ## Ich als Lernbegleiter
 
