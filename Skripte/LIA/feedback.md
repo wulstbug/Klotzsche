@@ -9,7 +9,12 @@ link: https://gist.githubusercontent.com/andre-dietrich/3c69f68b2c4d80c8c6eb1772
 
 # Feedback zu LIA-Classroom
 
-ich hatte dir vor einer Weile ein Feedback zu LIAScript Classroom (LIA-CR) versprochen. Ich teste LIA nun in mittlerweile Gymnasialklassen (Stufe 8 und 10) und bin im großen und ganzen sehr begeistert. Ich habe vor kurzem begonnen, Classroom einzusetzen. Dazu ein kleines Feedback (Bitte als konstruktives Feedback auffassen und nicht als Kritik an der Sache).
+
+> Hallo Andre
+
+    .. ich hatte dir vor einer Weile ein Feedback zu LIAScript Classroom (LIA-CR) versprochen .. 
+
+    Ich teste LIA nun in mittlerweile Gymnasialklassen (Stufe 8 und 10) und bin im großen und ganzen sehr begeistert. Ich habe vor kurzem begonnen, Classroom einzusetzen. Dazu ein kleines Feedback (Bitte als konstruktives Feedback auffassen und nicht als Kritik an der Sache).
 
 ## Vorbemerkung
 
