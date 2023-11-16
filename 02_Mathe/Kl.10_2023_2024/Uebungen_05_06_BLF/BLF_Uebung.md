@@ -38,7 +38,7 @@ $\hspace{1cm} g(x) = -3 \cdot sin(x)$ <br>
 
     b) Die Steigung $\dfrac{-3}{2}$ und die Verschiebung um 2 Einheiten nach unten lassen sich aus der Abbildung aus Teilaufgabe a) ablesen. <br>
 
-    Die Funktionsgleichung von $g$ lautet $g(x)=-\dfrac{-3}{2}\cdot x - 2$
+    Die Funktionsgleichung von $g$ lautet $g(x)=-\dfrac{3}{2}\cdot x - 2$
 
 ## Lösung 3
 
