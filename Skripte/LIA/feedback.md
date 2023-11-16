@@ -28,11 +28,11 @@ Ich zeige dir hier mal ein Beispiel und verlinke konkret die Seite die ich meint
 
 Ich sehe in LIA eine wirklich gute Möglichkeit für selbstständiges / selbstgesteuertes Lernen, d.h. die SuS     
 
-    - bearbeiten in ihrem Tempo einen Lernblock
+ - bearbeiten in ihrem Tempo einen Lernblock
 
-    - Lösen Aufgaben
+ - Lösen Aufgaben
 
-    - Rechnen, Spielen usw. 
+ - Rechnen, Spielen usw. 
     
 Das direkte Feedback, wer welche Aufgabe wie gut gemacht hat (was LIA-CR nach vielen Antworten bietet) hat meine Lernenden in meinen Beobachtungen überhaupt nicht interessiert. Konkret: Wird angezeigt, beim wievielten Trial andere die Aufgabe gelöst haben, wird das (falls es verstanden wird) <span style="color:orange">entweder ignoriert, oder es wird gelästert oder ich werde gefragt, ob das Histogramm auch abgeschrieben werden soll</span>. 
 
@@ -51,7 +51,9 @@ oder
 
 > im Falle von Fehlern ihre Lösung vergleichen und gegeben falls korrigieren 
 
-> oder einfach nur abschreiben [worst case]. 
+oder (_miau_)
+
+> einfach nur abschreiben [worst case]. 
 
 Leider hat m.E. das Feedback mit den entsprechenden Lösungen in keinem der didaktischen Niveaus einen Nutzen. Es ist in diesem Fall, für die Lernenden eher hinderlich gewesen (ich meine das hier nur konkret auf meinen Fall bezogen).
 
