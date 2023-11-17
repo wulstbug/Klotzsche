@@ -16,8 +16,11 @@ language: de
     }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h5, h6 {
   column-span: all;
+}
+h4 {
+    break-before: column;
 }
 @end
 
@@ -111,6 +114,8 @@ Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 <section class="newspaper">
 
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
+
+<H4></H4>
 
 a)Wenn das Dreieck rechtwinklig ist, muss nach dem Satz des Pythagoras gelten:<br>
 
