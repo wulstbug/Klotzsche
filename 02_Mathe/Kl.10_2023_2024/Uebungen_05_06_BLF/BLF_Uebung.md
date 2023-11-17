@@ -118,8 +118,6 @@ Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
 
-<p class="new-column">
-
 a)Wenn das Dreieck rechtwinklig ist, muss nach dem Satz des Pythagoras gelten:<br>
 
     $\overline{AB}^2=\overline{AC}^2+\overline{BC}^2$ <br>
@@ -145,8 +143,6 @@ a)Wenn das Dreieck rechtwinklig ist, muss nach dem Satz des Pythagoras gelten:<b
 
     
     Folglich ist das Dreieck rechtwinklig.
-
-</p>
 
 </section>
 
