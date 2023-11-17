@@ -8,6 +8,14 @@ language: de
     display: none !important;
 }
 
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+}
+
 mode: Presentation
 
 @onload
