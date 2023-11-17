@@ -3,11 +3,16 @@ author: Christian Golnik
 
 language: de
 
-link: https://gist.githubusercontent.com/andre-dietrich/3c69f68b2c4d80c8c6eb177229ae1ae8/raw/31cde15c4a7f3c2eda7d5ebdea440205f366acad/hideCircle.css
+@style
+.lia-effect__circle {
+    display: none !important;
+}
 
 mode: Presentation
 
-
+@onload
+window.LIA.settings.font_size = 2
+@end
 
 -->
 
