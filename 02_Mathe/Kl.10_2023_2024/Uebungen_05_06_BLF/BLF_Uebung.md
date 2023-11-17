@@ -16,6 +16,11 @@ language: de
     }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+@end
+
 mode: Presentation
 
 @onload
@@ -101,10 +106,9 @@ Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 
 ![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download)
 
+<section class="newspaper">
 
 ## Lösung 1a)
-
-<section class="newspaper">
 
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
 
