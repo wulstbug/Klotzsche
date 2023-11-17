@@ -14,12 +14,6 @@ language: de
         column-gap: 40px;
         column-rule: 1px solid lightblue;
     }
-    .column-break {
-        column-break-inside: avoid;
-    }
-    .new-column {
-        break-after: column;
-    }
 }
 
 h1, h2, h3, h4, h5, h6 {
