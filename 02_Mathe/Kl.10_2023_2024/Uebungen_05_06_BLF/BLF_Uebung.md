@@ -162,7 +162,11 @@ c)Am einfachsten ist es, das Dreieck zu einem Rechteck zu ergänzen. Ein möglic
 
 ## Lösung 1d)
 
+<section class="newspaper">
+
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
+
+<H4>Berechnungen:</H4>
 
 d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da $\overline{AB}$ die längste Seite des Dreiecks darstellt und somit die Hypothenuse ist. <br>
 
@@ -174,7 +178,7 @@ $ \alpha = sin^{-1}\Big(\dfrac{\sqrt{8}}{\sqrt{80}}\Big) = 18,43^\circ$ <br>
 
 Der Winkel $\beta$ ist demzufolge $90^\circ-\alpha=71,57^\circ$
 
-
+</section>
 
 ## Lösung 1e)
 
