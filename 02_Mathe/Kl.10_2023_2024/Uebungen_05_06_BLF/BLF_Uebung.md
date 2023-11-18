@@ -92,8 +92,6 @@ Der See ist 150 Meter breit.
 
 2. Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
 
-![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> 
-
 ## Lösungshinweis 1)
 
 a) Gilt für ein Dreieck der Satz des Pythagoras so ist es rechtwinklig. Wenn du die Gültigkeit dessen nachweisen kannst, so ist das ein rechnerischer Beweis.
