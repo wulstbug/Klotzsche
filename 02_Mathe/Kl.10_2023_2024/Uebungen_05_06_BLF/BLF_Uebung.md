@@ -187,9 +187,14 @@ d)Eine Funktion der Form $f(x)=a\cdot b^x$ hat keine Nullstelle. Der Punkt $C$ l
 
 ## Lösung 2 (Oberflächeninhalt)
 
+
+<section class="newspaper">
+
 __Oberflächeninhalt berechnen__
 
-![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download)
+![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
+
+<H4>Berechnungen</H4>
 
 Der Oberflächeninhalt einer Pyramide setzt sich zusammen aus dem Flächeninhalt der Grundfläche und dem Flächeninhalt der Seitenflächen. Der Flächeninhalt der quadratischen Grundfläche lässt sich wie folgt berechnen:<br>
 $A_G= a\cdot a $ <br>
@@ -215,6 +220,8 @@ $ \approx100\,\text{cm}^2+4\cdot 43,5\,\text{cm}^2$ <br>
 $ = 274\,\text{cm}^2$ <br><br>
 
 Der Oberflächeninhalt der Pyramide beträgt $274\,\text{cm}^2.$
+
+</section>
 
 ## Lösung 2 (Volumen)
 
