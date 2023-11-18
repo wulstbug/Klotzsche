@@ -108,8 +108,7 @@ e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form
 
 Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 
-![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download)
-
+![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download) <!-- style="width: 60%" -->
 ## Lösung 1a)
 
 <section class="newspaper">
