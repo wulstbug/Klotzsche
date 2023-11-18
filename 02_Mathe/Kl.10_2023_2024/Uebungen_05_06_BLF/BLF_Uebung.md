@@ -144,6 +144,14 @@ a)Wenn das Dreieck rechtwinklig ist, muss nach dem Satz des Pythagoras gelten:<b
     
     Folglich ist das Dreieck rechtwinklig.
 
+<H3>Break</H3>
+
+blabla
+
+<H4>Newbreak</H4>
+
+blabla2
+
 </section>
 
 ## Lösung 1b)
