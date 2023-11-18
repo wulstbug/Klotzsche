@@ -164,7 +164,7 @@ c)Am einfachsten ist es, das Dreieck zu einem Rechteck zu ergänzen. Ein möglic
 
 <section class="newspaper">
 
-![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) 
+![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
 <H4>Berechnungen:</H4>
 
