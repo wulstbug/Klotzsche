@@ -88,7 +88,6 @@ Der See ist 150 Meter breit.
 
     e)Begründe, dass es keine Funktion $f$ mit $f(x) = a\cdot b^x$ $(a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte $A$, $B$ und $C$ verläuft.
 
-<br> <br> <br>
 
 2. ![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
 
