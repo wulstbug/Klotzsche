@@ -90,7 +90,9 @@ Der See ist 150 Meter breit.
 
 <br> <br> <br>
 
-2. ![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
+2. Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
+
+![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> 
 
 ## Lösungshinweis 1)
 
