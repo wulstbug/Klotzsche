@@ -190,7 +190,7 @@ d)Eine Funktion der Form $f(x)=a\cdot b^x$ hat keine Nullstelle. Der Punkt $C$ l
 
 <section class="newspaper">
 
-__Oberflächeninhalt berechnen__
+__Oberflächeninhalt berechnen: Skizze__
 
 ![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
@@ -225,9 +225,13 @@ Der Oberflächeninhalt der Pyramide beträgt $274\,\text{cm}^2.$
 
 ## Lösung 2 (Volumen)
 
-__Volumen berechnen__
+<section class="newspaper">
 
-![LPyr3](https://diversewolken.ddns.net/nextcloud/index.php/s/3ZZRZakNesSpBxm/download)
+__Volumen berechnen: Skizze__
+
+![LPyr3](https://diversewolken.ddns.net/nextcloud/index.php/s/3ZZRZakNesSpBxm/download)<!-- style="margin-left: auto; margin-right: auto; display: block" -->
+
+<H4>Berechnungen</H4>
 
 Um das Volumen der Pyramide berechnen zu können, wird die Höhe $h$ benötigt. Diese lässt sich wieder mit dem Satz des Pythagoras berechnen:
 $h_D^2= \left(\dfrac{a}{2}\right)^2+h^2 $ <br>
@@ -242,3 +246,5 @@ $=\dfrac{1}{3}\cdot 100\,\text{cm}^2\cdot 7,1\,\text{cm} $ <br>
 $ = 236,7\,\text{cm}^3 $ <br> <br>
 
 Das Volumen der Pyramide beträgt $236,7\,\text{cm}^3.$
+
+</section>
