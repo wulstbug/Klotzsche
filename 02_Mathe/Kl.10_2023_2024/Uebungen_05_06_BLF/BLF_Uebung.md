@@ -116,7 +116,7 @@ Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
-<H4>Berechnungen:</H4>
+<h4b>Berechnungen:</h4b>
 
 a)Wenn das Dreieck rechtwinklig ist, muss nach dem Satz des Pythagoras gelten:<br>
 
