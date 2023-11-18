@@ -85,22 +85,22 @@ Der See ist 150 Meter breit.
 
     d) Bestimme die Größe aller Winkel des Dreiecks.
 
-    e) Begründe, dass es keine Funktion f mit $f(x) = a\cdot b^x (a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte A, B und C verläuft.
+    e) Begründe, dass es keine Funktion f mit $ f(x) = a\cdot b^x (a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte A, B und C verläuft.
 
 
 2. ![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
 
 ## Lösungshinweis 1)
 
-a) Gilt für ein Dreieck der Satz des Pythagoras so ist es rechtwinklig. Wenn du die Gültigkeit dessen nachweisen kannst, so ist das ein rechnerischer Beweis.
+ a) Gilt für ein Dreieck der Satz des Pythagoras so ist es rechtwinklig. Wenn du die Gültigkeit dessen nachweisen kannst, so ist das ein rechnerischer Beweis.
 
-b) $A = \dfrac{1}{2} \cdot  Grundseite \cdot Höhe$
+ b) $ A = \dfrac{1}{2} \cdot  Grundseite \cdot Höhe $
 
-c) Ergänze das Dreieck zu einem Rechteck, dann verdoppelt sich der Flächeninhalt.
+ c) Ergänze das Dreieck zu einem Rechteck, dann verdoppelt sich der Flächeninhalt.
 
-d) Nutze die Definition von sin und cos im rechtwinkligen Dreieck.
+ d) Nutze die Definition von sin und cos im rechtwinkligen Dreieck.
 
-e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x$. Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
+ e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x$. Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
 
 ## Lösungshinweis 2)
 
