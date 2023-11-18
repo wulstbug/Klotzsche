@@ -89,7 +89,7 @@ Der See ist 150 Meter breit.
 
 <br> <br> <br>
 
-2. ![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%; margin: auto" --> Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
+2. ![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
 
 ## Lösungshinweis 1)
 
@@ -113,7 +113,7 @@ Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 
 <section class="newspaper">
 
-![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) <!-- style="width: 80%" -->
+![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) <!-- style="width: 80%; margin: auto; padding: 10px" -->
 
 <H4>Berechnungen:</H4>
 
