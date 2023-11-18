@@ -93,6 +93,16 @@ Der See ist 150 Meter breit.
 ## Lösungshinweis 1)
 
 
+ a) Gilt für ein Dreieck der Satz des Pythagoras so ist es rechtwinklig. Wenn du die Gültigkeit dessen nachweisen kannst, so ist das ein rechnerischer Beweis.
+
+ b) $ A = \dfrac{1}{2} \cdot  Grundseite \cdot Höhe $
+
+ c) Ergänze das Dreieck zu einem Rechteck, dann verdoppelt sich der Flächeninhalt.
+
+ d) Nutze die Definition von sin und cos im rechtwinkligen Dreieck.
+
+ e) Überprüfe dir die Anzahl der Nullstellen einer Exponentialfunktion der Form $f(x) = a\cdot b^x $ . Vergleiche deine Erkenntnis nun mit den Punkten A, B und C.
+
 ## Lösungshinweis 2)
 
 Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
