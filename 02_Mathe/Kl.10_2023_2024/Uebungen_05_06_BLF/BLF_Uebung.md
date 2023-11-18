@@ -75,20 +75,6 @@ Der See ist 150 Meter breit.
 
 # BLF Übung mit Hilfsmitteln
 
-1. In einem rechtwinkligen Koordinatensystem sind die Punkte $A(-3 \mid 6),$ $B(1 \mid -2)$ und $C(3 \mid 0)$ gegeben.
-
-    a)Zeige rechnerisch, dass das Dreieck $ABC$ rechtwinklig ist.
-
-    b)Berechne den Flächeninhalt des Dreiecks $ABC$.
-
-    c)Aus den Punkten $A,$ $B,$ $C$ und $D$ soll ein Viereck gebildet werden, dessen Flächeninhalt doppelt so groß ist wie der des Dreiecks $ABC.$
-    Gib die Koordinaten eines solchen Punktes $D$ an.
-
-    d) Bestimme die Größe aller Winkel des Dreiecks.
-
-    e)Begründe, dass es keine Funktion $f$ mit $f(x) = a\cdot b^x$ $(a, b, x \in \mathbb{R}; a\neq 0, b \gt 0)$ geben kann, deren Graph durch die Punkte $A$, $B$ und $C$ verläuft.
-
-
 2. ![Pyramide](https://diversewolken.ddns.net/nextcloud/index.php/s/9nZ33a4KNeKeYzw/download) <!-- style="width: 60%" --> Zur Landesrunde der Mathematikolympiade gab es 2014 für jeden Teilnehmer eine Pyramide mit quadratischer Grundfläche. <br> Alle Kanten sind 10 cm lang. <br> Berechne das Volumen und den Oberflächeninhalt dieser Pyramide.
 
 ## Lösungshinweis 1)
