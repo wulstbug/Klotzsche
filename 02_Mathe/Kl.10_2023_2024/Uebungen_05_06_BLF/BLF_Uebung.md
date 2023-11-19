@@ -112,6 +112,8 @@ Nutze folgende Skizze um die rechtwinkligen Dreiecke der Pyramide zu berechnen.
 
 <section class="newspaper">
 
+__Skizze:__
+
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
 <p class="cb">__Berechnungen:__</p>
