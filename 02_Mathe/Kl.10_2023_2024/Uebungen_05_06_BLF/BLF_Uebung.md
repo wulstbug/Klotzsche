@@ -164,9 +164,11 @@ c)Am einfachsten ist es, das Dreieck zu einem Rechteck zu ergänzen. Ein möglic
 
 <section class="newspaper">
 
+__Skizze:__
+
 ![Dreieck1](https://diversewolken.ddns.net/nextcloud/index.php/s/nGWso68tmHPCe79/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
-<H4>Berechnungen:</H4>
+<p class="cb">__Berechnungen:__</p>
 
 d) Im gegebenen Dreieck ist der Winkel $\gamma=90^\circ$ da $\overline{AB}$ die längste Seite des Dreiecks darstellt und somit die Hypothenuse ist. <br>
 
@@ -190,11 +192,11 @@ d)Eine Funktion der Form $f(x)=a\cdot b^x$ hat keine Nullstelle. Der Punkt $C$ l
 
 <section class="newspaper">
 
-__Oberflächeninhalt berechnen: Skizze__
+__Oberflächeninhalt berechnen: Skizze:__
 
 ![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
-<H4>Berechnungen</H4>
+<p class="cb">Berechnungen</p>
 
 Der Oberflächeninhalt einer Pyramide setzt sich zusammen aus dem Flächeninhalt der Grundfläche und dem Flächeninhalt der Seitenflächen. Der Flächeninhalt der quadratischen Grundfläche lässt sich wie folgt berechnen:<br>
 $A_G= a\cdot a $ <br>
