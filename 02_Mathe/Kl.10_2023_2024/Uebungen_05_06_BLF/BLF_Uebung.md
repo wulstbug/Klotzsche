@@ -192,11 +192,11 @@ d)Eine Funktion der Form $f(x)=a\cdot b^x$ hat keine Nullstelle. Der Punkt $C$ l
 
 <section class="newspaper">
 
-__Oberflächeninhalt berechnen: Skizze:__
+__Oberflächeninhalt berechnen(Skizze):__
 
 ![LPyr](https://diversewolken.ddns.net/nextcloud/index.php/s/PYfn9SkyfCTEXET/download) <!-- style="margin-left: auto; margin-right: auto; display: block" -->
 
-<p class="cb">Berechnungen</p>
+__Berechnungen:__
 
 Der Oberflächeninhalt einer Pyramide setzt sich zusammen aus dem Flächeninhalt der Grundfläche und dem Flächeninhalt der Seitenflächen. Der Flächeninhalt der quadratischen Grundfläche lässt sich wie folgt berechnen:<br>
 $A_G= a\cdot a $ <br>
