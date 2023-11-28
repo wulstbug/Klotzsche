@@ -3,9 +3,30 @@ author: Christian Golnik
 
 language: de
 
-link: https://gist.githubusercontent.com/andre-dietrich/3c69f68b2c4d80c8c6eb177229ae1ae8/raw/31cde15c4a7f3c2eda7d5ebdea440205f366acad/hideCircle.css
+@style
+.lia-effect__circle {
+    display: none !important;
+}
 
-narrator: Ukrainian Female
+@media (min-width: 600px) {
+    .newspaper {
+        column-count: 2;
+        column-gap: 40px;
+        column-rule: 1px solid lightblue;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  column-span: all;
+}
+
+.cb {
+    break-before: column;
+}
+@end
+
+mode: Presentation
+
 -->
 
 # Tägliche Übungen 10b
