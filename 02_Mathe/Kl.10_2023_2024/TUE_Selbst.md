@@ -347,3 +347,51 @@ Nutze folgende Wertetabelle:
 </span>
 **************
 
+# TÜ #11
+
+<div style="float: right; height: 100px; position: relative; width: 200px; overflow: hidden; top: -80px;"> <div style="overflow: hidden;"> </div> <div> <iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:15:30&showbuttons=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe> </div> </div>
+
+<section class="newspaper">
+
+![11_Aufgaben.png](https://diversewolken.ddns.net/nextcloud/index.php/s/PH2YJSdHMt4oXFZ/download) <!-- style="width: 100%" -->
+
+<span style="color:blue">Runde Längen auf 2 Kommastellen und Winkel auf 1 Kommastelle</span>
+
+<p class="cb">__Gegeben:__</p>
+
+$\overline{AB} = 11,6 cm \hspace{0.2cm} \overline{AE} = 5,4 cm$
+
+$\angle  ACB = 71,2° \hspace{0.2cm} \angle AED = 125,8° $
+
+{{1}}
+***********
+
+1. Berechne $\angle  BAC $ {2}{<span style="color:orange">$=90-71,2=\underline{18,8°}$</span>}
+
+2. Bestimme $\overline{AC}$ {3}{<span style="color:orange">$=\dfrac{\overline{AB}}{\sin(71,2°)}=\underline{12,25\text{cm}}$</span>}
+
+3. Bestimme $\overline{EC}${4}{<span style="color:orange">$=\sqrt{\overline{AE}^2+\overline{AC}^2}=\underline{13,39cm}$</span>}
+
+4. Bestimme $\angle AEC${5}{<span style="color:orange">$=\sin^{-1}\Big(\dfrac{\overline{AC}}{\overline{EC}}\Big)=\cos^{-1}\Big(\dfrac{\overline{AE}}{\overline{EC}}\Big)=\underline{66,2°}$ </span>}
+
+5. Bestimme den Flächeninhalt von $\triangle ABC${6}{<span style="color:orange">$=\dfrac{1}{2}\cdot \overline{AB}\cdot \overline{BC}=\dfrac{1}{2}\cdot \overline{AB} \cdot \overline{AC} \cdot \cos(\angle  ACB)= \underline{132,8 cm^2}$ </span>}
+
+6. Bestimme den Umfang des Fünfecks $\square ABCDE$
+
+***********
+
+</section>
+
+{{7}}
+***********
+<span style="color:orange">
+$\angle CED = \angle AEC - \angle AEC = 125,8°-66,2°=59,6°$ <br> <br>
+
+$\overline{ED} = \overline{EC} \cdot \sin(\angle CED) = 13,39\text{cm} \cdot \cos(59,6°) = 6,78 cm$ <br> <br>
+
+$\overline{CD} = \overline{EC} \cdot \cos(\angle CED) = 13,39\text{cm} \cdot \sin(59,6°) = 11,55 cm$ <br> <br>
+
+Umfang $u_{\square ABCDE}=\overline{AB}+\overline{BC}+\overline{CD}+\overline{DE}+\overline{EA} = (11,6+3,95+11,55+6,78+5,4)\,\text{cm} = \underline{39,28\text{cm}}$
+
+</span>
+***********
