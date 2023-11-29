@@ -374,7 +374,7 @@ $\angle  ACB = 71,2° \hspace{0.2cm} \angle AED = 125,8° $
 
 4. Bestimme $\angle AEC${5}{<span style="color:orange">$=\sin^{-1}\Big(\dfrac{\overline{AC}}{\overline{EC}}\Big)=\cos^{-1}\Big(\dfrac{\overline{AE}}{\overline{EC}}\Big)=\underline{66,2°}$ </span>}
 
-5. Bestimme den Flächeninhalt von $\triangle ABC${6}{<span style="color:orange">$=\dfrac{1}{2}\cdot \overline{AB}\cdot \overline{BC}=\dfrac{1}{2}\cdot \overline{AB} \cdot \overline{AC} \cdot \cos(\angle  ACB)= \underline{132,8 cm^2}$ </span>}
+5. Bestimme den Flächeninhalt von $\triangle ABC${6}{<span style="color:orange">$=\dfrac{1}{2}\cdot \overline{AB}\cdot \overline{BC}=\dfrac{1}{2}\cdot \overline{AB} \cdot \overline{AC} \cdot \cos(\angle  ACB)= \underline{22,91 cm^2}$ </span>}
 
 6. Bestimme den Umfang des Fünfecks $\square ABCDE$
 
