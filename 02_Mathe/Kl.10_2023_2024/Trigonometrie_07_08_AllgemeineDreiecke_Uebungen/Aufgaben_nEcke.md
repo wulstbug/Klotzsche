@@ -35,13 +35,6 @@ window.LIA.settings.font_size = 2
 
 # Berechnung verschiedener n-Ecke
 
- <details>
-    <summary> Lösungen </summary>
-      https://ogy.de/10bDreieck1   
-
-      [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/2of3Qc6BEJiW94y/download)
- </details>
-
 <section class="newspaper">
 
 __Gegeben:__
@@ -67,6 +60,13 @@ __Teilaufgaben:__
 __Lösungshinweise:__ LB S. 123
 
 __Weitere Aufgaben:__ (mind 1 pro Kathegorie insgesamt mind. 5)
+
+ <details>
+    <summary> Lösungen </summary>
+      https://ogy.de/10bDreieck1   
+
+      [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/2of3Qc6BEJiW94y/download)
+ </details>
 
 <span style="color:orange">Wiederholung/Festigung</span>
 
