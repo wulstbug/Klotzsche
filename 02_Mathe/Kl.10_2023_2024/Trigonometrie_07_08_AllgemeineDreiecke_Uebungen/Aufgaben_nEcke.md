@@ -35,6 +35,13 @@ window.LIA.settings.font_size = 2
 
 # Berechnung verschiedener n-Ecke
 
+ <details>
+    <summary> Lösungen </summary>
+      https://ogy.de/10bDreieck1   
+
+      [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/2of3Qc6BEJiW94y/download)
+ </details>
+
 <section class="newspaper">
 
 __Gegeben:__
@@ -77,13 +84,5 @@ __Weitere Aufgaben:__ (mind 1 pro Kathegorie insgesamt mind. 5)
  - [ ] LB S. 127 / 12
 
 
-<div style="position: absolute;top:100px;right:50px">
-   <details>
-      <summary> Lösungen </summary>
-      https://ogy.de/10bDreieck1   
-
-      [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/2of3Qc6BEJiW94y/download)
-   </details>
-</div>
 
 </section>
