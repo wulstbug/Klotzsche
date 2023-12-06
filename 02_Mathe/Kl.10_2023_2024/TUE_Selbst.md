@@ -271,7 +271,7 @@ mode: Presentation
         a) Minimum bei $x=-\frac{3\pi}{4}$ und Maximum bei $x=\frac{\pi}{4}$ <br> 
         b) $ W = {y \in \R: y \in [1;3] } $
     </span>
-    ![7_2_Sin.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/sXYaToKX79j9dDK/download)
+    ![7_2_Sin.png](https://diversewolken.ddns.net/nextcloud/index.php/s/sXYaToKX79j9dDK/download)
 ***************
 
 2. ![7_ExpSin.png](https://diversewolken.ddns.net/nextcloud/index.php/s/96mdTALEJyB5WdX/download) Im folgenden Diagramm ist eine zusammengesetzte Funktion f dargestellt (farblich getrennt). Sie ist in zwei Intervalle geteilt: <br>
