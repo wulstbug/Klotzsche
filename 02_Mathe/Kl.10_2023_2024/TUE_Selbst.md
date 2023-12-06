@@ -395,3 +395,99 @@ Umfang $u_{\square ABCDE}=\overline{AB}+\overline{BC}+\overline{CD}+\overline{DE
 
 </span>
 ***********
+
+# TÜ #12
+
+<div style="float: right; height: 100px; position: relative; width: 200px; overflow: hidden; top: -80px;"> <div style="overflow: hidden;"> </div> <div> <iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:11:30&showbuttons=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe> </div> </div>
+
+<section class="newspaper">
+
+![AllgemeinesDreieck.png](https://diversewolken.ddns.net/nextcloud/index.php/s/2HTRoWFcjPQCB3y/download)<!-- style="width: 100%" -->
+
+__Gegeben:__
+
+b=3,2 cm    c=9,3 cm     $\alpha$ = 72° <br>
+
+<span style="color:blue"> Runde Längen auf 2 Kommastellen und Winkel auf 1 Kommastelle. </span>
+
+<br>
+
+
+
+<p class="cb">__Aufgaben:__</p>
+
+{{1}}
+***********
+
+1. Notiere __einen__ allgmeinen Sinus-Satz für das Dreieck (1P).
+
+{{2}}
+******************
+ <p style="color:orange">
+ $\boxed{\dfrac{\sin(\alpha)}{\sin(\beta)}=\dfrac{a}{b}}$
+ $\boxed{\dfrac{\sin(\alpha)}{\sin(\gamma)}=\dfrac{a}{c}}$
+ $\boxed{\dfrac{\sin(\beta)}{\sin(\gamma)}=\dfrac{b}{c}}$
+ </p>
+******************
+
+2. Notiere __einen__ allgemeinen Kosinus-Satz für das Dreieck (1P).
+{{3}}
+******************
+<p style="color:orange">
+ $\boxed{a^2 = b^2 + c^2 - 2\cdot b \cdot c \cdot \cos(\alpha)}$
+ $\boxed{b^2 = a^2 + c^2 - 2\cdot a \cdot c \cdot \cos(\beta)}$
+ $\boxed{c^2 = a^2 + b^2 - 2\cdot a \cdot b \cdot \cos(\gamma)}$
+</p>
+******************
+
+3. Entscheide, welchen Satz (1 oder 2) man hier zuerst verwenden sollte, um fehlende Größen des Dreiecks zu berechnen. Begründe (1P). {4}{<span style="color:orange">Kosinus-Satz, denn gegeben sind zwei Seiten und der eingeschlossene Winkel.</span>}
+
+4. Zeige, dass die Seite a = 8,48cm ist (2P). {5}{<span style="color:orange">$\boxed{a^2 = b^2 + c^2 - 2\cdot b \cdot c \cdot \cos(\alpha)}$<br><br>$a^2 = (6,9cm)^2 + (7,5cm)^2 - 2\cdot 6,9cm \cdot 7,5cm \cdot \cos(72°)$<br><br>$\underline{a=8,48\,cm}$ </span>}
+
+5. Bestimme $\beta$ (2P).<br> {6}{<span style="color:orange">Sinussatz: <br> $\dfrac{\sin(\beta)}{\sin(\alpha)}=\dfrac{b}{a} \Big \vert \cdot \sin(\alpha)$<br><br>$\sin(\beta)=\dfrac{b}{a}\cdot\sin(\alpha)=0,774 $ <br><br>$ \beta = \sin^{-1}(0,774) = 50,7° $<br> </span>}
+
+6. Bestimme den Flächeninhalt des Dreiecks. {7}{<span style="color:orange">$A=24,61cm^2$</span>}
+
+***********
+
+</section>
+
+{{8-9}}
+***********
+<H2> Flächeninhalt eines allgemeinen Dreiecks </H2>
+
+$A = \dfrac{1}{2}\cdot \text{Grundseite} \cdot \text{Höhe}$
+
+![AllgemeinesDreieck.png](https://diversewolken.ddns.net/nextcloud/index.php/s/f8Dwq75qLZ84Ykn/download)<!-- style="width: 60%" -->
+
+***********
+
+
+
+{{9-10}}
+***********
+<H2> Flächeninhalt eines allgemeinen Dreiecks </H2>
+
+$A = \dfrac{1}{2}\cdot \text{Grundseite} \cdot \text{Höhe}$
+
+![AllgemeinesDreieck.png](https://diversewolken.ddns.net/nextcloud/index.php/s/EeSS7ASgzijie4f/download)<!-- style="width: 60%" -->
+
+
+z.B. $A = \dfrac{1}{2}\cdot c \cdot$ <span style="color:blue">$h_c$</span>
+
+***********
+
+
+{{10}}
+***********
+<H2> Flächeninhalt eines allgemeinen Dreiecks </H2>
+
+$A = \dfrac{1}{2}\cdot \text{Grundseite} \cdot \text{Höhe}$
+
+![AllgemeinesDreieck.png](https://diversewolken.ddns.net/nextcloud/index.php/s/EeSS7ASgzijie4f/download)<!-- style="width: 60%" -->
+
+
+$A = \dfrac{1}{2}\cdot c \cdot$ <span style="color:blue">$h_c$</span>
+
+$\boxed{A = \dfrac{1}{2}\cdot c \cdot b \cdot \sin(\alpha)}\,$ {11}{$\boxed{A = \dfrac{1}{2}\cdot a \cdot b \cdot \sin(\gamma)}\,\boxed{A = \dfrac{1}{2}\cdot a \cdot c \cdot \sin(\beta)}$}
+***********
