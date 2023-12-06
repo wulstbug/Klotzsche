@@ -43,7 +43,7 @@ $\alpha = 65° \hspace{0.5cm} \beta=57° $
 
 $ a = 6,10 m \hspace{0.5cm} b = 4,00 m $
 
-![LB.S.123.A4.png](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/a9T95TCgBDyqoEk/download)<!-- style="width: 80%" -->
+![LB.S.123.A4.png](https://diversewolken.ddns.net/nextcloud/index.php/s/a9T95TCgBDyqoEk/download)<!-- style="width: 80%" -->
 
 <p class="cb"> __Gesucht:__ Länge c </p>
 
