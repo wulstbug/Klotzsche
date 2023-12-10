@@ -59,7 +59,7 @@ __Teilaufgaben:__
 
 __Lösungshinweise:__ LB S. 123
 
-__Weitere Aufgaben:__ (mind 1 pro Kathegorie insgesamt mind. 5)
+__Weitere Aufgaben:__ (mind 1 pro Kathegorie insgesamt mind. 5) <br>
  __Lösungen:__
  <details>
     <summary> Lösungen </summary>
