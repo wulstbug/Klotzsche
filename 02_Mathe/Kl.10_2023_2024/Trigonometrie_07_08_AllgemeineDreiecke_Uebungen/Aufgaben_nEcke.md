@@ -37,7 +37,7 @@ window.LIA.settings.font_size = 2
 
 <section class="newspaper">
 
-__Gegeben:__
+__Gegeben: Trapez__
 
 $\alpha = 65° \hspace{0.5cm} \beta=57° $
 
@@ -60,7 +60,7 @@ __Teilaufgaben:__
 __Lösungshinweise:__ LB S. 123
 
 __Weitere Aufgaben:__ (mind 1 pro Kathegorie insgesamt mind. 5)
-
+ __Lösungen:__
  <details>
     <summary> Lösungen </summary>
       https://ogy.de/10bDreieck1   
