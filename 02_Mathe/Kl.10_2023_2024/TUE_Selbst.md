@@ -442,7 +442,7 @@ b=3,2 cm    c=9,3 cm     $\alpha$ = 72° <br>
 
 3. Entscheide, welchen Satz (1 oder 2) man hier zuerst verwenden sollte, um fehlende Größen des Dreiecks zu berechnen. Begründe (1P). {4}{<span style="color:orange">Kosinus-Satz, denn gegeben sind zwei Seiten und der eingeschlossene Winkel.</span>}
 
-4. Zeige, dass die Seite a = 8,48cm ist (2P). {5}{<span style="color:orange">$\boxed{a^2 = b^2 + c^2 - 2\cdot b \cdot c \cdot \cos(\alpha)}$<br><br>$a^2 = (6,9cm)^2 + (7,5cm)^2 - 2\cdot 6,9cm \cdot 7,5cm \cdot \cos(72°)$<br><br>$\underline{a=8,48\,cm}$ </span>}
+4. Zeige, dass die Seite a = 8,85cm ist (2P). {5}{<span style="color:orange">$\boxed{a^2 = b^2 + c^2 - 2\cdot b \cdot c \cdot \cos(\alpha)}$<br><br>$a^2 = (3,2cm)^2 + (9,3cm)^2 - 2\cdot 3,2cm \cdot 9,3cm \cdot \cos(72°)$<br><br>$\underline{a=8,85\,cm}$ </span>}
 
 5. Bestimme $\beta$ (2P).<br> {6}{<span style="color:orange">Sinussatz: <br> $\dfrac{\sin(\beta)}{\sin(\alpha)}=\dfrac{b}{a} \Big \vert \cdot \sin(\alpha)$<br><br>$\sin(\beta)=\dfrac{b}{a}\cdot\sin(\alpha)=0,774 $ <br><br>$ \beta = \sin^{-1}(0,774) = 50,7° $<br> </span>}
 
