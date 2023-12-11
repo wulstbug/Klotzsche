@@ -64,7 +64,6 @@ __Lösungshinweise:__ LB S. 123
 <span style="color:orange">__Weitere Aufgaben:__</span> (mind 1 pro Kathegorie insgesamt mind. 5)
 
   __Lösungen:__
-
   <details>
     <summary> Lösungen </summary>
       https://ogy.de/10bDreieck1   
@@ -72,9 +71,7 @@ __Lösungshinweise:__ LB S. 123
       [qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/2of3Qc6BEJiW94y/download)
   </details>
 
-<span style="color:orange">  
-  Wiederholung/Festigung
-</span>
+<span style="color:orange">Wiederholung/Festigung</span>
 
  - [ ] LB. S. 120 / 2b (_Kosinus-Satz_)
  - [ ] LB. S. 120 / 3a (_Kosinus-Satz_)
