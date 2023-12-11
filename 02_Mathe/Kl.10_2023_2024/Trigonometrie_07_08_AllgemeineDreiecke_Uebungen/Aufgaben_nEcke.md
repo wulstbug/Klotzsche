@@ -83,8 +83,9 @@ __Weitere Aufgaben:__ (mind 1 pro Kathegorie insgesamt mind. 5) <br>
  - [ ] LB. S. 126 / 9
  - [ ] LB S. 127 / 12
 
-<span style="color:blue">Erledigt?</span>
+<span style="color:purple">Erledigt?</span>
+
+</section>
 
  - [ ] <span style="color:purple">**[BLF_Aufgabe zu Dreiecken](https://liascript.github.io/nightly/?https://raw.githubusercontent.com/wulstbug/Klotzsche/master/02_Mathe/Kl.10_2023_2024/Trigonometrie_09_10_Vorbereitung_KA/BLF_Aehnliche_Aufgabe.md)**</span>
 
-</section>
