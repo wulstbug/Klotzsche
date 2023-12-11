@@ -33,7 +33,7 @@ __Flächeninhalt__: Nähere die Seitenfläche mit einem Trapez mit den Eckpunkte
 
 ## Lösungshinweise 3.3.
 
-3.3.1 Nutze den Sinus-Satz zur Berechnung des Winkel $\angle WHT$.
+ 3.3.1. Nutze den Sinus-Satz zur Berechnung des Winkel $\angle WHT$.
 
 
 
