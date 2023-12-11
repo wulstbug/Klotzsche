@@ -17,7 +17,7 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# BLF aehnliche Aufgabe zu Sinus- und Kosinussatz
+# BLF aehnliche Aufgabe zu Dreiecken
 
 ??[Anwendungsaufgabe_3](https://diversewolken.ddns.net/nextcloud/index.php/s/HjZPgrqA3jLKLN2) <!-- style="width: 100%" -->
 
