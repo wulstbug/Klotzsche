@@ -35,9 +35,7 @@ window.LIA.settings.font_size = 2
 
 # Anwendungsaufgabe Sinus-Satz / Anwendung Geometrie
 
-Ein Aussichtspunkt befindet sich 205m über einem See. Der See selbst liegt in 558m über dem Meeresspiegel (üNN). Vom Aussichtspunkt sieht man die Spitze eines Berges unten einem Höhenwinkel von 9,17°. Das Spiegelbild des Gipfels im See sieht man vom Aussichtspunkt unter einem Tiefenwinkel von 11,38°. Berechnen Sie die absolute Höhe des Berges über dem Meeresspiegel (NN ... Normal Null).
-
-![Beispiel.png](https://diversewolken.ddns.net/nextcloud/index.php/s/Kddr2sBn6iGofKZ/download)
+![Beispiel.png](https://diversewolken.ddns.net/nextcloud/index.php/s/Kddr2sBn6iGofKZ/download) Ein Aussichtspunkt befindet sich 205m über einem See. Der See selbst liegt in 558m über dem Meeresspiegel (üNN). Vom Aussichtspunkt sieht man die Spitze eines Berges unten einem Höhenwinkel von 9,17°. Das Spiegelbild des Gipfels im See sieht man vom Aussichtspunkt unter einem Tiefenwinkel von 11,38°. Berechnen Sie die absolute Höhe des Berges über dem Meeresspiegel (NN ... Normal Null).
 
 _Hinweis: Diese Aufgabe kann man in einer recht umfangreichen Betrachtung lösen. Den ausführlichen Lösungsweg findet man auf den folgenden Seiten. Es gibt aber auch eine knackige, sehr kurze Lösung. Eine Herrausvorderung?_
 
