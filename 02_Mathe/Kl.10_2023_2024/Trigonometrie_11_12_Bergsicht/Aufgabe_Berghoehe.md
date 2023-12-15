@@ -37,7 +37,7 @@ window.LIA.settings.font_size = 2
 
 Von einem 205m über einem See (Seehöhe ü NN 558m) gelegenen Aussichtspunkt sieht man den Gipfel eines Berges unten einem Höhenwinkel von 9,17°. Das Spiegelbild des Gipfels im See sieht man vom Aussichtspunkt unter einem Tiefenwinkel von 11,38°. Berechnen Sie die absolute Höhe des Berges über dem Meeresspiegel (NN ... Normal Null).
 
-_Hinweis: Diese Aufgabe kann man in einer recht umfangreichen Betrachtung lösen. Den ausführlichen Lösungsweg findet man auf den folgenden Seiten. Es gibt aber auch eine knackige, sehr kurze Lösung. Ich freue mich über Vorschläge._
+_Hinweis: Diese Aufgabe kann man in einer recht umfangreichen Betrachtung lösen. Den ausführlichen Lösungsweg findet man auf den folgenden Seiten. Es gibt aber auch eine knackige, sehr kurze Lösung. Eine Herrausvorderung?_
 
 ## Lösungshinweise
 
@@ -47,6 +47,6 @@ Die Grundlage für die Lösung dieser Aufgabe ist eine geeignete Skizze. Zeichne
 
 ![Skizze_1.png](https://diversewolken.ddns.net/nextcloud/index.php/s/ML9E2LYFskswM9E/download)<!-- style="width: 80%" -->
 
-## Lösung
+## Langer Lösungsweg
 
 ??[Berghöhe_Loesung.pdf](https://diversewolken.ddns.net/nextcloud/index.php/s/eqH38SCTqsDy7A2)
