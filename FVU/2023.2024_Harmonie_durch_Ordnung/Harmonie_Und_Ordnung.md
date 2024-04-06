@@ -160,7 +160,7 @@ __ bis ca. 2:20 __
 
 ### Symmetrien selbst erstellen
 
-<iframe src="https://www.geogebra.org/classic/qaddrcur?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>)
+<iframe src="https://www.geogebra.org/classic/qaddrcur?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### Symmetrien selbst erstellt
 
