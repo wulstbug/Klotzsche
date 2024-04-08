@@ -33,16 +33,6 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# Einschreibung
-
-
-<H4> Bitte eine Gruppe zu je vier Personen bilden und dann die Namen hier eintragen: </H4>
-
->> <H4> https://ogy.de/utopie1 </H4>
-
-??[Einschreibung](https://ogy.de/utopie1)
-
-
 # Harmonie und Ordnung
 
 <H4> Impulsvortrag von Christian Golnik</H4> 
