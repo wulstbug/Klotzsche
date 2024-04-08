@@ -207,7 +207,7 @@ _Metropolis_ ein Film von Fritz Lang
 
 ## 2. Hauptsatz der Thermodynamik
 
-> <H3> In einem geschlossenen System nimmt die Entropie (also die Unordnung stets zu. </H3>
+> <H3> In einem geschlossenen System nimmt die Entropie (also die Unordnung) stets zu. </H3>
 
 <H3> außer .. </H3>
 
