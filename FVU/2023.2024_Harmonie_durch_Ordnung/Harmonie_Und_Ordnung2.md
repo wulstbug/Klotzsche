@@ -221,4 +221,7 @@ _Metropolis_ ein Film von Fritz Lang
 
 ![Symmetrie_Gesicht_1](https://diversewolken.ddns.net/nextcloud/index.php/s/STSqKL843pYPSTt/download)
 
+{{1}}
+*************
 ![Symmetrie_Architektur_1](https://kwerfeldein.de/wp-content/uploads/2013/05/Symmetrie-Artikelbild.jpg)
+*************
