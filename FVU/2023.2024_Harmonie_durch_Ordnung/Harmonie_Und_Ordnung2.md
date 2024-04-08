@@ -230,6 +230,6 @@ _Metropolis_ ein Film von Fritz Lang
 *************
 <H3>..in der Physik</H3>
 
-![Symmetrie_Physik_1](https://youtu.be/oEg90ctBs9g)
+!?[Symmetrie_Physik_1](https://youtu.be/oEg90ctBs9g)
 
 *************
