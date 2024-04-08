@@ -175,6 +175,8 @@ __ bis ca. 2:20 __
 
 _Metropolis_ ein Film von Fritz Lang
 
+> <H4>Die Darstellung der Gesellschaftsordnung von Metropolis lehnt sich einerseits an das marxistische Bild des Kapitalismus an: Es gibt zwei Klassen, deren eine die andere ausbeutet, und es ist faktisch unmöglich, von der unteren in die obere Klasse aufzusteigen.</H4>
+
 ![Metropolis](https://diversewolken.ddns.net/nextcloud/index.php/s/ZCDZp74fg7HTCJJ/download)
 
 ## Ordnet sich die Welt von selbst?
