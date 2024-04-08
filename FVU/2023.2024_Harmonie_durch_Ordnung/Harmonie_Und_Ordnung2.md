@@ -219,6 +219,6 @@ _Metropolis_ ein Film von Fritz Lang
 
 ## Symmetrie - Eine Form von Ordnung
 
-![Harmonie-Gesichtern2](https://diversewolken.ddns.net/nextcloud/index.php/s/STSqKL843pYPSTt/download)
+![Symmetrie_Gesicht_1](https://diversewolken.ddns.net/nextcloud/index.php/s/STSqKL843pYPSTt/download)
 
-![Harmonie-Gesichtern2](https://diversewolken.ddns.net/nextcloud/index.php/s/STSqKL843pYPSTt/download))
+![Symmetrie_Architektur_1](https://kwerfeldein.de/wp-content/uploads/2013/05/Symmetrie-Artikelbild.jpg)
