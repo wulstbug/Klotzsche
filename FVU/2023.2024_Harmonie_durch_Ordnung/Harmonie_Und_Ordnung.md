@@ -33,8 +33,11 @@ window.LIA.settings.font_size = 2
 
 -->
 
-# Harmonie durch Ordnung
+# Einschreibung
 
+
+
+# Harmonie und Ordnung
 
 <H4> Impulsvortrag von Christian Golnik</H4> 
 
