@@ -173,13 +173,13 @@ __ bis ca. 2:20 __
 
 ## Ordne eine Gesellschaft durch Architektur
 
-
+![Metropolis](https://diversewolken.ddns.net/nextcloud/index.php/s/ZCDZp74fg7HTCJJ/download)
 
 ## Ordnet sich die Welt von selbst?
 
-<H4> Fragt man die Physk
+<H4> Fragt man die Physik...
 
-> Eher nicht?
+> dann eher nicht.
 
 => Warum nicht?
 
