@@ -177,9 +177,17 @@ __ bis ca. 2:20 __
 
 ## Ordnet sich die Welt von selbst?
 
-<H4> Fragt man die Physik...
+{{1}}
+*********
+<H4> Fragt man die Physik... </H4>
+*********
 
-> dann eher nicht.
+{{2}}
+*********
+<H4>  > dann eher nicht.
 
 => Warum nicht?
+
+*********
+
 
