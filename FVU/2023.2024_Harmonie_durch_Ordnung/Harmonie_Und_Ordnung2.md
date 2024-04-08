@@ -173,9 +173,9 @@ __ bis ca. 2:20 __
 
 ## Umfrage zu "Ordnung durch Harmonie"
 
-[qr-code](https://forms.office.com/e/1rBZ7sgRJR?origin=lprLink)
+[qr-code](https://forms.office.com/e/1rBZ7sgRJR)
 
-??[Umfrage-Ordnung](https://forms.office.com/e/1rBZ7sgRJR?origin=lprLink)
+??[Umfrage-Ordnung](https://forms.office.com/e/1rBZ7sgRJR)
 
 ## Ordnung durch Architektur
 
