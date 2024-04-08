@@ -217,3 +217,7 @@ _Metropolis_ ein Film von Fritz Lang
 {{2}}
 > <H3> unbegrenzte Energie, keine Unordnung (überall Harmonie?) </H3>
 
+## Symmetrie - Eine Form von Ordnung
+
+![Harmonie-Gesichtern2](https://diversewolken.ddns.net/nextcloud/index.php/s/STSqKL843pYPSTt/download)
+
