@@ -175,7 +175,7 @@ __ bis ca. 2:20 __
 
 [qr-code](https://forms.office.com/e/1rBZ7sgRJR?origin=lprLink)
 
-!?[Umfrage-Ordnung](https://forms.office.com/e/1rBZ7sgRJR?origin=lprLink)
+??[Umfrage-Ordnung](https://forms.office.com/e/1rBZ7sgRJR?origin=lprLink)
 
 ## Ordnung durch Architektur
 
