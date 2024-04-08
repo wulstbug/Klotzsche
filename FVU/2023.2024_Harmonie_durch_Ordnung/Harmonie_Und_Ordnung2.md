@@ -225,3 +225,11 @@ _Metropolis_ ein Film von Fritz Lang
 *************
 ![Symmetrie_Architektur_1](https://kwerfeldein.de/wp-content/uploads/2013/05/Symmetrie-Artikelbild.jpg)
 *************
+
+{{2}}
+*************
+<H3>..in der Physik</H3>
+
+![Symmetrie_Physik_1](https://youtu.be/oEg90ctBs9g)
+
+*************
