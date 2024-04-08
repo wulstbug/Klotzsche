@@ -215,5 +215,5 @@ _Metropolis_ ein Film von Fritz Lang
 *********
 
 {{2}}
-> <H3>Bedeutet das..unbegrenzte Energie, unbegrenzte Ordnung? </H3>
+> <H3> unbegrenzte Energie, keine Unordnung (überall Harmonie?) </H3>
 
