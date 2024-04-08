@@ -212,4 +212,6 @@ _Metropolis_ ein Film von Fritz Lang
 > <H3> es wird Energie aufgewendet. </H3>
 *********
 
+{{2}}
+> <H3>Bedeutet das..unbegrenzte Energie, unbegrenzte Ordnung? </H3>
 
