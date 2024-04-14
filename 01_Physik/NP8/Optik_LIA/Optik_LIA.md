@@ -41,3 +41,6 @@ Christian Golnik
 
 ## Grundlagen Lichtausbreitung
 
+https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EVfNIbPXPGVMsZCSjCfHx4QBg8pnsp4oCQuA5ZfTPb-L6w?e=sZ1tZ3
+
+<iframe src="https://gykl-my.sharepoint.com/personal/golnik_ch_gykl_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc={b321cd57-3cd7-4c65-b190-928c27c7c784}&amp;action=embedview&amp;wdAr=1.7781512605042016" width="476px" height="288px" frameborder="0">Dies ist ein eingebettetes <a target="_blank" href="https://office.com">Microsoft Office</a>-Dokument, unterstützt von <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
