@@ -41,4 +41,4 @@ Christian Golnik
 
 ## Grundlagen Lichtausbreitung
 
-??[Ausbreitung des Lichtstrahls](https://gykl-my.sharepoint.com/:p:/g/personal/golnik_ch_gykl_onmicrosoft_com/EdRNhHr9d4RCheL_c-D6cIwBkQCMfC82ckMwks6XlB6EaA?e=MpENe6)
+<iframe src="https://gykl-my.sharepoint.com/personal/golnik_ch_gykl_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc={ec68ba78-dd83-4c78-8a3f-8155233064a1}&amp;action=embedview&amp;wdAr=1.7781512605042016" width="800px" height="600px" frameborder="0">Dies ist ein eingebettetes <a target="_blank" href="https://office.com">Microsoft Office</a>-Dokument, unterstützt von <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
