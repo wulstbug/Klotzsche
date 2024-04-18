@@ -59,7 +59,7 @@ Eine Funktion $y = f(x)$ ordnet jedem Element x des Definitionsbereiches $\mathb
 
  Definitionsbereich $\mathbb{D_f} = \R$ $\hspace{0.5cm}$(_Hinweis: $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist._)
 
- Wertebereich $\mathbb{W_f} = \R^{\geq0}$ $\hspace{0.5cm}$(_Hinweis: $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann._)
+ Wertebereich $\mathbb{W_f} = \R^{>0}$ $\hspace{0.5cm}$(_Hinweis: $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann._)
 
 </span>
 
@@ -68,7 +68,7 @@ Eine Funktion $y = f(x)$ ordnet jedem Element x des Definitionsbereiches $\mathb
 
 <H2>Umkehrfunktion</H2>
 
-Die <span style="color:orange">***Umkehrfunktion zu f(x)***</span> ist genau die Funktion $f^{-1}(x)$ für die gilt:
+Die <span style="color:orange">***Umkehrfunktion zu f***</span> ist genau die Funktion $f^{-1}$ für die gilt:
 
 > <span style="color:orange">Wenn $f(x) = y$ dann ist $f^{-1}(y) = x$</span>
 *************
