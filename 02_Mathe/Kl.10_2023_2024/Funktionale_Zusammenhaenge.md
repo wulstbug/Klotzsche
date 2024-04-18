@@ -127,6 +127,8 @@ $\hspace{0.5cm}$d) $ f(x) = log_4(x) $
 
 {4}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R^{>0}$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = 4^x$</span>}
 
+$\hspace{0.5cm}$e*) f(x) 
+
 2. Notiere zu den Umkehrfunktionen $f^{-1}$ aus den Aufgaben 1. a) - d) die Definitionsbereiche $\mathbb{D}_{f^{-1}}$ und die Wertebereiche $\mathbb{W}_{f^{-1}}$ und vergleiche diese jeweils mit $\mathbb{D}_{f}$ bzw. $\mathbb{W}_{f}$
 
 
