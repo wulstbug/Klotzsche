@@ -61,5 +61,11 @@ Bedingungen:
 
 ## Wiederholung Wellen
 
-??[Waves2D](https://www.falstad.com/ripple/)
+Eigenschaften von Wellen
+
+{1}{??[Waves2D](https://www.falstad.com/ripple/)}
+
+ - Amplitude
+ - Wellenlänge
+ - 
 
