@@ -133,6 +133,8 @@ $\hspace{0.5cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2} $
 
 $\hspace{0.5cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 
+{6}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$ $\hspace{0.5cm}$ (_Hinweis: $\ln = \log_e$_)</span>}
+
 2. Überprüfe zu den Umkehrfunktionen $f^{-1}$ aus den Aufgaben 1. a) - f) die Definitionsbereiche $\mathbb{D}_{f^{-1}}$ und die Wertebereiche $\mathbb{W}_{f^{-1}}$ und vergleiche diese jeweils mit $\mathbb{D}_{f}$ bzw. $\mathbb{W}_{f}$
 
 
