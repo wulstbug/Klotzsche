@@ -65,8 +65,8 @@ Eigenschaften von Wellen
 
 {1}{??[Waves2D](https://www.falstad.com/ripple/)}
 
- - Amplitude $y\over{^}$
- - Wellenlänge
- - Frequenz
- - Schwingungsdauer
+ - Amplitude $y_0$ oder $ y\textover{^} $ 
+ - Wellenlänge $\lambda$
+ - Frequenz $f$
+ - Schwingungsdauer $T$
 
