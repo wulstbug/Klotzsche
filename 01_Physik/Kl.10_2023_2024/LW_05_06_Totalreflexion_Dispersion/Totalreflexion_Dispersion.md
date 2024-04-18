@@ -68,5 +68,6 @@ Eigenschaften von Wellen
  - Frequenz $f$
  - Schwingungsdauer $T$
 
+## Simulation Wellen
 
-{1}{??[Waves2D](https://www.falstad.com/ripple/)}
+??[Waves2D](https://www.falstad.com/ripple/)
