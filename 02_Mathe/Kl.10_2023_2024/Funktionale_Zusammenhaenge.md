@@ -111,29 +111,29 @@ Am Beispiel: $f(x) = 3^x$
 
 1. Bilde folgende Umkehrfunktionen. Gib (sofern nicht gegeben) jeweils den maximal möglichen Definitionsbereich $\mathbb{D_f}$ und den Wertebereich $\mathbb{W_f} $ der Funktion $f(x)$ an.
 
-$\hspace{0.5cm}$a) $f(x) = 2 \cdot x$
+$\hspace{1cm}$a) $f(x) = 2 \cdot x$
 
-{1}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = \dfrac{1}{2}\cdot x$</span>}
+{1}{$\hspace{1cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = \dfrac{1}{2}\cdot x$</span>}
 
-$\hspace{0.5cm}$b) $f(x) = x^2 + 2$ mit $\mathbb{D_f} = \R^{\geq0}$
+$\hspace{1cm}$b) $f(x) = x^2 + 2$ mit $\mathbb{D_f} = \R^{\geq0}$
 
-{2}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{W_f} = \R^{\geq2} $ ; $f^{-1}(x) = \sqrt{x-2}$</span>}
+{2}{$\hspace{1cm}$<span style="color:orange">$\mathbb{W_f} = \R^{\geq2} $ ; $f^{-1}(x) = \sqrt{x-2}$</span>}
 
-$\hspace{0.5cm}$c) $f(x) = \Big(\dfrac{1}{3}\Big)^x$
+$\hspace{1cm}$c) $f(x) = \Big(\dfrac{1}{3}\Big)^x$
 
-{3}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>0} $ ; $f^{-1}(x) = \log_\frac{1}{3}(x)$</span>}
+{3}{$\hspace{1cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>0} $ ; $f^{-1}(x) = \log_\frac{1}{3}(x)$</span>}
 
-$\hspace{0.5cm}$d) $ f(x) = \log_4(x) $
+$\hspace{1cm}$d) $ f(x) = \log_4(x) $
 
-{4}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R^{>0}$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = 4^x$</span>}
+{4}{$\hspace{1cm}$<span style="color:orange">$\mathbb{D_f}=\R^{>0}$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = 4^x$</span>}
 
-$\hspace{0.5cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2} $
+$\hspace{1cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2} $
 
-{5}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$ $\hspace{0.5cm}$ (_Hinweis: $\ln = \log_e$_)</span>}
+{5}{$\hspace{1cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$ $\hspace{0.5cm}$ (_Hinweis: $\ln = \log_e$_)</span>}
 
-$\hspace{0.5cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
+$\hspace{1cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 
-{6}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R$ ; $f^{-1}(x) = 12 + 3 \ln\Big( \sqrt[3]{\frac{x+1}{2}} \Big)$ $\hspace{0.5cm}$</span>}
+{6}{$\hspace{1cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R$ ; $f^{-1}(x) = 12 + 3 \ln\Big( \sqrt[3]{\frac{x+1}{2}} \Big)$ $\hspace{0.5cm}$</span>}
 
 2. Überprüfe zu den Umkehrfunktionen $f^{-1}$ aus den Aufgaben 1. a) - f) die Definitionsbereiche $\mathbb{D}_{f^{-1}}$ und die Wertebereiche $\mathbb{W}_{f^{-1}}$ und vergleiche diese jeweils mit $\mathbb{D}_{f}$ bzw. $\mathbb{W}_{f}$
 
