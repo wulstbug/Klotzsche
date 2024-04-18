@@ -71,3 +71,7 @@ Eigenschaften von Wellen
 ## Simulation Wellen
 
 ??[Waves2D](https://www.falstad.com/ripple/)
+
+## Aufgabe
+
+??[Aufgabe](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/k7eAjFmSZWpWsS5)
