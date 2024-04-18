@@ -127,9 +127,9 @@ $\hspace{0.5cm}$d) $ f(x) = log_4(x) $
 
 {4}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R^{>0}$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = 4^x$</span>}
 
-$\hspace{0.5cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2}
+$\hspace{0.5cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2} $
 
-{5}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$</span>}
+{5}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$</span>}
 
 2. Notiere zu den Umkehrfunktionen $f^{-1}$ aus den Aufgaben 1. a) - d) die Definitionsbereiche $\mathbb{D}_{f^{-1}}$ und die Wertebereiche $\mathbb{W}_{f^{-1}}$ und vergleiche diese jeweils mit $\mathbb{D}_{f}$ bzw. $\mathbb{W}_{f}$
 
