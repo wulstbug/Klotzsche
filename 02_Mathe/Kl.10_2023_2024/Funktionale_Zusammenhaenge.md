@@ -129,7 +129,7 @@ $\hspace{0.5cm}$d) $ f(x) = \log_4(x) $
 
 $\hspace{0.5cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2} $
 
-{5}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2} \hspace{0.5cm} _(Hinweis: \ln = \log_\e)_$</span>}
+{5}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$ $\hspace{0.5cm}$ _(Hinweis: $\ln = \log_e$)_</span>}
 
 $\hspace{0.5cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 
