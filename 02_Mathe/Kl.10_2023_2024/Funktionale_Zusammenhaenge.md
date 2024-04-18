@@ -100,9 +100,9 @@ Am Beispiel: $f(x) = 3^x$
 *************
 3. Stelle die Gleichung nach y um
 
-> $ y = log_3(x)$ 
+> $ y = \log_3(x)$ 
 
-> => Umkehrfunktion: $f^{-1}(x) = log_3(x)$
+> => Umkehrfunktion: $f^{-1}(x) = \log_3(x)$
 *************
 
 </span>
@@ -121,9 +121,9 @@ $\hspace{0.5cm}$b) $f(x) = x^2 + 2$ mit $\mathbb{D_f} = \R^{\geq0}$
 
 $\hspace{0.5cm}$c) $f(x) = \Big(\dfrac{1}{3}\Big)^x$
 
-{3}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>0} $ ; $f^{-1}(x) = log_\frac{1}{3}(x)$</span>}
+{3}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>0} $ ; $f^{-1}(x) = \log_\frac{1}{3}(x)$</span>}
 
-$\hspace{0.5cm}$d) $ f(x) = log_4(x) $
+$\hspace{0.5cm}$d) $ f(x) = \log_4(x) $
 
 {4}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R^{>0}$ ; $\mathbb{W_f} = \R $ ; $f^{-1}(x) = 4^x$</span>}
 
@@ -131,7 +131,7 @@ $\hspace{0.5cm}$e*) $ f(x) = e^{2x+3} - \dfrac{1}{2} $
 
 {5}{$\hspace{0.5cm}$<span style="color:orange">$\mathbb{D_f}=\R$ ; $\mathbb{W_f} = \R^{>\frac{1}{2}} $ ; $f^{-1}(x) = \dfrac{\ln(x+\frac{1}{2})-3}{2}$</span>}
 
-$\hspace{0.5cm}$f*) $ f(x) = 2 \Big( \Big) $
+$\hspace{0.5cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 
 2. Überprüfe zu den Umkehrfunktionen $f^{-1}$ aus den Aufgaben 1. a) - f) die Definitionsbereiche $\mathbb{D}_{f^{-1}}$ und die Wertebereiche $\mathbb{W}_{f^{-1}}$ und vergleiche diese jeweils mit $\mathbb{D}_{f}$ bzw. $\mathbb{W}_{f}$
 
