@@ -33,7 +33,7 @@ window.LIA.settings.font_size = 2
 
 \-->
 
-# Licht als Welle
+# Licht
 
 ## Reflexion und Brechung
 
