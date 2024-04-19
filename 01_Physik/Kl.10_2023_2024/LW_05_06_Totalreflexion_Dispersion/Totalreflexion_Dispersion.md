@@ -74,7 +74,7 @@ Eigenschaften von Wellen
 
 ## Aufgabe Welleneigenschaften
 
-??[Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/k7eAjFmSZWpWsS5/download)
+??[Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/TsiXGj5WBYiRnxY/download)
 
 ## Wiederholung: Wellen an Grenzflächen
 
