@@ -78,6 +78,13 @@ Arbeitsblatt:
 
 ??[Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/mZTT7pb5XosDyS4)
 
+### Lösung 1: Wellen an Grenzflächen
+
+{1}{![Lösung1](https://diversewolken.ddns.net/nextcloud/index.php/s/mZTT7pb5XosDyS4)}
+
+
+
+
 ## Aufgabe
 
 ??[Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/k7eAjFmSZWpWsS5)
