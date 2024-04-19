@@ -76,7 +76,7 @@ Eigenschaften von Wellen
 
 Arbeitsblatt:
 
-??[Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/mZTT7pb5XosDyS4)
+![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
 
 ### Lösung 1: Wellen an Grenzflächen
 
