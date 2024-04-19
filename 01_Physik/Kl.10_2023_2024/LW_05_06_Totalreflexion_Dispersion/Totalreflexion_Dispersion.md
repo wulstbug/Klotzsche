@@ -72,7 +72,11 @@ Eigenschaften von Wellen
 
 ??[Waves2D](https://www.falstad.com/ripple/)
 
-## Wellen an Grenzflächen
+## Wiederholung: Wellen an Grenzflächen
+
+Arbeitsblatt:
+
+??[Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/mZTT7pb5XosDyS4)
 
 ## Aufgabe
 
