@@ -72,6 +72,10 @@ Eigenschaften von Wellen
 
 ??[Waves2D](https://www.falstad.com/ripple/)
 
+## Aufgabe Welleneigenschaften
+
+??[Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/k7eAjFmSZWpWsS5/download)
+
 ## Wiederholung: Wellen an Grenzflächen
 
 Arbeitsblatt:
@@ -89,6 +93,3 @@ Arbeitsblatt:
 {4}{![Lösung4](https://diversewolken.ddns.net/nextcloud/index.php/s/qJR2ody2GWeeeWg/download)}
 
 
-## Aufgabe
-
-??[Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/k7eAjFmSZWpWsS5/download)
