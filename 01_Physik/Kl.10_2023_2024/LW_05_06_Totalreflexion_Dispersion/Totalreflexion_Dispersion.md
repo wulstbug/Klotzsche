@@ -80,7 +80,16 @@ Arbeitsblatt:
 
 ### Lösung 1: Wellen an Grenzflächen
 
-{1}{![Lösung1](https://diversewolken.ddns.net/nextcloud/index.php/s/mZTT7pb5XosDyS4)}
+{1}{![Lösung1](https://diversewolken.ddns.net/nextcloud/index.php/s/Po9AN47ixmZ2QiY/download)}
+
+{2}{![Lösung2](https://diversewolken.ddns.net/nextcloud/index.php/s/Po9AN47ixmZ2QiY/download)}
+
+{3}{![Lösung3](https://diversewolken.ddns.net/nextcloud/index.php/s/Po9AN47ixmZ2QiY/download)}
+
+{4}{![Lösung4](https://diversewolken.ddns.net/nextcloud/index.php/s/Po9AN47ixmZ2QiY/download)}
+
+
+
 
 
 
