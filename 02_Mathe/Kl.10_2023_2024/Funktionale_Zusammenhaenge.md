@@ -196,7 +196,7 @@ Wiederholung:
 
 {{7}}
 ***********
->> Nullstellen: Schnittpunkte mit der x-Achse, d.h. $f(x) = 0$.
+>> Extremstellen: Ein Maximum oder Minimum der Funktion
 ***********
 
 # Rätsel
