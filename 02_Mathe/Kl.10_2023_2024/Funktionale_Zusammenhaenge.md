@@ -155,17 +155,17 @@ Wiederholung:
 
 {{1}}
 ***********
-> <span style="color:orange">Definitionsbereich $\mathbb{D_f}$</span> : $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.
+> <span style="color:red">Definitionsbereich $\mathbb{D_f}$</span> ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.
 ***********
 
 {{2}}
 ***********
-> Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann
+> <span style="color:red">Wertebereich $\mathbb{W_f}$</span> ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann
 ***********
 
 {{3}}
 ***********
-> Montonie:
+> <span style="color:red">Montonie:</span>
 
 >> Eine Funktion heißt <span style="color:blue">***streng monoton wachsend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$
 
