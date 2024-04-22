@@ -178,7 +178,7 @@ Wiederholung:
 {{5}}
 ***********
 >> <span style="color:blue">***monton wachsend***</span>: $\forall x_1 > x_2: f(x_1) \leq f(x_2)$
->> <span style="color:blue">***monton fallend***</span>: $\forall x_1 > x_2: f(x_1) \qeg f(x_2)$
+>> <span style="color:blue">***monton fallend***</span>: $\forall x_1 > x_2: f(x_1) \geq f(x_2)$
 ***********
 
 
