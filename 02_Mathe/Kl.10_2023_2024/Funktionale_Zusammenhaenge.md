@@ -172,8 +172,16 @@ Wiederholung:
 
 {{4}}
 ***********
->> Eine Funktion heißt <span style="color:blue">***streng monoton fallend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) kleiner wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$
+>> Eine Funktion heißt <span style="color:blue">***streng monoton fallend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) kleiner wird, d.h. wenn $x_1 < x2$ => $f(x_1) > f(x_2)$
 ***********
+
+{{5}}
+***********
+>> <span style="color:orange">***monton fallend***</span>
+
+***********
+
+
 
 # Rätsel
 
