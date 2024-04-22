@@ -153,9 +153,11 @@ $\hspace{1cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 
 Wiederholung:
 
-Definitionsbereich $\mathbb{D_f}$: 
+{1}{> Definitionsbereich $\mathbb{D_f}$: $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.}
 
+1{}{> Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann.}
 
+> Montonie:
 
 # Rätsel
 
