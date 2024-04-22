@@ -153,13 +153,17 @@ $\hspace{1cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 
 Wiederholung:
 
+{{1}}
+***********
 > Definitionsbereich $\mathbb{D_f}$: $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.
+***********
 
-{2}{ > Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann.}
+{{2}}
+***********
+> Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann
 
-{3}{ > Montonie:}
-
-{4}{ > <span style="color:blue">***streng***</span> monton wachsend: Eine Funktion heißt <span style="color:blue">***streng***</span> monoton wachsend, wenn wachsendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$}
+> Montonie:
+>> <span style="color:blue">***streng***</span> monton wachsend: Eine Funktion heißt <span style="color:blue">***streng***</span> monoton wachsend, wenn wachsendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$}
 
 # Rätsel
 
