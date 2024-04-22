@@ -161,9 +161,14 @@ Wiederholung:
 {{2}}
 ***********
 > Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann
+***********
 
+{{3}}
+***********
 > Montonie:
->> <span style="color:blue">***streng***</span> monton wachsend: Eine Funktion heißt <span style="color:blue">***streng***</span> monoton wachsend, wenn wachsendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$}
+
+>> <span style="color:blue">***streng***</span> monton wachsend: Eine Funktion heißt <span style="color:blue">***streng***</span> monoton wachsend, wenn bei größer werdendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$
+***********
 
 # Rätsel
 
