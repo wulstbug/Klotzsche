@@ -172,13 +172,13 @@ Wiederholung:
 
 {{4}}
 ***********
->> Eine Funktion heißt <span style="color:blue">***streng monoton fallend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) kleiner wird, d.h. wenn $x_1 < x2$ => $f(x_1) > f(x_2)$
+>> Eine Funktion heißt <span style="color:orange">***streng monoton fallend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) kleiner wird, d.h. wenn $x_1 < x2$ => $f(x_1) > f(x_2)$
 ***********
 
 {{5}}
 ***********
->> <span style="color:orange">***monton fallend***</span>: $\forall x_1 > x_2: f(x_1) \leq f(x_2)$
-
+>> <span style="color:blue">***monton wachsend***</span>: $\forall x_1 > x_2: f(x_1) \leq f(x_2)$
+>> <span style="color:blue">***monton fallend***</span>: $\forall x_1 > x_2: f(x_1) \qeg f(x_2)$
 ***********
 
 
