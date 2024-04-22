@@ -191,9 +191,13 @@ Wiederholung:
 
 {{6}}
 ***********
->> Nullstellen: Schnittpunkte mit der x-Achse, d.h. $f(x) = 0$.
+>> <span style="color:red">Nullstellen:</span>  Schnittpunkte mit der x-Achse, d.h. $f(x) = 0$.
 ***********
 
+{{7}}
+***********
+>> Nullstellen: Schnittpunkte mit der x-Achse, d.h. $f(x) = 0$.
+***********
 
 # Rätsel
 
