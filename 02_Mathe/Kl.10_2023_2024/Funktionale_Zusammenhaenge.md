@@ -149,6 +149,10 @@ $\hspace{1cm}$f*) $ f(x) = 2 \Big( e^{\frac{x}{3}-4} \Big)^3 -1 $
 <iframe src="https://learningapps.org/watch?v=pyw56qt4324" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ***********
 
+# Eigenschaften von Funktionen
+
+
+
 # Rätsel
 
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
