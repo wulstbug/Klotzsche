@@ -169,7 +169,7 @@ Wiederholung:
 
 >> Eine Funktion heißt <span style="color:blue">***streng monoton wachsend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$
 
->> Beispiele: ![streng_monoton_wachsend](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/86ppsBmXA4gZzXr/download)
+>> Beispiele: ![streng_monoton_wachsend](https://diversewolken.ddns.net/nextcloud/index.php/s/86ppsBmXA4gZzXr/download)
 
 ***********
 
@@ -178,13 +178,14 @@ Wiederholung:
 ***********
 >> Eine Funktion heißt <span style="color:orange">***streng monoton fallend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) kleiner wird, d.h. wenn $x_1 < x2$ => $f(x_1) > f(x_2)$
 
->> Beispiele: ![streng_monoton_fallend](/download)
+>> Beispiele: ![streng_monoton_fallend](https://diversewolken.ddns.net/nextcloud/index.php/s/BqyPBHtRxppAmgz/download)
 
 ***********
 
 {{5}}
 ***********
 >> <span style="color:blue">***monton wachsend***</span>: $\forall x_1 > x_2: f(x_1) \leq f(x_2)$
+
 >> <span style="color:orange">***monton fallend***</span>: $\forall x_1 > x_2: f(x_1) \geq f(x_2)$
 ***********
 
