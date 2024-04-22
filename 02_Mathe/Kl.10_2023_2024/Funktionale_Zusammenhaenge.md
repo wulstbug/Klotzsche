@@ -168,11 +168,8 @@ Wiederholung:
 > Montonie:
 
 >> Eine Funktion heißt <span style="color:blue">***streng monoton wachsend***</span>, wenn bei größer werdendem Argument x der Funktionswert f(x) ebenfalls größer wird, d.h. wenn $x_1 < x2$ => $f(x_1) < f(x_2)$
-***********
 
-{{4}}
-***********
->> Beispiele: 
+>> Beispiele: ![streng_monoton_fallend](https://diversewolken.ddns.net:4443/nextcloud/index.php/s/86ppsBmXA4gZzXr/download)
 
 ***********
 
