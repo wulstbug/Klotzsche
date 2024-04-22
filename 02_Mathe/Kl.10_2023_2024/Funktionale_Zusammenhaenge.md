@@ -189,6 +189,10 @@ Wiederholung:
 >> <span style="color:orange">***monton fallend***</span>: $\forall x_1,x_2 \in \mathbb{D_f}: x_1 < x_2 ⇒ f(x_1) \geq f(x_2)$
 ***********
 
+{{6}}
+***********
+>> Nullstellen: Schnittpunkte mit der x-Achse, d.h. $f(x) = 0$.
+***********
 
 
 # Rätsel
