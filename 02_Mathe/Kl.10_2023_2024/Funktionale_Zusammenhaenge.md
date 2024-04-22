@@ -155,9 +155,11 @@ Wiederholung:
 
 {1}{> Definitionsbereich $\mathbb{D_f}$: $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.}
 
-1{}{> Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann.}
+{2}{> Wertebereich $\mathbb{W_f}$ ist die Menge aller Zahlen $y$, die die $y=f(x)$ annehmen kann.}
 
-> Montonie:
+{3}{> Montonie:}
+
+{4}{> <span style="color:blue">***streng***</span> monton wachsend}
 
 # Rätsel
 
