@@ -159,7 +159,7 @@ Wiederholung:
 
 {3}{> Montonie:}
 
-{4}{> (<span style="color:blue">***streng***</span>) monton wachsend: Eine Funktion heißt (<span style="color:blue">***streng***</span>), wenn bei größerem Argument der Funktionswert }
+{4}{> (<span style="color:blue">***streng***</span>) monton wachsend: Eine Funktion heißt <span style="color:blue">***streng***</span> monoton wachsend, wenn bei größerem Argument x der Funktionswert größer wird, d.h. }
 
 # Rätsel
 
