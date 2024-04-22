@@ -155,7 +155,7 @@ Wiederholung:
 
 {{1}}
 ***********
-> Definitionsbereich $\mathbb{D_f}$: $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.
+> <span style="color:orange">Definitionsbereich $\mathbb{D_f}$</span> : $\mathbb{D_f}$ ist die Menge aller Zahlen $x$, für die $f(x)$ definiert ist.
 ***********
 
 {{2}}
