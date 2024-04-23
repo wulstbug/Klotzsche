@@ -211,9 +211,10 @@ Nutze folgende Typen von Funktionen:
 
 3. Exponentialfunktionen: Bsp: $f(x) = \Big(\dfrac{1}{3}\Big)^x+1$
 
-4. Wurzelfunktion: Bsp:  Bsp: $f(x) = \sqrt(x)+2$
+4. Wurzelfunktion: Bsp: $f(x) = \sqrt{(x)+2}$
 
-5. 
+5. Hyperbelfunktion: Bsp: 
+
 
 
 
