@@ -205,15 +205,14 @@ Wiederholung:
 
 Nutze folgende Typen von Funktionen:
 
-1. Lineare Funktionen: Bsp: $f(x) = 2x+3$
-
-2. Quadratische Funktionen: Bsp: $f(x) = 3(x-2)^2$
-
-3. Exponentialfunktionen: Bsp: $f(x) = \Big(\dfrac{1}{3}\Big)^x+1$
-
-4. Wurzelfunktion: Bsp: $f(x) = \sqrt{(x)+2}$
-
-5. Hyperbelfunktion: Bsp: 
+| | 
+| Name der Funktion | Beispielfunktion |
+---------------------
+| Lineare Funktionen: Bsp: $f(x) = 2x+3$
+| Quadratische Funktionen: Bsp: $f(x) = 3(x-2)^2$
+| Exponentialfunktionen: Bsp: $f(x) = \Big(\dfrac{1}{3}\Big)^x+1$
+| Wurzelfunktion: Bsp: $f(x) = \sqrt{(x)+2}$
+| Hyperbelfunktion: Bsp: 
 
 
 
