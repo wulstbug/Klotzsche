@@ -205,13 +205,15 @@ Wiederholung:
 
 Nutze folgende Typen von Funktionen:
 
-1. Lineare Funktionen
+1. Lineare Funktionen (Bsp: $f(x) = 2x$)
 
-2. Quadratische Funktionen
+2. Quadratische Funktionen (Bsp: $f(x) = 3x^2$)
 
-3. Exponentialfunktionen
+3. Exponentialfunktionen  (Bsp: $f(x) = \dfrac{1}{3}^x$)
 
 4. Wurzelfunktion
+
+
 
 </H3>
 
