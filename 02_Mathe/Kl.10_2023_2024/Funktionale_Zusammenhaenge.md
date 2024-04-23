@@ -216,7 +216,9 @@ Nutze folgende Typen von Funktionen:
 
 <span style="color:blue">***Vergleiche LB S. 148 Beispiel 2 und 3***</span> 
 
+Funktionsterm darstellen
 
+> https://geogebra.org/classic
 
 App Erstellen:
 
