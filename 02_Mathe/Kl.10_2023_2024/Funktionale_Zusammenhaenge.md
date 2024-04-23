@@ -208,11 +208,11 @@ Nutze folgende Typen von Funktionen:
 | | 
 | Name der Funktion | Beispielfunktion |
 ---------------------
-| Lineare Funktionen: Bsp: $f(x) = 2x+3$
-| Quadratische Funktionen: Bsp: $f(x) = 3(x-2)^2$
-| Exponentialfunktionen: Bsp: $f(x) = \Big(\dfrac{1}{3}\Big)^x+1$
-| Wurzelfunktion: Bsp: $f(x) = \sqrt{(x)+2}$
-| Hyperbelfunktion: Bsp: 
+| Lineare Funktionen       | $f(x) = 2x+3$                       |
+| Quadratische Funktionen  | $f(x) = 3(x-2)^2$                   |
+| Exponentialfunktionen    | $f(x) = \Big(\dfrac{1}{3}\Big)^x+1$ |
+| Wurzelfunktion           | $f(x) = \sqrt{(x)+2}$               |
+| Hyperbelfunktion         | $f(x) = \dfrac{2}{x}                |
 
 
 
