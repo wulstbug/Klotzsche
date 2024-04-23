@@ -201,7 +201,7 @@ Wiederholung:
 
 ## Aufgaben Learningsapps
 
-<H3> Ziel: Probiere verschiedene Learning-Apps zum Thema "Zuordnung von Funktionen und Funktionstermen" auf den folgenden Seiten aus. Erstelle dann eine eigene Learning-App.
+<H4> Ziel: Probiere verschiedene Learning-Apps zum Thema "Zuordnung von Funktionen und Funktionstermen" auf den folgenden Seiten aus. Erstelle dann eine eigene Learning-App.
 
 Nutze folgende Typen von Funktionen:
 
@@ -216,9 +216,13 @@ Nutze folgende Typen von Funktionen:
 
 <span style="color:blue">***Vergleiche LB S. 148 Beispiel 2 und 3***</span> 
 
-https://learningapps.org/createApp.php
 
-</H3>
+
+App Erstellen:
+
+> https://learningapps.org/createApp.php
+
+</H4>
 
 
 
