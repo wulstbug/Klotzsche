@@ -212,7 +212,7 @@ Nutze folgende Typen von Funktionen:
 | Exponentialfunktionen    | $f(x) = \Big(\dfrac{1}{3}\Big)^x+1$ |
 | Wurzelfunktion           | $f(x) = \sqrt{(x)+2}$               |
 | Hyperbelfunktion         | $f(x) = \dfrac{2}{x} $               |
-
+| Trigonometrische Funktionen         | $f(x) = 2\sin(x) $               |
 Vergleiche LB S. 148 Beispiel 2 und 3
 
 
