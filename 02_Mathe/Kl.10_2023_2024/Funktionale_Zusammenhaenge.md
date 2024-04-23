@@ -209,6 +209,12 @@ Wiederholung:
 
 ### Beispiel 2
 
+??[Funktionsterme2](https://learningapps.org/3897439)
+
+### Beispiel 3
+
+??[Funktionsterme3](https://learningapps.org/23796583)
+
 # Rätsel
 
 ## Milchkannenrätsel
