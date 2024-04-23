@@ -213,6 +213,7 @@ Nutze folgende Typen von Funktionen:
 | Wurzelfunktion           | $f(x) = \sqrt{(x)+2}$               |
 | Hyperbelfunktion         | $f(x) = \dfrac{2}{x} $               |
 
+Vergleiche LB S. 148 Beispiel 2 und 3
 
 
 
