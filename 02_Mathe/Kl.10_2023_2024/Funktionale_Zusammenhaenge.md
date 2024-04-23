@@ -196,9 +196,16 @@ Wiederholung:
 
 {{7}}
 ***********
->> Extremstellen: Ein Maximum oder Minimum der Funktion
+>> Extremstellen: Ein Maximum oder Minimum der Funktion.
 ***********
 
 # Rätsel
 
+## Milchkannenrätsel
+
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
+
+
+## Hashiwokakero
+
+??[Hashi](https://spiele.zeit.de/hashiwokakero/)
