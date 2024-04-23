@@ -215,7 +215,7 @@ Nutze folgende Typen von Funktionen:
 | Trigonometrische Funktionen         | $f(x) = 2\sin(x) $               |
 Vergleiche LB S. 148 Beispiel 2 und 3
 
-
+https://learningapps.org/createApp.php
 
 </H3>
 
