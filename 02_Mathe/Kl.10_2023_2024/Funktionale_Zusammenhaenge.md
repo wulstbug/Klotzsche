@@ -201,7 +201,21 @@ Wiederholung:
 
 ## Aufgaben Learningsapps
 
-<H3> Ziel: Probiere verschiedene Learning-Apps zum Thema "Zuordnung von Funktionen und Funktionstermen" auf den folgenden Seiten aus. Erstelle dann eine eigene Learning-App.</H3>
+<H3> Ziel: Probiere verschiedene Learning-Apps zum Thema "Zuordnung von Funktionen und Funktionstermen" auf den folgenden Seiten aus. Erstelle dann eine eigene Learning-App.
+
+Nutze folgende Typen von Funktionen:
+
+1. Lineare Funktionen
+
+2. Quadratische Funktionen
+
+3. Exponentialfunktionen
+
+4. Wurzelfunktion
+
+</H3>
+
+
 
 ### Beispiel 1
 
