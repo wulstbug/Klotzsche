@@ -201,7 +201,11 @@ Wiederholung:
 
 ## Aufgaben Learningsapps
 
-<H3> Ziel: </H3>
+<H3> Ziel: Probiere verschiedene Learning-Apps zum Thema "Zuordnung von Eigenschaften und Funktionen" auf den folgenden Seiten aus. Erstelle dann eine eigene Learning-App.</H3>
+
+### Beispiel 1
+
+### Beispiel 2
 
 # Rätsel
 
