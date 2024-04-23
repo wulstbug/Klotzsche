@@ -199,6 +199,10 @@ Wiederholung:
 >> Extremstellen: Ein Maximum oder Minimum der Funktion.
 ***********
 
+## Aufgaben Learningsapps
+
+<H3> Ziel: </H3>
+
 # Rätsel
 
 ## Milchkannenrätsel
