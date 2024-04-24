@@ -227,14 +227,9 @@ Nutze folgende Typen von Funktionen:
 <iframe src="https://learningapps.org/watch?v=pr54a4yck24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <H4>
-
-Funktionsterm darstellen
-
-> https://geogebra.org/classic
-
-App Erstellen:
-
-> https://learningapps.org/createApp.php
+| | |
+| Funktionsterm darstellen | App Erstellen |
+| > https://geogebra.org/classic | > https://learningapps.org/createApp.php |
 
 </H4>
 
