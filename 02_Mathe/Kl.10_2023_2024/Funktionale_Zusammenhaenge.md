@@ -228,13 +228,9 @@ App Erstellen:
 
 
 
-### Beispiel 1
+### Beispiele
 
-??[Funktionsterme1](https://learningapps.org/18796976)
-
-### Beispiel 2
-
-??[Funktionsterme2](https://learningapps.org/3897439)
+??[Funktionsterme1](https://learningapps.org/watch?v=pr54a4yck24)
 
 ### Beispiel 3
 
