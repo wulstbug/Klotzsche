@@ -216,11 +216,7 @@ Nutze folgende Typen von Funktionen:
 | Logarithmische Funktionen         | $f(x) = log_3(x) $               |
 
 
-<span style="color:blue">***Vergleiche LB S. 148 Beispiel 2 und 3***</span> 
-
 </H4>
-
-
 
 ### Beispiele
 
@@ -230,6 +226,8 @@ Nutze folgende Typen von Funktionen:
 | | |
 | Funktionsterm darstellen | App Erstellen |
 | > https://geogebra.org/classic | > https://learningapps.org/createApp.php |
+
+<span style="color:blue">***Vergleiche LB S. 148 Beispiel 2 und 3***</span> 
 
 </H4>
 
