@@ -232,7 +232,7 @@ App Erstellen:
 
 ??[Funktionsterme1](https://learningapps.org/watch?v=pr54a4yck24)
 
-### Beispiel 3
+### Beispiel Zusatz
 
 ??[Funktionsterme3](https://learningapps.org/23796583)
 
