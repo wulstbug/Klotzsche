@@ -224,7 +224,9 @@ Nutze folgende Typen von Funktionen:
 
 ### Beispiele
 
-??[Funktionsterme1](https://learningapps.org/watch?v=pr54a4yck24)
+<iframe src="https://learningapps.org/watch?v=pr54a4yck24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<H4>
 
 Funktionsterm darstellen
 
@@ -233,6 +235,8 @@ Funktionsterm darstellen
 App Erstellen:
 
 > https://learningapps.org/createApp.php
+
+</H4>
 
 ### Beispiel Zusatz
 
