@@ -213,18 +213,10 @@ Nutze folgende Typen von Funktionen:
 | Wurzelfunktion           | $f(x) = \sqrt{(x)+2}$               |
 | Hyperbelfunktion         | $f(x) = \dfrac{2}{x} $               |
 | Trigonometrische Funktionen         | $f(x) = 2\sin(x) $               |
-| Logarithmische Funktionen         | $f(x) = 2\sin(x) $               |
+| Logarithmische Funktionen         | $f(x) = log_3(x) $               |
 
 
 <span style="color:blue">***Vergleiche LB S. 148 Beispiel 2 und 3***</span> 
-
-Funktionsterm darstellen
-
-> https://geogebra.org/classic
-
-App Erstellen:
-
-> https://learningapps.org/createApp.php
 
 </H4>
 
@@ -233,6 +225,14 @@ App Erstellen:
 ### Beispiele
 
 ??[Funktionsterme1](https://learningapps.org/watch?v=pr54a4yck24)
+
+Funktionsterm darstellen
+
+> https://geogebra.org/classic
+
+App Erstellen:
+
+> https://learningapps.org/createApp.php
 
 ### Beispiel Zusatz
 
