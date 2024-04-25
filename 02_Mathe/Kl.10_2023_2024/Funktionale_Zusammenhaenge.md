@@ -245,6 +245,8 @@ Nutze folgende Typen von Funktionen:
 
 ??[LearningAppsSuS](https://learningapps.org/watch?v=pw8uj8m8324)
 
+??[Bewertung](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQUE1NFhNTEI5MTEyM1YyWjZRSUFST1VHNy4u)
+
 ## Milchkannenrätsel
 
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
