@@ -235,11 +235,17 @@ Nutze folgende Typen von Funktionen:
 
 ??[Funktionsterme3](https://learningapps.org/23796583)
 
-# Rätsel
+# Funktionenbingo
+
+
 
 ## Milchkannenrätsel
 
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
+
+
+# Funktionenbingo
+
 
 
 ## Hashiwokakero
