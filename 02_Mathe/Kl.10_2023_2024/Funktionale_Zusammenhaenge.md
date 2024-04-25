@@ -237,7 +237,7 @@ Nutze folgende Typen von Funktionen:
 
 # Funktionenbingo
 
-![FunktionenBingo1](downlad) 
+![FunktionenBingo1](https://diversewolken.ddns.net/nextcloud/index.php/s/FaYzmL7KoHZcsCy/download) 
 
 {1}{![FunktionenBingo2](https://diversewolken.ddns.net/nextcloud/index.php/s/bT9Gd63Mfm8yXrk/download)}
 
