@@ -237,9 +237,9 @@ Nutze folgende Typen von Funktionen:
 
 # Funktionenbingo
 
-![FunktionenBingo1](https://diversewolken.ddns.net/nextcloud/index.php/s/FaYzmL7KoHZcsCy) 
+![FunktionenBingo1](downlad) 
 
-{1}{![FunktionenBingo2](https://diversewolken.ddns.net/nextcloud/index.php/s/bT9Gd63Mfm8yXrk)}
+{1}{![FunktionenBingo2](https://diversewolken.ddns.net/nextcloud/index.php/s/bT9Gd63Mfm8yXrk/download)}
 
 # LearningApps SchülerInnen
 
