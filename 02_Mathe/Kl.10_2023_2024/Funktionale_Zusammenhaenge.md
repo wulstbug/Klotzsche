@@ -237,7 +237,7 @@ Nutze folgende Typen von Funktionen:
 
 # Funktionenbingo
 
-
+![]() ![]()
 
 ## Milchkannenrätsel
 
