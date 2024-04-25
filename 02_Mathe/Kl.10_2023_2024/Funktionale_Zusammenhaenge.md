@@ -237,7 +237,7 @@ Nutze folgende Typen von Funktionen:
 
 # Funktionenbingo
 
-![]() ![]()
+![FunktionenBingo1](https://diversewolken.ddns.net/nextcloud/index.php/s/FaYzmL7KoHZcsCy) ![]()
 
 ## Milchkannenrätsel
 
