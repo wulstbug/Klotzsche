@@ -241,6 +241,10 @@ Nutze folgende Typen von Funktionen:
 
 {1}{![FunktionenBingo2](https://diversewolken.ddns.net/nextcloud/index.php/s/bT9Gd63Mfm8yXrk)}
 
+# LearningApps SchülerInnen
+
+??[LearningAppsSuS](https://learningapps.org/watch?v=pw8uj8m8324)
+
 ## Milchkannenrätsel
 
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
