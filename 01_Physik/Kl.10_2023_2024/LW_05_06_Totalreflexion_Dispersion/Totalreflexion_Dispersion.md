@@ -86,11 +86,15 @@ Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style=
 
 Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. Das elektromagnetische Feld transportiert die Energie.
 
+Die Ausbreitungsgeschwindigkeit beträgt
+
+> $c = 300.000 \dfrac{km}{s}$
+
 ## Wiederholung: Wellen an Grenzflächen
 
 ![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
 
-## Eigenschaften der 
+
 
 ### Lösung 1: Wellen an Grenzflächen
 
