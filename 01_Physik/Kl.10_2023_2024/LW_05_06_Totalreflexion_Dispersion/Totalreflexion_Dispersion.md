@@ -93,7 +93,7 @@ Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) beträgt
 
 {{4}}
 ***************
-Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Farbe***</span>.
+Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
 
 ***************
 
