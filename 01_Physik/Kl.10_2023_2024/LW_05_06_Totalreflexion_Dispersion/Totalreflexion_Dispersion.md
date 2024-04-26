@@ -80,17 +80,22 @@ Eigenschaften von Wellen
 
 Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir, dass ein Laserstrahl, der auf einen sehr kleinen Doppelspalt (Abstand 0,2mm) fällt, auf einem Schirm ein Beugungsmuster hinterlässt.
 
+{1}{Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>}
 
+{2}{Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. Das elektromagnetische Feld transportiert die Energie.}
 
-Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>
-
-Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. Das elektromagnetische Feld transportiert die Energie.
-
+{{3}}
+***************
 Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) beträgt
 
 > $c = 300.000 \dfrac{km}{s}$.
+***************
 
+{{4}}
+***************
 Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Farbe***</span>.
+
+***************
 
 ## Wiederholung: Wellen an Grenzflächen
 
