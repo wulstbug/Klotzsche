@@ -80,11 +80,11 @@ Eigenschaften von Wellen
 
 Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir, dass ein Laserstrahl, der auf einen sehr kleinen Doppelspalt (Abstand 0,2mm) fällt, auf einem Schirm ein Beugungsmuster hinterlässt.
 
+
+
 Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>
 
 ## Wiederholung: Wellen an Grenzflächen
-
-Arbeitsblatt:
 
 ![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
 
