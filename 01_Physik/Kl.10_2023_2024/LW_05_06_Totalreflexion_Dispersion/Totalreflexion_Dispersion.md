@@ -103,10 +103,10 @@ Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Licht
 ***************
 Es gilt die Wellengleichung:
 
-> $ $c = \lambda \cdot f$
+> $c = \lambda \cdot f$
 > mit 
-> \lambda .. Wellenlänge
-> f .. Frequenz
+> $\lambda$ .. Wellenlänge
+> $f$ .. Frequenz
 
 ***************
 
