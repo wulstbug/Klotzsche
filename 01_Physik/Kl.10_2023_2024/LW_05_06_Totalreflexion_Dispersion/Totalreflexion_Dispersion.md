@@ -86,9 +86,9 @@ Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style=
 
 Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. Das elektromagnetische Feld transportiert die Energie.
 
-Die Ausbreitungsgeschwindigkeit beträgt
+Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) beträgt
 
-> $c = 300.000 \dfrac{km}{s}$
+> $c = 300.000 \dfrac{km}{s}$.
 
 ## Wiederholung: Wellen an Grenzflächen
 
