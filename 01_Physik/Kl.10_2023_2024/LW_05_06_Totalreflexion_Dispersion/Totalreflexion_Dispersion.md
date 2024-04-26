@@ -78,6 +78,8 @@ Eigenschaften von Wellen
 
 # Licht als elektromagnetische Welle
 
+Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir, dass ein Laserstrahl, der auf einen sehr kleinen Doppelspalt (Abstand 0,2mm) fällt, auf einem Schirm ein Beugungsmuster hinterlässt.
+
 ## Wiederholung: Wellen an Grenzflächen
 
 Arbeitsblatt:
