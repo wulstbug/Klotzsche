@@ -84,13 +84,13 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 
 Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>
 
-Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]). Das elektromagnetische Feld transportiert die Energie.
+Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. Das elektromagnetische Feld transportiert die Energie.
 
 ## Wiederholung: Wellen an Grenzflächen
 
 ![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
 
-
+## Eigenschaften der 
 
 ### Lösung 1: Wellen an Grenzflächen
 
