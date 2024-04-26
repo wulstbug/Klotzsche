@@ -82,7 +82,7 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 
 ![Doppelspalt](https://diversewolken.ddns.net/nextcloud/index.php/s/PWMnf2JX4xiXamx/download)<!-- style="width:60%"-->
 
-{1}{Da Beugung und Interferenz eine Welleneigenschaft ist, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>}
+{1}{Da Beugung und Interferenz Welleneigenschaften sind, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>}
 
 {2}{Bei einer Lichtwelle schwingt das <span style="color:orange">***elektromagnetische Feld***</span>. Eine Lichtwelle benötigt kein Medium (anders als z.B. Schall[Luft], Wasserwellen[Wasser]) zur Ausbreitung. Das elektromagnetische Feld transportiert die Energie.}
 
