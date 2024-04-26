@@ -90,6 +90,8 @@ Die Ausbreitungsgeschwindigkeit (Lichtgeschwindigkeit) beträgt
 
 > $c = 300.000 \dfrac{km}{s}$.
 
+Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Farbe***</span>.
+
 ## Wiederholung: Wellen an Grenzflächen
 
 ![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
