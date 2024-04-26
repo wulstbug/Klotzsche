@@ -84,9 +84,13 @@ Bei dem <span style="color:orange">Doppelspaltexperiment</span>  beobachten wir,
 
 Da Beugung eine Welleneigenschaft ist, betrachten wir das Licht als <span style="color:orange"> elektromagnetische Welle.</span>
 
+
+
 ## Wiederholung: Wellen an Grenzflächen
 
 ![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
+
+
 
 ### Lösung 1: Wellen an Grenzflächen
 
