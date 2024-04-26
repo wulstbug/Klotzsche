@@ -76,6 +76,8 @@ Eigenschaften von Wellen
 
 ??[Aufgabe](https://diversewolken.ddns.net/nextcloud/index.php/s/TsiXGj5WBYiRnxY/download)
 
+# Licht als elektromagnetische Welle
+
 ## Wiederholung: Wellen an Grenzflächen
 
 Arbeitsblatt:
