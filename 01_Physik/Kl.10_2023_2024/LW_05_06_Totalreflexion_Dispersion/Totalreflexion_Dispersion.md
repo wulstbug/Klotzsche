@@ -101,7 +101,12 @@ Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Licht
 
 {{5}}
 ***************
-Die Wellenlänge der Lichtwelle bestimmt die <span style="color:orange">***Lichtfarbe***</span>.
+Es gilt die Wellengleichung:
+
+> $ $c = \lambda \cdot f$
+> mit 
+> \lambda .. Wellenlänge
+> f .. Frequenz
 
 ***************
 
