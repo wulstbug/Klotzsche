@@ -80,7 +80,7 @@ $Rot:\,5\,k\Omega,\,Weiß:\,51\,k\Omega,\,Grün:\,510\,\Omega,\,Blau:\,10k\,\Ome
 
 4. Die Reihenschaltung von Widerständen aus der obigen Liste hat den Gesamtwiderstand $R_{ges} = 7510\,\Omega$. Zeichne eine mögliche Schlatung. {7}{<span style="color:orange">![Lsg4](https://diversewolken.ddns.net/nextcloud/index.php/s/WJAP7CEdge9Am35/download)<!-- style="width:40%"--></span>}
 
-5. Bestimme den Gesamtwiderstand aus einer Parallelschaltung von rot und grün, die mit einem gelben Widerstand in Reihe geschaltet ist.
+5. Bestimme den Gesamtwiderstand aus einer Parallelschaltung von rot und grün, die mit einem gelben Widerstand in Reihe geschaltet ist. Zeichne den Schaltkreis.
 
 {8}{<span style="color:orange">![Lsg5](https://diversewolken.ddns.net/nextcloud/index.php/s/WJAP7CEdge9Am35/download)<!-- style="width:40%"--></span>}
 
