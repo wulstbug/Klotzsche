@@ -82,7 +82,7 @@ $Rot:\,5\,k\Omega,\,Weiß:\,51\,k\Omega,\,Grün:\,510\,\Omega,\,Blau:\,10k\,\Ome
 
 5. Bestimme den Gesamtwiderstand aus einer Parallelschaltung von rot und grün, die mit einem gelben Widerstand in Reihe geschaltet ist. Zeichne den Schaltkreis.
 
-{8}{<span style="color:orange">![Lsg5](https://diversewolken.ddns.net/nextcloud/index.php/s/WJAP7CEdge9Am35/download)<!-- style="width:40%"--></span>}
+{8}{<span style="color:orange">![Lsg5](https://diversewolken.ddns.net/nextcloud/index.php/s/PqwrrdAMqQtq4Bb/download)<!-- style="width:40%"--></span>}
 
 {9}{<span style="color:orange">$\hspace{2cm} $1.  Parallel rot, grün $R_{ges1} = 462,8\Omega$</span>}
 
