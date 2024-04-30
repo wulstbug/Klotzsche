@@ -78,7 +78,7 @@ $Rot:\,5\,k\Omega,\,Weiß:\,51\,k\Omega,\,Grün:\,510\,\Omega,\,Blau:\,10k\,\Ome
 
 3.2. Bei einer Parallelschaltung ist der Gesamtwiderstand ......... {6}{<span style="color:orange">kleiner</span>} als jeder einzelne Widerstand.
 
-4. Die Verschaltung von drei Widerständen aus der obigen Liste hat den Gesamtwiderstand $R_{ges} = 7510\,\Omega$. Zeichne eine mögliche Schlatung. {7}{<span style="color:orange">![Lsg4](https://diversewolken.ddns.net/nextcloud/index.php/s/WJAP7CEdge9Am35)</span>}
+4. Die Verschaltung von drei Widerständen aus der obigen Liste hat den Gesamtwiderstand $R_{ges} = 7510\,\Omega$. Zeichne eine mögliche Schlatung. {7}{<span style="color:orange">![Lsg4](https://diversewolken.ddns.net/nextcloud/index.php/s/WJAP7CEdge9Am35/download)<!-- style="width:40%"--></span>}
 
 5. Bestimme den Gesamtwiderstand aus einer Parallelschaltung von rot und grün, die mit einem gelben Widerstand in Reihe geschaltet ist.
 
