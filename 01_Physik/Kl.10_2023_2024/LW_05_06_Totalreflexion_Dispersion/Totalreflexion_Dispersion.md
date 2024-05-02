@@ -141,8 +141,12 @@ Es gilt die Wellengleichung:
 {2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
 {3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/6i39C3mY2YFaZX6/download)}
 
+{{4}}
+***************
 Für das __erste Beugungsmaximum gilt die Formel__:
 
 > $\dfrac{\lambda}{d} = \dfrac{a}{e}$
+***************
+
 
 </section>
