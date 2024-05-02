@@ -35,7 +35,7 @@ window.LIA.settings.font_size = 2
 
 # TÜ
 
-<div style="float: right; height: 100px; position: relative; width: 200px; overflow: hidden; top: -80px;"> <div style="overflow: hidden;"> </div> <div> <iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:11:30&showbuttons=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe> </div> </div>
+<div style="float: right; height: 100px; position: relative; width: 200px; overflow: hidden; top: -80px;"> <div style="overflow: hidden;"> </div> <div> <iframe width="200" height="90" src="https://webuhr.de/embed/timer/#countdown=00:15:00&showbuttons=0&theme=0&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe> </div> </div>
 
 <section class="newspaper">
 
@@ -68,11 +68,10 @@ window.LIA.settings.font_size = 2
 
 6. 1. Erzeuge durch Öffnen und Schließen von (S1-S6) einen Gesamtwiderstand von 
 | | |
-| $100\Omega$ | $300\Omega$ |  250 \Omega$ |
-| {9}{<span style="color:orange">S1, S6</span>} | {10}{<span style="color:orange">S1, S5</span>} | {11}{<span style="color:orange">S1, S4, S5</span>}
+| $100\Omega$ | $300\Omega$ |  $250 \Omega$ |
+| {9}{<span style="color:orange">S1, S6</span>} | {10}{<span style="color:orange">S1, S5</span>} | {11}{<span style="color:orange">S1, S4, S5</span>} |
 
 6. 2. Berechne den Gesamtwiderstand wenn S1-S5 geschlossen sind, S6 geöffnet ist.
 
 </section>
 
-https://tinyurl.com/yrp2fely
