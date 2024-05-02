@@ -160,17 +160,17 @@ __Experiment:__
 ***************
 __Wellenlänge:__
 
-> $\lambda = \dfrac{a \cdot d}{e} = $
+> $\lambda = \dfrac{a \cdot d}{e} = $ {7}{..}
 
 ***************
 
 </section>
 
 
-{{7}}
+{{8}}
 ***************
 
-
+<iframe src="https://www.geogebra.org/classic/b79yafcu?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ***************
 
