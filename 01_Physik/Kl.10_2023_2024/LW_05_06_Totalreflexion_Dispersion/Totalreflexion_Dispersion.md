@@ -152,9 +152,13 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 Experiment:
 
-d = m $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
+d = $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
 
 ***************
+
+</section>
+
+# Test
 
 <script input="number" value="1" output="d">
 let d = @input
@@ -168,10 +172,4 @@ let d = @input
 <script>
 @input(`a`)
 </script>
-
-</section>
-
-# Test
-
-
 
