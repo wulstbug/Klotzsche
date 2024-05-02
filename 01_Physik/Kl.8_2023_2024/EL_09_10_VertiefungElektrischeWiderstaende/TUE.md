@@ -68,7 +68,8 @@ window.LIA.settings.font_size = 2
 
 ![Netzwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/pMxqnKJ7Tj6dWBX/download)
 
-https://tinyurl.com/yrp2fely
+6.1. Berechne den Gesamtwiderstand wenn S1, S3, S4 und S5 geschlossen sind, S3 und S6 geöffnet.
 
 </section>
 
+https://tinyurl.com/yrp2fely
