@@ -152,7 +152,12 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 Experiment:
 
-> d = [[.]] $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
+<script>
+  // insert the JSON dataset into the local variable data
+  let data = @input(1);
+</script>
+
+> d =  $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
 ***************
 
 
