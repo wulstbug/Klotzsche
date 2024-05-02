@@ -177,7 +177,13 @@ __Wellenlänge des Lichts berechnen:__
 
 __Aufgabe:__ Bestimme die Wellenlänge $\lambda$ des Lasers mit Hilfe eines Beugungsgitters. 
 
-__Messwerte:__
+__Messwerte:__ 
+
+    - Abstand Gitter-Schirm e = ...
+
+    - Gitterkonstante d = ...
+
+    - Abstand zweier Beugungsmaxima 
 
 
 
