@@ -51,7 +51,7 @@ Reihenschaltung zweier Widerstände $R_1$ und $R_2$
 ![Parallel](https://diversewolken.ddns.net/nextcloud/index.php/s/CG6ZXmXid7wjppe/download)
 
 {0-3}{$R_{ges} >=<?? R_1 bzw. R_2$}
-{1}{$R_{ges} < R_1 bzw. R_2$}
+{3}{$R_{ges} < R_1 bzw. R_2$}
 
 {4}{<H3>$R_{ges} = \dfrac{R_1 \cdot R_2}{R_1 + R_2}$</H3>}
 
