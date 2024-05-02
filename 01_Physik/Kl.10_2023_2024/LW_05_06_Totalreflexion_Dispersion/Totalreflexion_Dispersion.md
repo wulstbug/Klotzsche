@@ -160,12 +160,10 @@ d = m $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$
 let d = @input
 "d = " + d + "m"
 </script>
-
 <script input="number" value="1" output="a">
 let a = @input
 "a = " + a + "m"
 </script>
-
 <script>
 @input("d")
 </script>
