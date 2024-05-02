@@ -159,15 +159,9 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 
 # Test
 
-``` js
-for (let i=0; i<5; i++)
-  console.log("Hallo Welt", i)
-```
-``` text  @output
-Hallo Welt 0
-Hallo Welt 1
-Hallo Welt 2
-Hallo Welt 3
-Hallo Welt 4
-```
-<script>@input</script>
+
+<script input value="0">
+</script>
+
+
+
