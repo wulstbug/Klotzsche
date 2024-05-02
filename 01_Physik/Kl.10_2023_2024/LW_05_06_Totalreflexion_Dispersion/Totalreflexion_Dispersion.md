@@ -173,6 +173,11 @@ __Wellenlänge des Lichts berechnen:__
 
 ***************
 
+# Kurzprotokoll: Wellenlängenbestimmung am Beugungsgitter
+
+Aufgabe: Bestimme die Wellenlänge $\lambda$ des Lasers 
+
+
 # Test
 
 <script input="number" value="1" output="d">
