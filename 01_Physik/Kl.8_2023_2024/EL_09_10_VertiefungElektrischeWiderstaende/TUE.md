@@ -66,7 +66,7 @@ window.LIA.settings.font_size = 2
 
 6. Folgendes Widerstandsnetzwerk ist gegeben. 
 
-??[Falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKADcRjCRtC9PuAFn5UqgqmAmio0BCwDuAkMPDEUy-q0Vg1GkCjz8VkBfsN7seQXpMBnVepU71YA1HAgAZgEMANrboWewMjfhDwNwkvPwCgnisLBNcRDx9-QIAnBwjNXWd3SRMs8OSzXPUxOBYsy2tS2uyqPCrtPN0S3RNFDvUG-K6y-RRrHqhTcJRh+JGpgYmp-MnrO0Glwdxl1JjA+0WF3Q2C6PTq7MP83hTCKuLzQ-DL9zQVhrWGx6i02MUuHj4z-4DC7-B6A8Z3f7vMFAA)
+![Netzwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/pMxqnKJ7Tj6dWBX/download)
 
 </section>
 
