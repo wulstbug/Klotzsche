@@ -62,14 +62,12 @@ window.LIA.settings.font_size = 2
 
 {8}{$\hspace{1cm}$ <span style="color:orange">$R_{ges} = \dfrac{(1+5) \cdot 2}{(1+5)+2} k\Omega = 1,5 k\Omega$</span>}
 
-<p class="cb"> .. </p>
+<p class="cb"> 6. Folgendes Widerstandsnetzwerk ist gegeben. </p>
 
-6. Folgendes Widerstandsnetzwerk ist gegeben. 
-
-![Netzwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/pMxqnKJ7Tj6dWBX/download)
+![Netzwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/pMxqnKJ7Tj6dWBX/download)<!-- style="width:80%"-->
 
 6. 1. Erzeuge durch Öffnen und Schließen von (S1-S6) einen Gesamtwiderstand von 
-
+| | |
 | $100\Omega$ | $300\Omega$ | $\approx 200 \Omega$ |
 | {9}{<span style="color:orange">S1, S6</span>} | {10}{<span style="color:orange">S1, S5</span>} |
 
