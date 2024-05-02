@@ -152,14 +152,18 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 Experiment:
 
-d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
+d = <script input="number" value="1" output="d">@input</script> m $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
 ***************
+
+<script>
+@input(`e`)
+</script>
 
 </section>
 
 # Test
 
-<script input="number" value="1" output="e">
+<script input="number" value="1" output="d">
 @input
 </script>
 
@@ -167,6 +171,3 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 @input
 </script>
 
-<script>
-@input(`e`)
-</script>
