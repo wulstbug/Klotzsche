@@ -167,5 +167,5 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 <script input="number" value="1" min="0" max="1000000">
 let i = @input
 
-"Square of " + i + " = " + i * i
+i
 </script>
