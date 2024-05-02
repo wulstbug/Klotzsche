@@ -162,8 +162,6 @@ let d = @input
 </script>
 
 <script input="number" value="1" output="a">
-let a = @input
-"a = " + a + "m"
 </script>
 
 <script>
