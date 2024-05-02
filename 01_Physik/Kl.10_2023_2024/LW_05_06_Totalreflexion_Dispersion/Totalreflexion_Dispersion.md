@@ -156,11 +156,11 @@ Experiment:
 
 ***************
 
-{{5}}
+{{6}}
 ***************
-Experiment:
+Wellenlänge:
 
-> d = $\hspace{2cm}$ a = $\hspace{2cm}$ e = $\hspace{2cm}$ 
+> $\lambda$ = \dfrac{}{}
 
 ***************
 
