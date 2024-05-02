@@ -73,7 +73,7 @@ window.LIA.settings.font_size = 2
 
 6. 2. Bestimme den größten Widerstand, welcher mit diesem Netzwerk eingestellt werden kann.
 
-{11}{<span style="color:orange">S1, S4, S5</span>}
+{12}{<span style="color:orange">$1400\Omega$ mit S3, S4</span>}
 
 </section>
 
