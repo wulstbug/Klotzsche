@@ -201,7 +201,7 @@ __Messwerte:__ Farbe:
 
 __Berechnung__
 
-    - Wellenlänge $\lambda$ = ...
+- Wellenlänge $\lambda$ = ...
 
 
 </section>
