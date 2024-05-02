@@ -75,12 +75,14 @@ window.LIA.settings.font_size = 2
 
 {12}{<span style="color:orange">$1400\Omega$ mit S3, S4</span>}
 
-</section>
 
-
-{13}
+{{13}}
 *************
-Simulation 
+__Simulation__
 
 https://tinyurl.com/yrp2fely
 *************
+
+</section>
+
+
