@@ -159,25 +159,15 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 
 # Test
 
-``` js     -EvalScript.js
-let who = data.first_name + " " + data.last_name;
-
-if(data.online) {
-  who + " is online"; }
-else {
-  who + " is NOT online"; }
+``` js
+for (let i=0; i<5; i++)
+  console.log("Hallo Welt", i)
 ```
-``` json    +Data.json
-{
-  "first_name" :  "Sammy",
-  "last_name"  :  "Shark",
-  "online"     :  true
-}
+``` text  @output
+Hallo Welt 0
+Hallo Welt 1
+Hallo Welt 2
+Hallo Welt 3
+Hallo Welt 4
 ```
-<script>
-  // insert the JSON dataset into the local variable data
-  let data = @input(1);
-
-  // eval the script that uses this dataset
-  eval(`@input(0)`);
-</script>
+<script>@input</script>
