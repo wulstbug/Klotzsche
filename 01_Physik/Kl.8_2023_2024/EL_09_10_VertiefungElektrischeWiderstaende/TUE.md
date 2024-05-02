@@ -64,7 +64,7 @@ window.LIA.settings.font_size = 2
 
 {8}{$\hspace{1cm}$ <span style="color:orange">$R_{ges} = \dfrac{(1+5) \cdot 2}{(1+5)+2} k\Omega = 1,5 k\Omega$</span>}
 
-6. 
+
 
 </section>
 
