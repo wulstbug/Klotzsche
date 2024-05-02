@@ -159,6 +159,13 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 
 # Test
 
-
+```
 <script input="number" value="1">
+</script>
+```
+
+<script input="number" value="1" min="0" max="1000000">
+let i = @input
+
+"Square of " + i + " = " + i * i
 </script>
