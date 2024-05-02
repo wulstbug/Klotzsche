@@ -158,7 +158,7 @@ __Experiment:__
 
 {{6}}
 ***************
-__Wellenlänge:__
+__Wellenlänge berechnen:__
 
 > $\lambda = \dfrac{a \cdot d}{e} = $ {7}{..}
 
