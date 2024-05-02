@@ -152,14 +152,14 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 __Experiment:__
 
-> d = <input type="number" default="0" min="0" max="10" > m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" >m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" >m
+> d = <input type="number" default="0" min="0" max="10" > m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" > m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" >m
 ***************
 
 {{6}}
 ***************
 __Wellenlänge berechnen:__
 
-> $\lambda = \dfrac{a \cdot d}{e} = $ {7}{..}
+> $\lambda = \dfrac{a \cdot d}{e} = $ {7}{<input type="number" default="0" min="0" max="10" > nm}
 
 ***************
 
