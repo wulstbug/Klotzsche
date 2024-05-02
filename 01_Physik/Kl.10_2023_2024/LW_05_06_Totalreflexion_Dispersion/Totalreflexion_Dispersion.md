@@ -161,16 +161,16 @@ let d = @input
 "d = " + d + "m"
 </script>
 
+<script input="number" value="1" output="a">
+let a = @input
+"a = " + a + "m"
+</script>
+
+
 
 </section>
 
 # Test
 
-<script input="number" value="1" output="d">
-@input
-</script>
 
-<script input="number" value="1" output="e">
-@input
-</script>
 
