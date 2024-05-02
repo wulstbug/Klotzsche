@@ -73,7 +73,7 @@ window.LIA.settings.font_size = 2
 | $100\Omega$ | $300\Omega$ | $\approx 200 \Omega$ |
 | {9}{<span style="color:orange">S1, S6</span>} | {10}{<span style="color:orange">S1, S5</span>} |
 
-6. 2. 
+6. 2. Berechne den Gesamtwiderstand wenn S1-S5 geschlossen sind, S6 geöffnet ist.
 
 </section>
 
