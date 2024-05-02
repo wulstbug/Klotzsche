@@ -139,7 +139,7 @@ Es gilt die Wellengleichung:
 {0-1}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/k9B2BRzezjccY9b/download)}
 {1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
 {2-3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
-{4}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
+{3}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
 
 Für das __erste Beugungsmaximum gilt die Formel__:
 
