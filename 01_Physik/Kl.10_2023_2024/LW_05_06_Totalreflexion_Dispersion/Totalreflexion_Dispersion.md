@@ -117,12 +117,6 @@ Es gilt die Wellengleichung:
 
 ![Aufgabenblatt_Wellenvorgaenge](https://diversewolken.ddns.net/nextcloud/index.php/s/5aPryoFyJL2H95p/download)
 
-## Beugung und Interferenz am Doppelspalt
-
-<iframe src="https://www.geogebra.org/classic/aptkcsex?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-
-
-
 ### Lösung 1: Wellen an Grenzflächen
 
 {1}{![Lösung1](https://diversewolken.ddns.net/nextcloud/index.php/s/Po9AN47ixmZ2QiY/download)}
@@ -133,4 +127,8 @@ Es gilt die Wellengleichung:
 
 {4}{![Lösung4](https://diversewolken.ddns.net/nextcloud/index.php/s/qJR2ody2GWeeeWg/download)}
 
+
+## Beugung und Interferenz am Doppelspalt
+
+<iframe src="https://www.geogebra.org/classic/aptkcsex?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
