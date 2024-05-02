@@ -166,7 +166,7 @@ let d = @input
 </script>
 
 <script>
-@input(`d`)
+@input(`a`)
 </script>
 
 </section>
