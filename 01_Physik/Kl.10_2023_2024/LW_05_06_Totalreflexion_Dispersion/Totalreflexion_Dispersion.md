@@ -150,7 +150,7 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 
 {{5}}
 ***************
-Experiment:
+__Experiment:__
 
 > d = $\hspace{2cm}$ a = $\hspace{2cm}$ e = $\hspace{2cm}$ 
 
@@ -158,7 +158,7 @@ Experiment:
 
 {{6}}
 ***************
-Wellenlänge:
+__Wellenlänge:__
 
 > $\lambda = \dfrac{a \cdot d}{e} = $
 
