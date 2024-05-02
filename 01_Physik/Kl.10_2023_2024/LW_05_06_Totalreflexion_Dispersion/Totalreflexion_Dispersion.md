@@ -159,6 +159,6 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 
 # Test
 
-<script input="number" value="1">
-@input(`P`)
+<script input="number" value="1" output="e">
+e = @input
 </script>
