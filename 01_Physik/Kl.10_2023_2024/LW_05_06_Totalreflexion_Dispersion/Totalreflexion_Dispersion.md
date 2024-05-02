@@ -156,7 +156,10 @@ d = m $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$
 
 ***************
 
-
+<script input="number" value="1" output="d">
+let d = @input
+"d = " + d + "m"
+</script>
 
 
 </section>
