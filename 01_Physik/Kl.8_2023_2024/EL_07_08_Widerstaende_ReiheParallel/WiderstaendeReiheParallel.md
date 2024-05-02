@@ -39,10 +39,10 @@ window.LIA.settings.font_size = 2
 
 Reihenschaltung zweier Widerstände $R_1$ und $R_2$
 
+![Reihe](https://diversewolken.ddns.net/nextcloud/index.php/s/TAECLJRFtfkH49D/download)
+
 {0-1}{$R_{ges} >=< R_1 bzw. R_2$}
 {1}{$R_{ges} > R_1 bzw. R_2$}
-
-![Reihe](https://diversewolken.ddns.net/nextcloud/index.php/s/TAECLJRFtfkH49D/download)
 
 {2}{<H3>$R_{ges} = R_1 + R_2$</H3>}
 
