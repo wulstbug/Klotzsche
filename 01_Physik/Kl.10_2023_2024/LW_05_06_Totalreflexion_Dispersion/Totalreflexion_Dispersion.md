@@ -162,6 +162,7 @@ let d = @input
 </script>
 
 <script input="number" value="1" output="a">
+"a = @input"
 </script>
 
 <script>
