@@ -159,9 +159,6 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 
 # Test
 
-[[LiaScript]]
-<script>
-  // @input wird mit der Nutzereingabe ersetzt.
-  let input_string = "@input";
-  "liascript" == input_string.trim().toLowerCase();
-</script>
+``` js
+
+```
