@@ -152,11 +152,7 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 Experiment:
 
-d = 
-
-a =  
-
-e = 
+d = $\hspace{1cm}$ a = $\hspace{1cm}$ e = $\hspace{1cm}$ 
 
 ***************
 
