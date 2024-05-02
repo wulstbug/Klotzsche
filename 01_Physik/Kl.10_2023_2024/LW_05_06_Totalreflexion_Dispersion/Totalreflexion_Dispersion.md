@@ -162,3 +162,7 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 <script input="number" value="1" output="e">
 @input
 </script>
+
+<script>
+@input(`e`)
+</script>
