@@ -54,11 +54,11 @@ window.LIA.settings.font_size = 2
 
 3.2. Bei einer Parallelschaltung ist der Gesamtwiderstand ......... {6}{<span style="color:orange">kleiner</span>} als jeder einzelne Widerstand.
 
-<p class="cb"> .. </p>
-
 4. Zeichne eine Schaltung bei welcher ein blauer (<span style="color:blue">$1k\Omega$</span> ) und ein grüner Widerstand (<span style="color:darkgreen">$5k\Omega$</span> ) zueinander in Reihe geschaltet sind und diese Reihenschaltung ist parallel zu einem roten Wiederstand (<span style="color:red">$2k\Omega$</span> ) geschaltet.
 
 {7}{![Loesung_4](https://diversewolken.ddns.net/nextcloud/index.php/s/jYSzH6C2Nz6Z6kJ/download)}
+
+<p class="cb"> .. </p>
 
 5. Berechne den Gesamtwiderstand zu Aufgabe 4.
 
@@ -67,6 +67,8 @@ window.LIA.settings.font_size = 2
 6. Folgendes Widerstandsnetzwerk ist gegeben. 
 
 ![Netzwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/pMxqnKJ7Tj6dWBX/download)
+
+https://tinyurl.com/yrp2fely
 
 </section>
 
