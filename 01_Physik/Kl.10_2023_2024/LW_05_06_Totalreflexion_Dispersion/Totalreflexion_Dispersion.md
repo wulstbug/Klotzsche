@@ -151,6 +151,8 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 {{5}}
 ***************
 Experiment:
+
+> d = $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
 ***************
 
 
