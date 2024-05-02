@@ -58,17 +58,19 @@ window.LIA.settings.font_size = 2
 
 {7}{![Loesung_4](https://diversewolken.ddns.net/nextcloud/index.php/s/jYSzH6C2Nz6Z6kJ/download)}
 
-<p class="cb"> .. </p>
-
 5. Berechne den Gesamtwiderstand zu Aufgabe 4.
 
 {8}{$\hspace{1cm}$ <span style="color:orange">$R_{ges} = \dfrac{(1+5) \cdot 2}{(1+5)+2} k\Omega = 1,5 k\Omega$</span>}
+
+<p class="cb"> .. </p>
 
 6. Folgendes Widerstandsnetzwerk ist gegeben. 
 
 ![Netzwerk](https://diversewolken.ddns.net/nextcloud/index.php/s/pMxqnKJ7Tj6dWBX/download)
 
-6.1. Berechne den Gesamtwiderstand wenn S1, S3, S4 und S5 geschlossen sind, S3 und S6 geöffnet.
+6. 1. Berechne den Gesamtwiderstand wenn S1, S3, S4 und S5 geschlossen sind, S3 und S6 geöffnet.
+
+6.2. 
 
 </section>
 
