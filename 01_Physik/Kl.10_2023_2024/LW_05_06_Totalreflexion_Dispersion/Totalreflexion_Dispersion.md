@@ -152,7 +152,7 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 __Experiment:__
 
-> d = <input type="number" default="0" > m $ \hspace{2cm}$ a = $\hspace{2cm}$ e = $\hspace{2cm}$ 
+> d = <input type="number" default="0" min="0" max="10" > m $ \hspace{2cm}$ a = $\hspace{2cm}$ e = $\hspace{2cm}$ 
 
 ***************
 
