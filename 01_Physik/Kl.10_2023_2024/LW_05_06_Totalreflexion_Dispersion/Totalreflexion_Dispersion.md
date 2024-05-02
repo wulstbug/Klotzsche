@@ -175,15 +175,19 @@ __Wellenlänge des Lichts berechnen:__
 
 # Kurzprotokoll: Wellenlängenbestimmung am Beugungsgitter
 
-__Aufgabe:__ Bestimme die Wellenlänge $\lambda$ des Lasers mit Hilfe eines Beugungsgitters. 
+__Aufgabe:__ Bestimme die Wellenlänge $\lambda$ für zwei Laserfarben mit Hilfe eines Beugungsgitters. 
 
-__Messwerte:__ 
+__Messwerte:__ Farbe: 
 
     - Abstand Gitter-Schirm e = ...
 
     - Gitterkonstante d = ...
 
-    - Abstand zweier Beugungsmaxima 
+    - Abstand zweier Beugungsmaxima a = ..
+
+__Berechnung__
+
+    - Wellenlänge $\lambda$ = ...
 
 
 
