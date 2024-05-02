@@ -140,6 +140,10 @@ Es gilt die Wellengleichung:
 {1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
 {2}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
 
-Formel und Herleitung
+Formel und Herleitung:
+
+Für das erste Maximum gilt die Formel:
+
+> $$
 
 </section>
