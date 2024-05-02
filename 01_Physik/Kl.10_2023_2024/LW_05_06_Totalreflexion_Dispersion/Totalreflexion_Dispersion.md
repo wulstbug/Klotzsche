@@ -166,7 +166,9 @@ let a = @input
 "a = " + a + "m"
 </script>
 
-
+<script>
+@input(`d`)
+</script>
 
 </section>
 
