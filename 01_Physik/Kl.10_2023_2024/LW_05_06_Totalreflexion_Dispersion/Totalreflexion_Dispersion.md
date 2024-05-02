@@ -159,7 +159,7 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 
 # Test
 
-``` js console.log("Hallo Welt") ``` 
-<script> 
-    @ input 
+[[!]]
+<script>
+  Math.random() > 0.1
 </script>
