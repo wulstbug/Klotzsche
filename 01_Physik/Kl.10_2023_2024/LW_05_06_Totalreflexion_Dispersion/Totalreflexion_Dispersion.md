@@ -140,7 +140,7 @@ Es gilt die Wellengleichung:
 {1-2}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
 {2}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
 
-Für das erste Maximum gilt die Formel:
+Für das __erste Beugungsmaximum gilt die Formel__:
 
 > $\dfrac{\lambda}{d} = \dfrac{a}{e}$
 
