@@ -153,11 +153,11 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 Experiment:
 
 d = m $\hspace{0.5cm}$ a =  $\hspace{0.5cm}$ e = $\hspace{0.5cm}$ 
+
 ***************
 
-<script>
-@input(`e`)
-</script>
+
+
 
 </section>
 
