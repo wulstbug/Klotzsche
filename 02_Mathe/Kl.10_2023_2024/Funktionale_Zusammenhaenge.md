@@ -252,8 +252,6 @@ Nutze folgende Typen von Funktionen:
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
 
 
-# Funktionenbingo
-
 
 
 ## Hashiwokakero
