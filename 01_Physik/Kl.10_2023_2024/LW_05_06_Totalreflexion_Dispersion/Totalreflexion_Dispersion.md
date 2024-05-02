@@ -160,7 +160,7 @@ Experiment:
 ***************
 Wellenlänge:
 
-> $\lambda$ = \dfrac{}{}
+> $\lambda = \dfrac{a \cdot d}{e} = $
 
 ***************
 
