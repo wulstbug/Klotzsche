@@ -70,8 +70,8 @@ window.LIA.settings.font_size = 2
 
 6. 1. Erzeuge durch Öffnen und Schließen von (S1-S6) einen Gesamtwiderstand von 
 
-| $100\Omega$ | $300\Omega$ | $ |
-| {9}{<span style="color:orange">S6, S1</span>} | {10}{<span style="color:orange">S6, S1</span>} |
+| $100\Omega$ | $300\Omega$ | $$ |
+| {9}{<span style="color:orange">S1, S6</span>} | {10}{<span style="color:orange">S1, S5</span>} |
 
 6. 2. 
 
