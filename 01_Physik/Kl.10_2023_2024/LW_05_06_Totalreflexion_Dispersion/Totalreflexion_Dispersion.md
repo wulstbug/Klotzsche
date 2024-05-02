@@ -160,5 +160,5 @@ d = <!-- data-solution-button="off" -->[[ ]] m $\hspace{0.5cm}$ a =  $\hspace{0.
 # Test
 
 ''' js
-console.log("Hallo Welt")
+
 '''
