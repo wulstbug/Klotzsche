@@ -134,3 +134,6 @@ Es gilt die Wellengleichung:
 
 ## Beugung und Interferenz am Doppelspalt
 
+{0-1}{![Doppelspalt1]()}
+{1-2}{![Doppelspalt2]()}
+{2}{![Doppelspalt3]()}
