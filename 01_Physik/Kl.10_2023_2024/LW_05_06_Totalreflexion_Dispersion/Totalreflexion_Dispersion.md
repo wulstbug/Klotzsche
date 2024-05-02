@@ -181,9 +181,11 @@ __Aufgabe:__ Bestimme die Wellenlänge $\lambda$ für zwei Laserfarben mit Hilfe
 
 __Messwerte:__ Farbe: 
 
-    - Abstand Gitter-Schirm e = ...
-    - Gitterkonstante d = ...
-    - Abstand zweier Beugungsmaxima a = ..
+- Abstand Gitter-Schirm e = ...
+
+- Gitterkonstante d = ...
+
+- Abstand zweier Beugungsmaxima a = ..
 
 __Berechnung__
 
@@ -191,9 +193,11 @@ __Berechnung__
 
 __Messwerte:__ Farbe: 
 
-    - Abstand Gitter-Schirm e = ...
-    - Gitterkonstante d = ...
-    - Abstand zweier Beugungsmaxima a = ..
+- Abstand Gitter-Schirm e = ...
+
+- Gitterkonstante d = ...
+
+- Abstand zweier Beugungsmaxima a = ..
 
 __Berechnung__
 
