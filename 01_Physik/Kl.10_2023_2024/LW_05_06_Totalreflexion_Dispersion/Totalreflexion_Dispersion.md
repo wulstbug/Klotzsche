@@ -215,6 +215,8 @@ __Mögliche Verbesserungen der Genauigkeit:__
 
 - Mehr als ein Beugungsmaximum verwenden
 
+- feineres Gitter verwenden
+
 *************
 
 # Test
