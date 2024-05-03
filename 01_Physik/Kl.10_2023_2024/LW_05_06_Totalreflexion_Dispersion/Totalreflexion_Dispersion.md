@@ -185,7 +185,7 @@ __Messwerte:__ Farbe:
 
 - Abstand Gitter-Schirm $e$ = ...
 
-- Gitterkonstante $d$ = ...
+- Gitterkonstante $d$ = 0,0125 mm = 12,5µm
 
 - Abstand zweier Beugungsmaxima $a_1$ = ..
 
@@ -197,7 +197,7 @@ __Messwerte:__ Farbe:
 
 - Abstand Gitter-Schirm $e$ = ...
 
-- Gitterkonstante $d$ = ...
+- Gitterkonstante $d$ = 0,0125 mm = 12,5µm
 
 - Abstand zweier Beugungsmaxima $a_2$ = ..
 
