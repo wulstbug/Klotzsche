@@ -37,7 +37,7 @@ window.LIA.settings.font_size = 2
 
 > Für einen <span style="color:orange">ohmschen Widerstand</span> sind abfallende Spannung U und fließende Stromstärke I direkt proportional zueinander, unter der Bedingung, dass die Temperatur konstant ist.
 
-_Hinweis: Jedes elektrische Bauelement besitzt einen elektrischen Widerstand, aber nicht immer sind Spannung und Stromstärke direkt proportional._
+_Hinweis: Jedes elektrische Bauelement besitzt einen elektrischen Widerstand R, aber nicht immer sind Spannung und Stromstärke direkt proportional._
 
 {{1}}
 *********************
