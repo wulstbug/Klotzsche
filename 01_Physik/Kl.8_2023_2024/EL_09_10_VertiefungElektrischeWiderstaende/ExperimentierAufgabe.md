@@ -107,6 +107,8 @@ Aufgabe:
 - Übertrage die Messkurven in ein Diagramm
 - Diskutiere den Zusammenhang von Glühlampe und dem ohmschen Gesetz
 
+Materialien: Cassy Messgerät, Glühlampe, $100\Omega$-Widerstand, Steckbrett, Spannungsquelle, Kabel
+
 </span>
 *********************
 
