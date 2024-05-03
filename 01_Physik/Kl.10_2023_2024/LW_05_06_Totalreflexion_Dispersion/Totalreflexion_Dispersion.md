@@ -209,7 +209,7 @@ __Berechnung__
 
 {{1}}
 *************
-Mögliche Verbesserungen der Genauigkeit
+__Mögliche Verbesserungen der Genauigkeit:__
 
 - Vergrößeren Abstand Gitter-Schirm
 
