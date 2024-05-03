@@ -205,8 +205,14 @@ __Berechnung__
 
 - Wellenlänge $\lambda_2$ = ...
 
-
 </section>
+
+{{1}}
+*************
+Mögliche Verbesserungen der Genauigkeit
+
+- Vergrößeren Abstand Gitter-Schirm
+*************
 
 # Test
 
