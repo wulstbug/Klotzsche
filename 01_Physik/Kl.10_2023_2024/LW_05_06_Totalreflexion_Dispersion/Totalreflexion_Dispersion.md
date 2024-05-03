@@ -212,6 +212,10 @@ __Berechnung__
 Mögliche Verbesserungen der Genauigkeit
 
 - Vergrößeren Abstand Gitter-Schirm
+
+- Mehr als ein Beugungsmaximum verwenden
+
+
 *************
 
 # Test
