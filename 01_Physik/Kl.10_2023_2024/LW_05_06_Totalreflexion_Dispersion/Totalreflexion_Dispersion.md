@@ -177,6 +177,8 @@ __Wellenlänge des Lichts berechnen:__
 
 __Aufgabe:__ Bestimme die Wellenlänge $\lambda$ für zwei Laserfarben mit Hilfe eines Beugungsgitters. 
 
+__Material:__ Optische Schiene, Laser, Doppelspalt, Schirm
+
 <section class="newspaper">
 
 __Messwerte:__ Farbe: 
