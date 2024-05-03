@@ -215,7 +215,6 @@ Mögliche Verbesserungen der Genauigkeit
 
 - Mehr als ein Beugungsmaximum verwenden
 
-
 *************
 
 # Test
