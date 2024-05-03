@@ -33,6 +33,14 @@ window.LIA.settings.font_size = 2
 
 -->
 
+# Gliederung
+
+- TÜ Vorbereitung LK
+
+- Experiment Ohmsches Gesetz
+
+
+
 # Ohmsches Gesetz
 
 > Für einen <span style="color:orange">ohmschen Widerstand</span> sind abfallende Spannung U und fließende Stromstärke I direkt proportional zueinander, unter der Bedingung, dass die Temperatur konstant ist.
