@@ -37,7 +37,7 @@ window.LIA.settings.font_size = 2
 
 {{0-1}}
 *********************
-<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel</H3>
+<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel => kein scharfer Brennpunkt</H3>
 
 <iframe scrolling="no" title="https://www.geogebra.org/m/kwrjkabx/width/1536/height/747/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1000px" height="800px" style="border:0px;"> </iframe>
 *********************
