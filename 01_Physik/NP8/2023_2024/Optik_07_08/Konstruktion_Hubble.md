@@ -39,7 +39,7 @@ window.LIA.settings.font_size = 2
 *********************
 <H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel => kein scharfer Brennpunkt</H3>
 
-??[HubbleSphHohlspiegel](https://www.geogebra.org/m/kwrjkabx)
+??[HubbleSphHohlspiegel](https://www.geogebra.org/classic/kwrjkabx)
 *********************
 
 {{1}}
