@@ -46,7 +46,7 @@ window.LIA.settings.font_size = 2
 *********************
 <H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
 
-??[Konstruktion](https://geogebra.org/m/dmvmdyvu)
+??[Konstruktion](https://www.geogebra.org/classic/bbuu7mb6)
 *********************
 
 
