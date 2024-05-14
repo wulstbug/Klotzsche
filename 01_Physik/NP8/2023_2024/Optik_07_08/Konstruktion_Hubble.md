@@ -69,6 +69,6 @@ window.LIA.settings.font_size = 2
 
     => (freiwillige Bewertung möglich)
 
-2.2 Konstruiere die Schattenentstehung an einer bewegten Sonne
+2.2. Konstruiere die Schattenentstehung an einer bewegten Sonne
 
 </section>
