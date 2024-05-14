@@ -33,6 +33,10 @@ window.LIA.settings.font_size = 2
 
 -->
 
+# Der optimale Hohlspiegel - Ein Parabolspiegel
+
+
+
 # Aufgabenstellung
 
 <section class="newspaper">
