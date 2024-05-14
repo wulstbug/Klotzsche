@@ -35,9 +35,21 @@ window.LIA.settings.font_size = 2
 
 # Der Hohlspiegel am Hubble-Teleskop
 
-<H3></H3>
+{{0-1}}
+*********************
+<H3> Konstruktion am kugelförmigen (sphärischen) Hohlspiegel</H3>
 
 <iframe scrolling="no" title="NP8_HubbelZweiSpiegelLösung" src="https://www.geogebra.org/material/iframe/id/kwrjkabx/width/1536/height/747/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1536px" height="747px" style="border:0px;"> </iframe>
+*********************
+
+{{0-1}}
+*********************
+<H3> Konstruktion am parabelförmigen Hohlspiegel (Parabolspiegel)</H3>
+
+<iframe scrolling="no" title="NP8_HubbelZweiSpiegelLösung" src="https://www.geogebra.org/material/iframe/id/kwrjkabx/width/1536/height/747/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1536px" height="747px" style="border:0px;"> </iframe>
+*********************
+
+
 
 # Aufgabenstellung
 
