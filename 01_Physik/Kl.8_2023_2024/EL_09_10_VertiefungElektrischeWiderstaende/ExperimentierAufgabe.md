@@ -115,7 +115,7 @@ __Erstelle ein Protokoll zu folgender Aufgabe:__
 - Übertrage die Messkurven in ein U-I-Diagramm (Spannung: x-Achse, Stromstärke: y-Achse)
 - Diskutiere den Zusammenhang vom ohmschen Gesetz und den Ergebnissen der beiden Bauelemente
 
-Materialien: Cassy Messgerät, Glühlampe, $100\Omega$-Widerstand, Steckbrett, Spannungsquelle, Kabel
+Materialien: Cassy Messgerät, Glühlampe, Ohmscher-Widerstand, Steckbrett, Spannungsquelle, Kabel
 
 </span>
 *********************
