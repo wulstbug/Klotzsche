@@ -253,7 +253,13 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
 - LB S. 142 A3 (mind. 3 Bsp.)
 
-    -  <details> <summary>Lsg</summary> <p>Spaß</p></details> 
+    -  <details> <summary>Lsg_142_3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AQsZo3Wn3KaSr6S/download)</p></details> 
+
+- LB S. 142 A3 (mind. 3 Bsp.)
+
+    -  <details> <summary>Lsg_142_3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AQsZo3Wn3KaSr6S/download)</p></details> 
+
+
 
 # Zeitvertreib
 
