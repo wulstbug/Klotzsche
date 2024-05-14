@@ -257,8 +257,11 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
 - LB S. 142 A6 (a, b, f, g, j)
 
-    -  <details> <summary>Lsg_142_3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/cHsxA6KwwFR9wsB/download)</p></details> 
+    -  <details> <summary>Lsg_142_6</summary> <p>![Lsg_142_6](https://diversewolken.ddns.net/nextcloud/index.php/s/cHsxA6KwwFR9wsB/download)</p></details> 
 
+- LB. S. 142 A7
+
+    - <details> <summary>Lsg_142_7</summary> <p>![Lsg_142_7](https://diversewolken.ddns.net/nextcloud/index.php/s/cHsxA6KwwFR9wsB/download)</p></details> 
 
 
 
