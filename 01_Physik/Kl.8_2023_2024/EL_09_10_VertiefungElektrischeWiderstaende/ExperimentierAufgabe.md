@@ -129,7 +129,7 @@ Materialien: Cassy Messgerät, Glühlampe, Ohmscher-Widerstand, Steckbrett, Span
 Messwerte:
 
 | | | |
-| | $100\Omega$-Widerstand | Glühlampe|  
+| | $51\Omega$-Widerstand | Glühlampe|  
 | Spannung in V | Stromstärke in mA | Stromstärke in mA |
 | 0     |   |   |
 | 1     |   |   |
