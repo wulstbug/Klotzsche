@@ -281,7 +281,7 @@ __Zum selbstständig Üben und Vergleichen__
 
 - .
 
-</p>
+
 
 </section>
 
