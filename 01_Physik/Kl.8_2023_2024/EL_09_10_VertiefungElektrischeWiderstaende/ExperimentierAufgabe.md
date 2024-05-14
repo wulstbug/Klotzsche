@@ -94,11 +94,16 @@ https://tinyurl.com/yrp2fely
 
 ## Ohmsches Gesetz
 
+{0-1}{!?[OhmschesGesetz](https://www.youtube.com/watch?v=xklPZ1tzNTc)}
+
+{{1}}
+******************
 > Für einen <span style="color:orange">ohmschen Widerstand</span> sind abfallende Spannung U und fließende Stromstärke I direkt proportional zueinander, unter der Bedingung, dass die Temperatur konstant ist.
 
 _Hinweis: Jedes elektrische Bauelement besitzt einen elektrischen Widerstand R, aber nicht immer sind Spannung und Stromstärke direkt proportional._
+******************
 
-{{1}}
+{{2}}
 *********************
 <span style="color:blue">
 __Erstelle ein Protokoll zu folgender Aufgabe:__
