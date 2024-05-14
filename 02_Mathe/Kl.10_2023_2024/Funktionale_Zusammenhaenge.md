@@ -251,6 +251,8 @@ Nutze folgende Typen von Funktionen:
 
 Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
+<H3>Zum selbstständig Üben und Vergleichen</H3>
+
 - LB S. 142 A3 (mind. 3 Bsp.)
 
     -  <details> <summary>Lsg.142.3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AQsZo3Wn3KaSr6S/download)</p></details> 
