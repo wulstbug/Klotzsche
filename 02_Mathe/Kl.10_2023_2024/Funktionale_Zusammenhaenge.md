@@ -251,7 +251,9 @@ Nutze folgende Typen von Funktionen:
 
 Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
-<H3>Zum selbstständig Üben und Vergleichen</H3>
+<section class="newspaper">
+
+__Zum selbstständig Üben und Vergleichen__
 
 - LB S. 142 A3 (mind. 3 Bsp.)
 
@@ -259,17 +261,19 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
 - LB S. 142 A6 (a, b, f, g, j)
 
-    -  <details> <summary>Lsg_142_6</summary> <p>![Lsg_142_6](https://diversewolken.ddns.net/nextcloud/index.php/s/cHsxA6KwwFR9wsB/download)</p></details> 
+    -  <details> <summary>Lsg.142.6</summary> <p>![Lsg_142_6](https://diversewolken.ddns.net/nextcloud/index.php/s/cHsxA6KwwFR9wsB/download)</p></details> 
 
 - LB. S. 142 A7
 
-    - <details> <summary>Lsg_142_7</summary> <p>![Lsg_142_7](https://diversewolken.ddns.net/nextcloud/index.php/s/9n5QYPwgMPAqXKX/download)</p></details> 
+    - <details> <summary>Lsg.142.7</summary> <p>![Lsg_142_7](https://diversewolken.ddns.net/nextcloud/index.php/s/9n5QYPwgMPAqXKX/download)</p></details> 
 
 - LB. S. 143 A11
 
-    - <details> <summary>Lsg_143_11</summary> <p>![Lsg_143_11](https://diversewolken.ddns.net/nextcloud/index.php/s/gP4J9rqjTbowys5/download)</p></details> 
+    - <details> <summary>Lsg.143.11</summary> <p>![Lsg_143_11](https://diversewolken.ddns.net/nextcloud/index.php/s/gP4J9rqjTbowys5/download)</p></details> 
 
+<p class="cb"></p>
 
+</section>
 
 # Zeitvertreib
 
