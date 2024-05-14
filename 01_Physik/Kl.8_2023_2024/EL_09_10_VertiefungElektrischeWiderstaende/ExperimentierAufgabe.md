@@ -105,7 +105,7 @@ __Erstelle ein Protokoll zu folgender Aufgabe:__
 
 - Ermittle mit Hilfe des Cassy-Messgerätes die U-I-Kennlinie eines ohmschen Widerstandes und einer Glühlampe (U 0..10 V, Schrittweite 1V). 
 - Übertrage die Messkurven in ein U-I-Diagramm (Spannung: x-Achse, Stromstärke: y-Achse)
-- Diskutiere den Zusammenhang von Glühlampe, Widerstand und dem ohmschen Gesetz
+- Diskutiere den Zusammenhang vom ohmschen Gesetz und den Ergebnissen der beiden Bauelemente
 
 Materialien: Cassy Messgerät, Glühlampe, $100\Omega$-Widerstand, Steckbrett, Spannungsquelle, Kabel
 
