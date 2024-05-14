@@ -253,7 +253,7 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
 - LB S. 142 A3 (mind. 3 Bsp.)
 
-    - 
+    -  <details> <summary>Lsg</summary> <p>Spaß</p></details> 
 
 # Zeitvertreib
 
