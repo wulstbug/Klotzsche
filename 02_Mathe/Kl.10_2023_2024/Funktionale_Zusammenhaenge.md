@@ -247,6 +247,16 @@ Nutze folgende Typen von Funktionen:
 
 ??[Ergebnisse](https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=8BimoVD8prVnxH3rFqdUgF6wuwXsfE6i&id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQUE1NFhNTEI5MTEyM1YyWjZRSUFST1VHNy4u)
 
+# Übungen zur LK
+
+Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
+
+- LB S. 142 A3 (mind. 3 Bsp.)
+
+ - Test
+
+# Zeitvertreib
+
 ## Milchkannenrätsel
 
 ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
