@@ -255,9 +255,11 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
     -  <details> <summary>Lsg.142.3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AQsZo3Wn3KaSr6S/download)</p></details> 
 
-- LB S. 142 A6 (mind. 3 Bsp.)
+- LB S. 142 A6 (a, b, f, g, j)
 
-    -  <details> <summary>Lsg_142_3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/AQsZo3Wn3KaSr6S/download)</p></details> 
+    -  <details> <summary>Lsg_142_3</summary> <p>![Lsg_142_3](https://diversewolken.ddns.net/nextcloud/index.php/s/cHsxA6KwwFR9wsB/download)</p></details> 
+
+
 
 
 
