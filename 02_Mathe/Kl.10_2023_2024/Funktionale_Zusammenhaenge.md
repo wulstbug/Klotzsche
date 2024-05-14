@@ -265,7 +265,7 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
 - LB. S. 143 A11
 
-    - <details> <summary>Lsg_143_11</summary> <p>![Lsg_143_11](/download)</p></details> 
+    - <details> <summary>Lsg_143_11</summary> <p>![Lsg_143_11](https://diversewolken.ddns.net/nextcloud/index.php/s/gP4J9rqjTbowys5/download)</p></details> 
 
 
 
