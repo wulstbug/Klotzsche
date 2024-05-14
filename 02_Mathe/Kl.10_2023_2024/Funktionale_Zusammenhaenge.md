@@ -271,11 +271,18 @@ __Zum selbstständig Üben und Vergleichen__
 
     - <details> <summary>Lsg.143.11</summary> <p>![Lsg_143_11](https://diversewolken.ddns.net/nextcloud/index.php/s/gP4J9rqjTbowys5/download)</p></details> 
 
-<p class="cb"> __In Partnerarbeit__</p>
+<p class="cb"> __In Partnerarbeit__
 
 - LB. S. 149 A3
 
 - LB. S. 150 A9
+
+- .
+
+- .
+
+</p>
+
 </section>
 
 # Zeitvertreib
