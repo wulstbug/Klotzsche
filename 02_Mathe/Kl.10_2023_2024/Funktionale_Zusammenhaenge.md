@@ -263,9 +263,9 @@ Löse folgende Aufgaben. Lösungen können jeweils aufgeklappt werden
 
     - <details> <summary>Lsg_142_7</summary> <p>![Lsg_142_7](https://diversewolken.ddns.net/nextcloud/index.php/s/9n5QYPwgMPAqXKX/download)</p></details> 
 
-- * LB. S. 143 A17
+- LB. S. 143 A11
 
-    - <details> <summary>Lsg_143_17</summary> <p>![Lsg_143_17](https://diversewolken.ddns.net/nextcloud/index.php/s/9n5QYPwgMPAqXKX/download)</p></details> 
+    - <details> <summary>Lsg_143_11</summary> <p>![Lsg_143_11](/download)</p></details> 
 
 
 
