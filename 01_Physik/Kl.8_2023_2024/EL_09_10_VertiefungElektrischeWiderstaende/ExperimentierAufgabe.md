@@ -94,7 +94,10 @@ https://tinyurl.com/yrp2fely
 
 ## Ohmsches Gesetz
 
-{0-1}{!?[OhmschesGesetz](https://www.youtube.com/watch?v=xklPZ1tzNTc)}
+{{0-1}}
+****************
+!?[OhmschesGesetz](https://www.youtube.com/watch?v=xklPZ1tzNTc)
+****************
 
 {{1}}
 ******************
