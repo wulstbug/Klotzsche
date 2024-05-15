@@ -225,7 +225,7 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 
 Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
 
-<span style="color:blue">Bestimme mit Hilfe der Reflexion eines Laserstrahls den Spurabstand d (d.h. Gitterkonstante) einer CD.</span>
+<span style="color:blue">__Aufgabenstellung: Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD deren Spurabstand d (d.h. die Gitterkonstante).__</span>
 
 
 # Test
