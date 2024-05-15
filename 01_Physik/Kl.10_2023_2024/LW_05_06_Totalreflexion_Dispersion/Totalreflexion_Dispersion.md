@@ -233,7 +233,7 @@ __Mögliche Verbesserungen der Genauigkeit:__
 __Beschreibung:__<br>
 Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodische Struktur (Spuren) gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
 
-<span style="color:blue">__Aufgabenstellung:__<br> Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD den Spurabstand d (d.h. die Gitterkonstante). Fertige dazu ein Protokoll an (ein Protokoll pro Gruppe)</span>
+<span style="color:blue">__Aufgabenstellung:__<br> Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD den Spurabstand d (d.h. die Gitterkonstante). Fertige dazu ein Protokoll an (ein Protokoll pro Gruppe [2 Personen])</span>
 
 
 {{6}}
