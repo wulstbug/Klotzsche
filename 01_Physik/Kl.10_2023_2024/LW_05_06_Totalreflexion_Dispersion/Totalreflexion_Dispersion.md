@@ -235,6 +235,8 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 
 <span style="color:blue">__Aufgabenstellung:<br> Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD den Spurabstand d (d.h. die Gitterkonstante). <br> Fertige dazu ein Protokoll an.__</span>
 
+<span style="color:orange">__Achtung:__ Da bei diesem Versuch der Winkel $\alpha$ </span>
+
 </section>
 
 
