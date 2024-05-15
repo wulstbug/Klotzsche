@@ -225,7 +225,7 @@ __Mögliche Verbesserungen der Genauigkeit:__
 
 <span style="color:blue">__Aufgabenstellung: Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD den Spurabstand d (d.h. die Gitterkonstante).__</span>
 
-***Beschreibung: Der Laserstahl soll durch eine gelochte Pappschablone auf die CD gerichtet werden. Die Reflexion und damit das Beugungsmuster sind auf der Schablone zu erkennen. Durch Vermessen der Abstände der Beugungsmaxima und des Abstands zwischen CD und Schablone lässt sich mit Hilfe der Formel für das Beugungsgitter der Strukturabstand bestimmen.***
+***Beschreibung: Der Laserstahl soll durch eine gelochte Pappschablone auf die CD gerichtet werden. Die Reflexion und damit das Beugungsmuster sind auf der Schablone zu erkennen. Durch Vermessen der Abstände der Beugungsmaxima und des Abstands zwischen CD und Schablone lässt sich mit Hilfe der Formel für das Beugungsgitter der Spurabstand d bestimmen.***
 
 # Test
 
