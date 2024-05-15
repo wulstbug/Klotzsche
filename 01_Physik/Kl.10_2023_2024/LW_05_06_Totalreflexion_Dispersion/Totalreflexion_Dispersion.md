@@ -221,7 +221,7 @@ __Mögliche Verbesserungen der Genauigkeit:__
 
 # Reflexion an der Gitterstruktur einer CD-Rom
 
-![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)<!-- style="width:60%" --> Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodischen Struktur gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
+![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)<!-- style="width:60%" --> Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodische Struktur gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
 
 <span style="color:blue">__Aufgabenstellung: Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD deren Spurabstand d (d.h. die Gitterkonstante).__</span>
 
