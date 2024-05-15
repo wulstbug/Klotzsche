@@ -221,9 +221,9 @@ __Mögliche Verbesserungen der Genauigkeit:__
 
 # Reflexion an der Gitterstruktur einer CD-Rom
 
-![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)<!-- style="width:60%" --> Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodische Struktur gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
+![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)<!-- style="width:60%" --> Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodische Struktur (Spuren) gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
 
-<span style="color:blue">__Aufgabenstellung: Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD deren Spurabstand d (d.h. die Gitterkonstante).__</span>
+<span style="color:blue">__Aufgabenstellung: Bestimme mit Hilfe der Reflexion eines Laserstrahls an einer CD den Spurabstand d (d.h. die Gitterkonstante).__</span>
 
 _Beschreibung: Der Laserstahl soll durch eine gelochte Pappschablone auf die CD gerichtet werden. Die Reflexion und damit das Beugungsmuster sind auf der Schablone zu erkennen. Durch Vermessen der Abstände der Beugungsmaxima und des CD-Schablonenabstands lässt sich mit Hilfe der Formel für das Beugungsgitter der Strukturabstand bestimmen._
 
