@@ -223,8 +223,11 @@ __Mögliche Verbesserungen der Genauigkeit:__
 
 <section class="newspaper">
 
-![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)
-
+{0-1}{![CD-Struktur](https://wkdiscpress.de/assets/components/phpthumbof/cache/abb-5-data-disk-bg.a94fc4dc03f576410f46570ef2d67a18.jpg.webp)}
+{1-2}{![Doppelspalt1](https://diversewolken.ddns.net/nextcloud/index.php/s/k9B2BRzezjccY9b/download)}
+{2-3}{![Doppelspalt2](https://diversewolken.ddns.net/nextcloud/index.php/s/o3ETdEtdpLHAWrN/download)}
+{3-4}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/Sy7HgjwPbEmNG3B/download)}
+{4}{![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/6i39C3mY2YFaZX6/download)}
 
 __Beschreibung:__<br>
 Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodische Struktur (Spuren) gepresst. Diese Struktur ist einem Beugungsgitter sehr ähnlich, d.h. es es existiert eine __Gitterkonstante d (gennant Spurabstand)__. Richtet man einen Laserstrahl auf die CD, kann man in der Relfexion auf einem Schirm ein Beugungsmuster erkennen. 
