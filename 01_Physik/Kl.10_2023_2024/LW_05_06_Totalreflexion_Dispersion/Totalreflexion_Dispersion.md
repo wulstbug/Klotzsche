@@ -239,9 +239,16 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 {{6}}
 *************
 <span style="color:orange">__Achtung:__<br> Bei diesem Versuch muss die korrekte Trigonometrie betrachtet werden. D.h. </span>
-
-
 *************
+
+{{7}}
+*************
+<span style="color:orange"> 
+> $tan(\alpha) = \dfrac{a}{e}$
+</span>
+*************
+
+
 </section>
 
 
