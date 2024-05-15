@@ -244,7 +244,7 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 {{7}}
 *************
 <span style="color:orange"> 
-> $tan(\alpha) = \dfrac{a}{e}$
+> $\tan(\alpha) = \dfrac{a}{e} \hspace{1cm}$ und $\hspace{1cm} \sin(\alpha) = \dfrac{\lambda}{d}$
 </span>
 *************
 
