@@ -249,7 +249,7 @@ Nutze folgende Typen von Funktionen:
 
 # Übungen zu Eigenschaften von Funktionen
 
-![ABlatt1](https://diversewolken.ddns.net/nextcloud/index.php/s/sdRY4qYzNpjcAe8/downlad)
+![ABlatt1](https://diversewolken.ddns.net/nextcloud/index.php/s/sdRY4qYzNpjcAe8/download)
 ![ABlatt2](https://diversewolken.ddns.net/nextcloud/index.php/s/7yR9GgEbgMtEc8q/download)
 
 # Übungen zur LK
