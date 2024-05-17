@@ -281,3 +281,7 @@ __Experiment:__
 
 __Resultat__
 
+> 
+
+<script input type="button" onClick="multiplyBy()" Value="Multiply">
+</script>
