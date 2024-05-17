@@ -152,14 +152,14 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 __Experiment:__
 
-> d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m <br> <input type="button" onClick="multiplyBy()" Value="Multiply" />
+> d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m />
 ***************
 
 {{6}}
 ***************
 __Wellenlänge des Lichts berechnen:__
 
-> $\lambda = \dfrac{a \cdot d}{e} = $ 
+> $\lambda = \dfrac{a \cdot d}{e} = $
 <script input="button">
 
     let d = document.getElementById("d").value;
