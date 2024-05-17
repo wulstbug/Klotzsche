@@ -152,7 +152,7 @@ Für das __erste Beugungsmaximum gilt die Formel__:
 ***************
 __Experiment:__
 
-> d = <input type="number" default="0" min="0" max="10" id="d" size="4"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="4"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="4">m <br> <input type="button" onClick="multiplyBy()" Value="Multiply" />
+> d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m <br> <input type="button" onClick="multiplyBy()" Value="Multiply" />
 ***************
 
 {{6}}
@@ -272,4 +272,12 @@ let d = @input
 <script>
 @input(`a`)
 </script>
+
+# Test-Multiply
+
+__Experiment:__
+
+> d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m
+
+__Resultat__
 
