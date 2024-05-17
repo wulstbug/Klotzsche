@@ -50,7 +50,7 @@ Wir haben gute Erfahrungen damit gemacht, den SuS feste IPads, d.h. feste Nummer
 1. Registrierung von IPad-Nummer, Klasse und Schüler*in
 2. Feste Nummern auf den Tischen
 
-## 1\. Registrierung von IPad-Nummer, Klasse und Schüler*in
+## 1. Registrierung von IPad-Nummer, Klasse und Schüler*in
 
 Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
 
@@ -59,7 +59,7 @@ Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der 
 {{1}}
 *************
 
-Öffnet man diesen Link so sieht das so aus:
+Über __IPad-SuS__ könnt ihr die Zuordnung einsehen:
 
 ??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
 
@@ -76,7 +76,7 @@ Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der 
 *************
 
 
-## 2\. Feste Nummern auf den Tischen
+## 2. Feste Nummern auf den Tischen
 
 Zuordnung per Aufkleber in dem jeweiligen Fachraum => Zuordnung von IPad und Lernendem
 
