@@ -281,16 +281,12 @@ __Experiment:__
 
 <script input="button" onclick="multiplyBy()">
 "Berechnung"
-</script>
 
-<script>
-function multiplyBy() {
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
 
     alert("test")
-}
 </script>
 
 
