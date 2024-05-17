@@ -53,19 +53,28 @@ Wir haben gute Erfahrungen damit gemacht, den SuS feste IPads, d.h. feste Nummer
 ## 1\. Registrierung von IPad-Nummer, Klasse und Schüler*in
 
 Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der ersten Stunde ihr IPad zum Namen registrieren.
-*Hinweis: Die hier eingetragenen Informationen erhaltet ihr als Excel-Tabelle, hier: https://ogy.de/gykl-ipads-reg*
 
 ![Logo](https://diversewolken.ddns.net/nextcloud/index.php/s/daeDQDtLp6k3BHT/download)
 
 {{1}}
-
----
+*************
 
 Öffnet man diesen Link so sieht das so aus:
 
 ??[IPad-Reg](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u)
 
----
+*************
+
+
+{{2}}
+*************
+
+Öffnet man diesen Link so sieht das so aus:
+
+??[IPad-Reg](https://gykl-my.sharepoint.com/:x:/g/personal/golnik_ch_gykl_onmicrosoft_com/ETIgX8pkviJBvoKqhDJVejYBOH0rlZcNSreAmNh5viWapw?e=uSSIdW)
+
+*************
+
 
 ## 2\. Feste Nummern auf den Tischen
 
@@ -79,4 +88,3 @@ Air-Drop-Symbol: ![AirDrop](https://diversewolken.ddns.net/nextcloud/index.php/s
 
 Bsp.: Ich teile dieses Dokument jetzt mit euch.
 
-<https://gykl-my.sharepoint.com/:x:/g/personal/golnik_ch_gykl_onmicrosoft_com/ETIgX8pkviJBvoKqhDJVejYBOH0rlZcNSreAmNh5viWapw?e=uSSIdW>
