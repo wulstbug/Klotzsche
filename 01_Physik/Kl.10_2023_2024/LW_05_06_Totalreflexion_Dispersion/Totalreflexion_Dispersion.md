@@ -280,7 +280,7 @@ __Experiment:__
 > d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m
 
 $\lambda = $
-<script input="button" default="Berechnung">
+<script input="button">
 
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
