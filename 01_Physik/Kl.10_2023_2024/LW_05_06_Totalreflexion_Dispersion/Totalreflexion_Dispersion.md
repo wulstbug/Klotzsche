@@ -259,38 +259,4 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 ***Hinweise: Der Laserstahl soll durch eine gelochte Pappschablone auf die CD gerichtet werden. Die Reflexion und damit das Beugungsmuster sind auf der Schablone zu erkennen. Durch Vermessen der Abstände der Beugungsmaxima und des Abstands zwischen CD und Schablone lässt sich mit Hilfe der Formeln der Spurabstand d bestimmen.***
 
 
-# Test
-
-<script input="number" value="1" output="d">
-let d = @input
-"d = " + d + "m"
-</script>
-
-<script input="number" value="1" output="a">
-"a = @input"
-</script>
-
-<script>
-@input(`a`)
-</script>
-
-
-
-# Test-Multiply
-
-__Experiment:__
-
-> d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m
-
-$\lambda = $
-<script input="button">
-
-    let d = document.getElementById("d").value;
-    let a = document.getElementById("a").value;
-    let e = document.getElementById("e").value;
-
-    a*d*e
-</script>
-m
-
 

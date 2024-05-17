@@ -31,3 +31,21 @@ $\hspace{1cm}$  $\rho = $ [[ 1250 ]] $\frac{\text{kg}}{\text{m}^3}$
 Antwort: Der Körper [[ (sinkt) | schwimmt ]], da seine Dichte [[ kleiner | (größer) ]] als die Dichte von Wasser ist.
 
 Anhand der Dichte könnte das Material des Körpers [[ Ziegel ]] sein.
+
+
+# Test-Multiply
+
+__Experiment:__
+
+> d = <input type="number" default="0" min="0" max="10" id="d" size="5"> m $ \hspace{0.5cm}$ a = <input type="number" default="0" min="0" max="10" id="a" size="5"> m $\hspace{0.5cm}$ e = <input type="number" default="0" min="0" max="10" id="e" size="5">m
+
+$\lambda = $
+<script input="button">
+
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
+    let e = document.getElementById("e").value;
+
+    a*d*e
+</script>
+m
