@@ -282,7 +282,7 @@ __Experiment:__
 
 
 <script input="button">
-alert("click")
+
 function multiplyBy() {
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
