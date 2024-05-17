@@ -281,9 +281,8 @@ __Experiment:__
 <input type="button" onClick="multiplyBy()" Value="Brechnung">
 
 
-<script>
-
-
+<script input="button">
+alert("click")
 function multiplyBy() {
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
