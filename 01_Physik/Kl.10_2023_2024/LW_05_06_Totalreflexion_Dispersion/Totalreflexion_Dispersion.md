@@ -283,12 +283,13 @@ __Experiment:__
 
 <script>
 
+
 function multiplyBy() {
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
 
-    alert("test")
+    window.alert("test")
 }
 </script>
 
