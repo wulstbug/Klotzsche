@@ -287,7 +287,7 @@ function multiplyBy() {
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
 
-    
+    alert(a)
 }
 </script>
 
