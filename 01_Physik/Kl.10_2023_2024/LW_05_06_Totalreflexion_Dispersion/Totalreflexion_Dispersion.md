@@ -159,16 +159,12 @@ __Experiment:__
 ***************
 __Wellenlänge des Lichts berechnen:__
 
-> $\lambda = \dfrac{a \cdot d}{e} = $
-<script input="button">
-
+> $\lambda = \dfrac{a \cdot d}{e} = $ <script input="button">
     let d = document.getElementById("d").value;
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
-
     a*d*e
-</script>
-m
+</script> m
 
 
 
