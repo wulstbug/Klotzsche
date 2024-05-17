@@ -165,10 +165,6 @@ __Wellenlänge des Lichts berechnen:__
     let e = document.getElementById("e").value;
     a*d*e
 </script> m
-
-
-
-
 ***************
 
 </section>
