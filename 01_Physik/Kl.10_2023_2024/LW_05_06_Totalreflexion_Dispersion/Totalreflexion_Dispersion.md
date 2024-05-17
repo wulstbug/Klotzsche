@@ -259,7 +259,6 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 ***Hinweise: Der Laserstahl soll durch eine gelochte Pappschablone auf die CD gerichtet werden. Die Reflexion und damit das Beugungsmuster sind auf der Schablone zu erkennen. Durch Vermessen der Abstände der Beugungsmaxima und des Abstands zwischen CD und Schablone lässt sich mit Hilfe der Formeln der Spurabstand d bestimmen.***
 
 
-
 # Test
 
 <script input="number" value="1" output="d">
@@ -275,9 +274,7 @@ let d = @input
 @input(`a`)
 </script>
 
-<!--
 
-@@@
 
 # Test-Multiply
 
@@ -297,6 +294,3 @@ $\lambda = $
 m
 
 
-@end
-
--->
