@@ -283,12 +283,8 @@ __Experiment:__
 
 ``` js
 function multiplyBy() {
-    // Get the values of the input fields with the ids "firstNumber" and "secondNumber"
-    let num1 = document.getElementById("firstNumber").value;
-    let num2 = document.getElementById("secondNumber").value;
-
-    // Set the inner HTML of the element with the id "result" to the product of the two numbers
-    document.getElementById("result").innerHTML = num1 * num2;
+    let d = document.getElementById("d").value;
+    let a = document.getElementById("a").value;
 }
 ```
 
