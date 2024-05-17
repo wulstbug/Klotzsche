@@ -285,7 +285,7 @@ __Experiment:__
     let a = document.getElementById("a").value;
     let e = document.getElementById("e").value;
 
-    $\lambda = " a*d*e m
+    $\lambda = $ + a*d*e + "m"
 </script>
 
 
