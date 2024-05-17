@@ -59,7 +59,7 @@ Auf jedem Lehrer-IPad ist ein Link auf dem Desktop. Hier können die SuS in der 
 {{1}}
 *************
 
-Über __IPad-SuS__ könnt ihr die Zuordnung einsehen:
+Öffnet man diesen Link so sieht das so aus:
 
 https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98JNwJnhAr0ZoZo5y2cdUQlE5S05TRUdKSVJQVDJHM0w3UFdPMkdJSS4u
 
@@ -69,7 +69,9 @@ https://forms.microsoft.com/Pages/ResponsePage.aspx?id=OYkUKbuZEE6zqVVLeyuod-N98
 {{2}}
 *************
 
-Öffnet man diesen Link so sieht das so aus:
+![IPadSuS](https://diversewolken.ddns.net/nextcloud/index.php/s/meSGztTL8gAJFpZ/download)
+
+Über __IPad-SuS__ könnt ihr die Zuordnung einsehen:
 
 ??[IPad-Reg](https://gykl-my.sharepoint.com/:x:/g/personal/golnik_ch_gykl_onmicrosoft_com/ETIgX8pkviJBvoKqhDJVejYBOH0rlZcNSreAmNh5viWapw?e=uSSIdW)
 
