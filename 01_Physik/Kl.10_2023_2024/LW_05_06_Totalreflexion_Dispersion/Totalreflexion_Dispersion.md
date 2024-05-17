@@ -159,7 +159,11 @@ __Experiment:__
 ***************
 __Wellenlänge des Lichts berechnen:__
 
-> $\lambda = \dfrac{a \cdot d}{e} = $ {7}{<input type="number" default="0" min="0" max="10" > nm}
+> $\lambda = \dfrac{a \cdot d}{e} = $ 
+
+
+
+
 
 ***************
 
