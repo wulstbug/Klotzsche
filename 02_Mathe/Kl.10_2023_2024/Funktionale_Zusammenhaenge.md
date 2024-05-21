@@ -298,7 +298,7 @@ __Zum selbstständig Üben und Vergleichen__
 
 ## Beispiel Fadenpendel
 
-https://www.physik.gym-wst.de/localhtml/suw/01_pendelsinus/pendelsinus.html
+??[SimulationFadenpendel](https://www.physik.gym-wst.de/localhtml/suw/01_pendelsinus/pendelsinus.html)
 
 # Zeitvertreib
 
