@@ -318,14 +318,17 @@ heißen __Verknüfpung__ von $u(x)$ und $v(x)$
 *************
 Beispiele: 
 
-- Quadratische Funktionen: $u(x) = x^2$ und $v(x)=2x$ $\hspace{1cm}$ => $\hspace{1cm}$ $
-
-- Trigonometrie: $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ => $\hspace{1cm}$ $ \dfrac{u(x)}{v(x)}=\dfrac{sin(x)}{cos(x)}$ {2}{$=tan(x)$}
+- Quadratische Funktionen: $u(x) = x^2$ und $v(x)=2x$ => $\hspace{1cm}$ $u(x)+v(x)=x^2+2x$
 *************
 
-{{3}}
+{{2}}
 *************
-- gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ $\hspace{1cm}$ => $\hspace{1cm}$ $u(x)\cdot v(x) = e^{-x} \cdot cos(x)$
+- Trigonometrie: $u(x) = sin(x)$ und $v(x)=cos(x)$  => $\hspace{1cm}$ $ \dfrac{u(x)}{v(x)}=\dfrac{sin(x)}{cos(x)}$ {3}{$=tan(x)$}
+*************
+
+{{4}}
+*************
+- gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ => $\hspace{1cm}$ $u(x)\cdot v(x) = e^{-x} \cdot cos(x)$
 *************
 
 # Zeitvertreib
