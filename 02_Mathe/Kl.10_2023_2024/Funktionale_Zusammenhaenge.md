@@ -349,7 +349,6 @@ Beispiele:
 
 {{8}}
 *************
-Beispiele: 
 
 - $u(x) = e^x$ und $v(x)=sin(x)$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {9}{$e^{sin(x)}$}
 *************
