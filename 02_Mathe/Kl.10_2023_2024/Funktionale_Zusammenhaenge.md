@@ -306,7 +306,9 @@ __Zum selbstständig Üben und Vergleichen__
 
 ## Verknüfung und Verkettung von Funktionen
 
+<H4>Verknüfung</H4>
 
+Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktionen 
 
 # Zeitvertreib
 
