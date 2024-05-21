@@ -344,9 +344,15 @@ Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neue__ Funktion
 *************
 Beispiele: 
 
-- Wurzelfunktion: $u(x) = \sqrt(x)$ und $v(x)=x+2$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {7}{$\sqrt{x+2}$}
+- Wurzelfunktion: $u(x) = \sqrt{x}$ und $v(x)=x+2$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {7}{$\sqrt{x+2}$}
 *************
 
+{{7}}
+*************
+Beispiele: 
+
+- Wurzelfunktion: $u(x) = \sqrt{x}$ und $v(x)=x+2$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {7}{$\sqrt{x+2}$}
+*************
 # Zeitvertreib
 
 ## Milchkannenrätsel
