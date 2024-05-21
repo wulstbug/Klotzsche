@@ -318,10 +318,12 @@ heißen __Verknüfpung__ von $u(x)$ und $v(x)$
 *************
 Beispiele: 
 
-- $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ => $\hspace{1cm}$ $ \dfrac{u(x)}{v(x)}=\dfrac{sin(x)}{cos(x)}$ {2}{$=tan(x)$}
+- Trigonometrie: $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ => $\hspace{1cm}$ $ \dfrac{u(x)}{v(x)}=\dfrac{sin(x)}{cos(x)}$ {2}{$=tan(x)$}
 *************
 
 {{3}}
+*************
+- gedämpfte Schwingung: $u(x) = cos(x)$ und $v(x)=e^{-x}$ $\hspace{1cm}$ => $\hspace{1cm}$ 
 *************
 
 # Zeitvertreib
