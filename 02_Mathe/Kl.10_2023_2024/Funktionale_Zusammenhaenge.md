@@ -331,6 +331,9 @@ Beispiele:
 - gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ => $\hspace{1cm}$ $u(x)\cdot v(x) = e^{-x} \cdot cos(x)$
 *************
 
+<H4> </H4>
+
+
 # Zeitvertreib
 
 ## Milchkannenrätsel
