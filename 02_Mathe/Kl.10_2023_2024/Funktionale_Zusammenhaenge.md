@@ -335,7 +335,7 @@ Beispiele:
 
 Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neue__ Funktion
 
-> $u \circ v$ mit $(u \circ v)(x) = u(v(x))$ heißt Verkettung von u und v.
+> $u \circ v$ mit $(u \circ v)(x) = u(v(x))$ heißt Verkettung von $u(x)$ und $v(x)$. Dabei wird im Funktionsterm von $u$ jedes $x$ durch $v(x)$ ersetzt.
 
 
 # Zeitvertreib
