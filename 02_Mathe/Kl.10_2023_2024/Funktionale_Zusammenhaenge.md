@@ -413,7 +413,7 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "play some game: https://www.geogebra.org/m/fndqmrrp";
+    document.getElementById("demo").innerHTML = "play some math-game: <iframe src="https://www.geogebra.org/classic/fndqmrrp?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>";
   }
 }, 1000);
 </script>
