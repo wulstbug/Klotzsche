@@ -415,14 +415,3 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-
-
-// # Zeitvertreib
-
-// ## Milchkannenrätsel
-
-// ??[Milchkannenrätsel](https://www.walter-fendt.de/html5/mde/threejugsproblem_de.htm)
-
-// ## Hashiwokakero
-
-// ??[Hashi](https://spiele.zeit.de/hashiwokakero/)
