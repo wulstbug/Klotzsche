@@ -294,6 +294,10 @@ __Zum selbstständig Üben und Vergleichen__
 
 </section>
 
+# Verknüpfung und Verkettung von Funktionen
+
+
+
 # Zeitvertreib
 
 ## Milchkannenrätsel
