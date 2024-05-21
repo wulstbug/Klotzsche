@@ -314,9 +314,13 @@ Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktionen
 
 heißen __Verknüfpung__ von $u(x)$ und $v(x)$
 
+{{1}}
+*************
 Beispiele: 
 
-- u(x) = 
+- $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ =>
+*************
+
 
 # Zeitvertreib
 
