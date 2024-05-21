@@ -364,6 +364,8 @@ Beispiele:
 
 <H4>LB S. 146 A 2 </H4>
 
+- <details> <summary>Lsg.146.2a</summary> <p>![Lsg_146_2a](/download)</p></details> 
+
 
 # Zeitvertreib
 
