@@ -318,7 +318,7 @@ heißen __Verknüfpung__ von $u(x)$ und $v(x)$
 *************
 Beispiele: 
 
-- $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ =>
+- $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ => $\hspace{1cm}$ $ \dfrac{u(x)}{v(x)}$ {2}{$=tan(x)$}
 *************
 
 
