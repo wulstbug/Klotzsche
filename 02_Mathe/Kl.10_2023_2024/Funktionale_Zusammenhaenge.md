@@ -354,7 +354,7 @@ Beispiele:
 - $u(x) = e^x$ und $v(x)=sin(x)$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {9}{$e^{sin(x)}$}
 *************
 
-{10}{<H4>LB S. 146 A 1+2 </H4>}
+{10}{<H4>LB S. 146 A 1+2 (Lösungen nächste Seite)</H4>}
 
 ## Lösungen zu LB 146 A1/2
 
