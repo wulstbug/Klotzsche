@@ -358,6 +358,8 @@ Beispiele:
 
 # Lösungen 
 
+<section class="newspaper">
+
 <H4>LB S. 146 A 1 </H4>
 
 - <details> <summary>Lsg.146.1</summary> <p>![Lsg_146_1](https://diversewolken.ddns.net/nextcloud/index.php/s/z6EEa9B3oGFkkNJ/download)</p></details> 
@@ -379,6 +381,8 @@ Beispiele:
 - <details> <summary>Lsg.146.2g</summary> <p>![Lsg_146_2g](https://diversewolken.ddns.net/nextcloud/index.php/s/z3sX8KabDrtjYbz/download)</p></details> 
 
 - <details> <summary>Lsg.146.2h</summary> <p>![Lsg_146_2h](https://diversewolken.ddns.net/nextcloud/index.php/s/qtNpACH2Zxsny3d/download)</p></details> 
+
+</section>
 
 # Zeitvertreib
 
