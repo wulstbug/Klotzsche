@@ -351,7 +351,7 @@ Beispiele:
 *************
 Beispiele: 
 
-- Wurzelfunktion: $u(x) = \sqrt{x}$ und $v(x)=x+2$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {7}{$\sqrt{x+2}$}
+- $u(x) = e^x$ und $v(x)=sin(x)$ => $\hspace{1cm}$ $(u \circ v)(x)=$ {7}{$\sqrt{x+2}$}
 *************
 # Zeitvertreib
 
