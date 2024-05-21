@@ -340,6 +340,13 @@ Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neue__ Funktion
 > $u \circ v$ mit $(u \circ v)(x) = u(v(x))$ heißt Verkettung von $u(x)$ und $v(x)$. <br> <br> Dabei wird im Funktionsterm von $u$ jedes $x$ durch $v(x)$ ersetzt.
 *************
 
+{{6}}
+*************
+Beispiele: 
+
+- Wurzelfunktion: $u(x) = \sqrt(x)$ und $v(x)=x+2$ => $\hspace{1cm}$ $u(x)+v(x)=x^2+2x$
+*************
+
 # Zeitvertreib
 
 ## Milchkannenrätsel
