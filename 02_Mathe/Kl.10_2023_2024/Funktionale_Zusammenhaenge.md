@@ -296,7 +296,9 @@ __Zum selbstständig Üben und Vergleichen__
 
 # Verknüpfung und Verkettung von Funktionen
 
+## Beispiel Fadenpendel
 
+https://www.physik.gym-wst.de/localhtml/suw/01_pendelsinus/pendelsinus.html
 
 # Zeitvertreib
 
