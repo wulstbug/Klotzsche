@@ -364,21 +364,21 @@ Beispiele:
 
 <H4>LB S. 146 A 2 </H4>
 
-- <details> <summary>Lsg.146.2a</summary> <p>![Lsg_146_2a](/download)</p></details> 
+- <details> <summary>Lsg.146.2a</summary> <p>![Lsg_146_2a](https://diversewolken.ddns.net/nextcloud/index.php/s/BWCzDTkL7QnMwcL/download)</p></details> 
 
-- <details> <summary>Lsg.146.2b</summary> <p>![Lsg_146_2b](/download)</p></details> 
+- <details> <summary>Lsg.146.2b</summary> <p>![Lsg_146_2b](https://diversewolken.ddns.net/nextcloud/index.php/s/zbPgK6HwAFnMS7T/download)</p></details> 
 
-- <details> <summary>Lsg.146.2c</summary> <p>![Lsg_146_2c](/download)</p></details> 
+- <details> <summary>Lsg.146.2c</summary> <p>![Lsg_146_2c](https://diversewolken.ddns.net/nextcloud/index.php/s/q4Bq2n8ieS6fxBy/download)</p></details> 
 
-- <details> <summary>Lsg.146.2d</summary> <p>![Lsg_146_2d](/download)</p></details> 
+- <details> <summary>Lsg.146.2d</summary> <p>![Lsg_146_2d](https://diversewolken.ddns.net/nextcloud/index.php/s/t4MBGkDnN3CRrHK/download)</p></details> 
 
-- <details> <summary>Lsg.146.2e</summary> <p>![Lsg_146_2e](/download)</p></details> 
+- <details> <summary>Lsg.146.2e</summary> <p>![Lsg_146_2e](https://diversewolken.ddns.net/nextcloud/index.php/s/x9rXDHKz9DqappR/download)</p></details> 
 
-- <details> <summary>Lsg.146.2f</summary> <p>![Lsg_146_2f](/download)</p></details> 
+- <details> <summary>Lsg.146.2f</summary> <p>![Lsg_146_2f](https://diversewolken.ddns.net/nextcloud/index.php/s/4qXxjTXZAYwsepF/download)</p></details> 
 
-- <details> <summary>Lsg.146.2g</summary> <p>![Lsg_146_2g](/download)</p></details> 
+- <details> <summary>Lsg.146.2g</summary> <p>![Lsg_146_2g](https://diversewolken.ddns.net/nextcloud/index.php/s/z3sX8KabDrtjYbz/download)</p></details> 
 
-- <details> <summary>Lsg.146.2h</summary> <p>![Lsg_146_2h](/download)</p></details> 
+- <details> <summary>Lsg.146.2h</summary> <p>![Lsg_146_2h](https://diversewolken.ddns.net/nextcloud/index.php/s/qtNpACH2Zxsny3d/download)</p></details> 
 
 # Zeitvertreib
 
