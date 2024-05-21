@@ -333,9 +333,9 @@ Beispiele:
 
 <H4> Verkettung </H4>
 
-Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktion
+Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neue__ Funktion
 
-> $u \circ v$
+> $u \circ v$ mit $(u \circ v)(x) = u(v(x))$ heißt Verkettung von u und v.
 
 
 # Zeitvertreib
