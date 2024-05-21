@@ -296,9 +296,13 @@ __Zum selbstständig Üben und Vergleichen__
 
 # Verknüpfung und Verkettung von Funktionen
 
-## Beispiel Fadenpendel
+## Beispiel 1: Fadenpendel
 
 ??[SimulationFadenpendel](https://www.physik.gym-wst.de/localhtml/suw/01_pendelsinus/pendelsinus.html)
+
+## Beispiel 2: Federschwinger
+
+<iframe src="https://www.geogebra.org/classic/g5vm3e2r?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 # Zeitvertreib
 
