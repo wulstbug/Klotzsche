@@ -318,6 +318,8 @@ heißen __Verknüfpung__ von $u(x)$ und $v(x)$
 *************
 Beispiele: 
 
+- Quadratische Funktionen: $u(x) = x^2$ und $v(x)=2x$ $\hspace{1cm}$ => $\hspace{1cm}$ $
+
 - Trigonometrie: $u(x) = sin(x)$ und $v(x)=cos(x)$  $\hspace{1cm}$ => $\hspace{1cm}$ $ \dfrac{u(x)}{v(x)}=\dfrac{sin(x)}{cos(x)}$ {2}{$=tan(x)$}
 *************
 
