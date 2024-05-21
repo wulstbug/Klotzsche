@@ -386,7 +386,7 @@ Beispiele:
 
 ## Verknüpfen - Verketten - Rätsel
 
-<iframe src="https://www.geogebra.org/classic/wyc4hagv?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/fndqmrrp?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 # Zeitvertreib
 
