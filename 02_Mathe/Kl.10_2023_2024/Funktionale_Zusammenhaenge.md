@@ -310,9 +310,13 @@ __Zum selbstständig Üben und Vergleichen__
 
 Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktionen 
 
-> $u(x)+v(x)$ $\hspace{1cm}$ $u(x)-v(x)$ $\hspace{1cm}$ $u(x) \cdot v(x)$ $\hspace{1cm}$ $\dfrac{u(x)}{v(x)}$
+> ${u(x)+v(x)}$ $\hspace{1cm}$ $u(x)-v(x)$ $\hspace{1cm}$ $u(x) \cdot v(x)$ $\hspace{1cm}$ $\dfrac{u(x)}{v(x)}$
 
 heißen __Verknüfpung__ von $u(x)$ und $v(x)$
+
+Beispiele: 
+
+- u(x) = 
 
 # Zeitvertreib
 
