@@ -331,12 +331,14 @@ Beispiele:
 - gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ => $\hspace{1cm}$ $u(x)\cdot v(x) = e^{-x} \cdot cos(x)$
 *************
 
+{{5}}
+*************
 <H4> Verkettung </H4>
 
 Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neue__ Funktion
 
-> $u \circ v$ mit $(u \circ v)(x) = u(v(x))$ heißt Verkettung von $u(x)$ und $v(x)$. Dabei wird im Funktionsterm von $u$ jedes $x$ durch $v(x)$ ersetzt.
-
+> $u \circ v$ mit $(u \circ v)(x) = u(v(x))$ heißt Verkettung von $u(x)$ und $v(x)$. <br> <br> Dabei wird im Funktionsterm von $u$ jedes $x$ durch $v(x)$ ersetzt.
+*************
 
 # Zeitvertreib
 
