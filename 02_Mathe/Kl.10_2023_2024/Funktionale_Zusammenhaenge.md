@@ -366,6 +366,19 @@ Beispiele:
 
 - <details> <summary>Lsg.146.2a</summary> <p>![Lsg_146_2a](/download)</p></details> 
 
+- <details> <summary>Lsg.146.2b</summary> <p>![Lsg_146_2b](/download)</p></details> 
+
+- <details> <summary>Lsg.146.2c</summary> <p>![Lsg_146_2c](/download)</p></details> 
+
+- <details> <summary>Lsg.146.2d</summary> <p>![Lsg_146_2d](/download)</p></details> 
+
+- <details> <summary>Lsg.146.2e</summary> <p>![Lsg_146_2e](/download)</p></details> 
+
+- <details> <summary>Lsg.146.2f</summary> <p>![Lsg_146_2f](/download)</p></details> 
+
+- <details> <summary>Lsg.146.2g</summary> <p>![Lsg_146_2g](/download)</p></details> 
+
+- <details> <summary>Lsg.146.2h</summary> <p>![Lsg_146_2h](/download)</p></details> 
 
 # Zeitvertreib
 
