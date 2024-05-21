@@ -385,11 +385,11 @@ Beispiele:
 </section>
 
 <!-- Display the countdown timer in an element -->
-<p id="demo"></p>
+<H4><p id="demo"></p></H4>
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date().getTime()+1000*6; // 15 Minutes
+var countDownDate = new Date().getTime()+1000*60*15; // 15 Minutes
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -413,17 +413,10 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = 'Let's play some math-game: <iframe src="https://www.geogebra.org/classic/fndqmrrp?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>';
+    document.getElementById("demo").innerHTML = 'Lets play some math-game: <iframe src="https://www.geogebra.org/classic/fndqmrrp?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>';
   }
 }, 1000);
 </script>
-
-
-
-## Verknüpfen - Verketten - Rätsel
-
-<iframe src="https://www.geogebra.org/classic/fndqmrrp?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-
 
 
 # Zeitvertreib
