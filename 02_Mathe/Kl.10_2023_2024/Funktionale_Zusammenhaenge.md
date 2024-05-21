@@ -331,7 +331,11 @@ Beispiele:
 - gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ => $\hspace{1cm}$ $u(x)\cdot v(x) = e^{-x} \cdot cos(x)$
 *************
 
-<H4> </H4>
+<H4> Verkettung </H4>
+
+Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktion
+
+> $u \circ v$
 
 
 # Zeitvertreib
