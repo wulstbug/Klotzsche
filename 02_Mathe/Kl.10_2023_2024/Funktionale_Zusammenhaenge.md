@@ -356,6 +356,12 @@ Beispiele:
 
 {10}{<H4>LB S. 146 A 1+2 </H4>}
 
+# Lösungen 
+
+<H4>LB S. 146 A 1 </H4>
+
+- <details> <summary>Lsg.146.1</summary> <p>![Lsg_146_1](https://diversewolken.ddns.net/nextcloud/index.php/s/gP4J9rqjTbowys5/download)</p></details> 
+
 
 
 # Zeitvertreib
