@@ -323,7 +323,7 @@ Beispiele:
 
 {{3}}
 *************
-- gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ $\hspace{1cm}$ => $\hspace{1cm}$ $u(x)\cdot v(x) = $
+- gedämpfte Schwingung: $u(x) = e^{-x}$ und $v(x)=cos(x)$ $\hspace{1cm}$ => $\hspace{1cm}$ $u(x)\cdot v(x) = e^{-x} \cdot cos(x)$
 *************
 
 # Zeitvertreib
