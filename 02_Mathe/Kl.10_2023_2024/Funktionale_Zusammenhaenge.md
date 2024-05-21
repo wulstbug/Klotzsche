@@ -356,7 +356,7 @@ Beispiele:
 
 {10}{<H4>LB S. 146 A 1+2 </H4>}
 
-# Lösungen 
+## Lösungen zu LB 146 A1/2
 
 <section class="newspaper">
 
@@ -383,6 +383,10 @@ Beispiele:
 - <details> <summary>Lsg.146.2h</summary> <p>![Lsg_146_2h](https://diversewolken.ddns.net/nextcloud/index.php/s/qtNpACH2Zxsny3d/download)</p></details> 
 
 </section>
+
+## Find the function
+
+
 
 # Zeitvertreib
 
