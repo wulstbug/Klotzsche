@@ -430,9 +430,9 @@ var x = setInterval(function() {
 | f  | Ausdruck |
 | :--------- | :--------- |
 | a) $f(x)=\dfrac{1}{x}-x-1$ |  |
-| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
-| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
-| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
+| a) $f(x)=\dfrac{x^2}{x+1}$ |  |
+| a) $f(x)=\sqrt{x+1}+x^2$ |  |
+| a) $f(x)=\sin(x)+1$ |  |
 
 
 ## Quizz Verketten und Verknüpfen
