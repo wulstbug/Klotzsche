@@ -423,7 +423,7 @@ var x = setInterval(function() {
 <section class="newspaper">
 
 1.1. $f(x) = \sqrt{\dfrac{1}{x}}$ {1}{<span style="color:orange">***Verkettung: $u(x)=\sqrt{x},\,v(x)=\dfrac{1}{x}$***</span>}
-1.2.
+1.2. $f(x) = 3x^2 +2x$ {1}{<span style="color:orange">***Verknüpfung: $u(x)=3x^2,\,v(x)=2x$***</span>}
 </section>
 
 ## Quizz Verketten und Verknüpfen
