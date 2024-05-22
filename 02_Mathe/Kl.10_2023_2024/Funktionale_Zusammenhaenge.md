@@ -304,9 +304,9 @@ __Zum selbstständig Üben und Vergleichen__
 
 <iframe src="https://www.geogebra.org/classic/g5vm3e2r?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-## Verknüfung und Verkettung von Funktionen
+## Verknüpfung und Verkettung von Funktionen
 
-<H4>Verknüfung</H4>
+<H4>Verknüpfung</H4>
 
 Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktionen 
 
