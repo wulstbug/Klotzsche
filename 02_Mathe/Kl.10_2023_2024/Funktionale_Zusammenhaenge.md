@@ -419,7 +419,7 @@ var x = setInterval(function() {
 ## Tägliche Übung - Verknüpfen und Verketten
 
 1. Entscheide für folgende Funktionen ob es eine Verknüpfung oder eine Verkettung ist. Notiere jeweils die zugehörigen Funktionen u(x) und v(x).
-| Aufgabe   | Verknüfung/Verkettung $u(x), v(x)$   |
+| Funktion  | Verknüfung/Verkettung $u(x), v(x)$   |
 | :--------- | :--------- |
 |a) $f(x) = \sqrt{\dfrac{1}{x}}$  |{1}{<span style="color:orange">***Verkettung: $u(x)=\sqrt{x},\,v(x)=\dfrac{1}{x}$***</span>}   |
 |b) $f(x) = 3x^2 +2x$             |{1}{<span style="color:orange">***Verknüpfung (u+v): $u(x)=3x^2,\,v(x)=2x$***</span>}          |
