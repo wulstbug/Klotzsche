@@ -432,7 +432,7 @@ var x = setInterval(function() {
 | a) $f(x)=\dfrac{1}{x}-x-1$ | {9}{<span style="color:orange">$k(x)-g(x)$</span>} |
 | b) $f(x)=\dfrac{x^2}{x+1}$ | {10}{<span style="color:orange">$\dfrac{h(x)}{g(x)}$</span>} |
 | c) $f(x)=\sqrt{x+1}+x^2$ | {10}{<span style="color:orange">$(l\circ g)(x)+h(x)$ oder $l(g(x))+h(x)$</span>} |
-| d) $f(x)=\sin(x)+1$ | {11}{<span style="color:orange">$(l\circ g)(x)+h(x)$ oder $l(g(x))+h(x)$</span>} |
+| d) $f(x)=\sin(x)+1$ | {11}{<span style="color:orange">$s(x)+$</span>} |
 
 
 ## Quizz Verketten und Verknüpfen
