@@ -431,12 +431,13 @@ var x = setInterval(function() {
 | :--------- | :--------- |
 | a) $f(x)=\dfrac{1}{x}-x-1$ | {9}{<span style="color:orange">$k(x)-g(x)$</span>} |
 | b) $f(x)=\dfrac{x^2}{x+1}$ | {10}{<span style="color:orange">$\dfrac{h(x)}{g(x)}$</span>} |
-| c) $f(x)=\sqrt{x+1}+x^2$ | {10}{<span style="color:orange">$(l\circ g)(x)+h(x)$ oder $l(g(x))+h(x)$</span>} |
-| d) $f(x)=\sin(x)+1$ | {11}{<span style="color:orange">$s(x)+$</span>} |
+| c) $f(x)=\sqrt{x+1}+x^2$ | {11}{<span style="color:orange">$(l\circ g)(x)+h(x)$ oder $l(g(x))+h(x)$</span>} |
+| d) $f(x)=\sin(x)+1$ | {12}{<span style="color:orange">$g(s(x))$</span>} |
 
 
 ## Quizz Verketten und Verknüpfen
 
 <iframe src="https://www.geogebra.org/classroom/h5qhsvsd?embed" width="1000" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-## 
+## Partnerübung Verketten und Verknüpfen
+
