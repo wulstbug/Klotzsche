@@ -429,8 +429,8 @@ var x = setInterval(function() {
 2. Es seien: $g(x) = x+1$ $\hspace{0.5cm}$ $h(x)=x^2$ $\hspace{0.5cm}$ $k(x)=\dfrac{1}{x}$ $\hspace{0.5cm}$ $l(x)=\sqrt{x}$ $\hspace{0.5cm}$ $s(x)=\sin(x)$. <br> Drücke die Funktion f durch eine geeignete Auswahl von $g,h,k,l,s$ aus.
 | f  | Ausdruck |
 | :--------- | :--------- |
-| a) $f(x)=\dfrac{1}{x}-x-1$ | {9}{<span style="color:orange"></span>} |
-| a) $f(x)=\dfrac{x^2}{x+1}$ |  |
+| a) $f(x)=\dfrac{1}{x}-x-1$ | {9}{<span style="color:orange">$k(x)-g(x)$</span>} |
+| a) $f(x)=\dfrac{x^2}{x+1}$ | {10}{<span style="color:orange">$\dfrac{}{}$</span>} |
 | a) $f(x)=\sqrt{x+1}+x^2$ |  |
 | a) $f(x)=\sin(x)+1$ |  |
 
