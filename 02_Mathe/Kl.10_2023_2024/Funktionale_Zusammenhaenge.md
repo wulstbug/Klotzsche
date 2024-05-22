@@ -427,8 +427,13 @@ var x = setInterval(function() {
 |d. $f(x) = \dfrac{1}{(-4x+2)^2}$ |{7}{<span style="color:orange">Verkettung </span>} |{8}{<span style="color:orange">$u(x)=\dfrac{1}{x},\,v(x)=(-4x+2)^2$ <br> oder <br> $u(x)=\dfrac{1}{x^2},\,v(x)=-4x+2$</span>}     |
 
 2. Es seien: $g(x) = x+1$ $\hspace{0.5cm}$ $h(x)=x^2$ $\hspace{0.5cm}$ $k(x)=\dfrac{1}{x}$ $\hspace{0.5cm}$ $l(x)=\sqrt{x}$ $\hspace{0.5cm}$ $s(x)=\sin(x)$. <br> Drücke die Funktion f durch eine geeignete Auswahl von $g,h,k,l,s$ aus.
-| f  | Verknüfung/Verkettung |
+| f  | Ausdruck |
 | :--------- | :--------- |
+| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
+| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
+| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
+| a) $f(x)=\dfrac{1}{x}-x-1$ |  |
+
 
 ## Quizz Verketten und Verknüpfen
 
