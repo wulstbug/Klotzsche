@@ -430,8 +430,8 @@ var x = setInterval(function() {
 | f  | Ausdruck |
 | :--------- | :--------- |
 | a) $f(x)=\dfrac{1}{x}-x-1$ | {9}{<span style="color:orange">$k(x)-g(x)$</span>} |
-| a) $f(x)=\dfrac{x^2}{x+1}$ | {10}{<span style="color:orange">$\dfrac{}{}$</span>} |
-| a) $f(x)=\sqrt{x+1}+x^2$ |  |
+| a) $f(x)=\dfrac{x^2}{x+1}$ | {10}{<span style="color:orange">$\dfrac{h(x)}{g(x)}$</span>} |
+| a) $f(x)=\sqrt{x+1}+x^2$ | {10}{<span style="color:orange">$l(x)\circ$</span>} |
 | a) $f(x)=\sin(x)+1$ |  |
 
 
