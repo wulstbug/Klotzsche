@@ -424,7 +424,7 @@ var x = setInterval(function() {
 |a) $f(x) = \sqrt{\dfrac{1}{x}}$  |{1}{<span style="color:orange">***Verkettung: $u(x)=\sqrt{x},\,v(x)=\dfrac{1}{x}$***</span>}   |
 |b) $f(x) = 3x^2 +2x$             |{1}{<span style="color:orange">***Verknüpfung (u+v): $u(x)=3x^2,\,v(x)=2x$***</span>}          |
 |c) $f(x) = e^{\sin(x)}$          |{1}{<span style="color:orange">***Verknüpfung (u+v): $u(x)=e^x,\,v(x)=\sin(x)$***</span>}      |
-|                                   |                                                                                             |
+|d) $f(x) = \dfrac{1}|                                                                                             |
 
 2. 
 
