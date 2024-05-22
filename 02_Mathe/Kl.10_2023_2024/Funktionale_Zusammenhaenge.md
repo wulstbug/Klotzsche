@@ -418,6 +418,8 @@ var x = setInterval(function() {
 
 ## Tägliche Übung - Verknüpfen und Verketten
 
+1. Entscheide für folgende Funktionen ob es eine Verknüpfung oder eine Verkettung ist. Notiere jeweils die zugehörigen Funktionen u(x) und v(x).
+
 
 
 ## Quizz Verketten und Verknüpfen
