@@ -422,7 +422,7 @@ var x = setInterval(function() {
 
 <section class="newspaper">
 
-1.1. 
+1.1. $f(x) = \sqrt{\dfrac{1}{x}}$
 
 </section>
 
