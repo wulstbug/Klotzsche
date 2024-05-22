@@ -424,7 +424,7 @@ var x = setInterval(function() {
 |a. $f(x) = \sqrt{\dfrac{1}{x}}$  |{1}{<span style="color:orange">Verkettung</span>}         |{2}{<span style="color:orange">$u(x)=\sqrt{x},\,v(x)=\dfrac{1}{x}$</span>}   |
 |b. $f(x) = 3x^2 +2x$             |{3}{<span style="color:orange">Verknüpfung (u+v)</span>}  |{4}{<span style="color:orange">$u(x)=3x^2,\,v(x)=2x$</span>}          |
 |c. $f(x) = e^{\sin(x)}$          |{5}{<span style="color:orange">Verkettung</span>}         |{6}{<span style="color:orange">$u(x)=e^x,\,v(x)=\sin(x)$</span>}      |
-|d. $f(x) = \dfrac{1}{(-4x+2)^2}$ |{7}{<span style="color:orange">Verkettung </span>} |{8}{<span style="color:orange">$u(x)=\dfrac{1}{x},\,v(x)=(-4x+2)^2$ <br> oder <br> </span>}     |
+|d. $f(x) = \dfrac{1}{(-4x+2)^2}$ |{7}{<span style="color:orange">Verkettung </span>} |{8}{<span style="color:orange">$u(x)=\dfrac{1}{x},\,v(x)=(-4x+2)^2$ <br> oder <br> $u(x)=\dfrac{1}{x^2},\,v(x)=-4x+2$</span>}     |
 
 2. 
 
