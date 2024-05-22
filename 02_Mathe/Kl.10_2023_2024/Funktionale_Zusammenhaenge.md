@@ -435,9 +435,10 @@ var x = setInterval(function() {
 | d) $f(x)=\sin(x)+1$ | {12}{<span style="color:orange">$g(s(x))$</span>} |
 
 
-## Quizz Verketten und Verknüpfen
+## Quizz: Verketten und Verknüpfen
 
 <iframe src="https://www.geogebra.org/classroom/h5qhsvsd?embed" width="1000" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-## Partnerübung Verketten und Verknüpfen
+## Partnerübung: Verketten und Verknüpfen
 
+<iframe src="https://www.geogebra.org/classroom/ecvbf97t?embed" width="1000" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
