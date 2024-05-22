@@ -420,7 +420,11 @@ var x = setInterval(function() {
 
 1. Entscheide für folgende Funktionen ob es eine Verknüpfung oder eine Verkettung ist. Notiere jeweils die zugehörigen Funktionen u(x) und v(x).
 
+<section class="newspaper">
 
+1.1. 
+
+</section>
 
 ## Quizz Verketten und Verknüpfen
 
