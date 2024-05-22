@@ -426,7 +426,7 @@ var x = setInterval(function() {
 |c. $f(x) = e^{\sin(x)}$          |{5}{<span style="color:orange">Verkettung</span>}         |{6}{<span style="color:orange">$u(x)=e^x,\,v(x)=\sin(x)$</span>}      |
 |d. $f(x) = \dfrac{1}{(-4x+2)^2}$ |{7}{<span style="color:orange">Verkettung </span>} |{8}{<span style="color:orange">$u(x)=\dfrac{1}{x},\,v(x)=(-4x+2)^2$ <br> oder <br> $u(x)=\dfrac{1}{x^2},\,v(x)=-4x+2$</span>}     |
 
-2. 
+2. Es sei $g(x) = x+1$; $h(x)=x^2$; $k(x)=\dfrac{1}{x}; $l(x)=\sqrt{x}$; 
 
 ## Quizz Verketten und Verknüpfen
 
