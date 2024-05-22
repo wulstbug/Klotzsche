@@ -312,7 +312,7 @@ Gegeben seien die Funktionen $u(x)$ und $v(x)$. Die __neuen__ Funktionen
 
 > ${u(x)+v(x)}$ $\hspace{1cm}$ $u(x)-v(x)$ $\hspace{1cm}$ $u(x) \cdot v(x)$ $\hspace{1cm}$ $\dfrac{u(x)}{v(x)}$
 
-heißen __Verknüfpung__ von $u(x)$ und $v(x)$
+heißen __Verknüpfung__ von $u(x)$ und $v(x)$
 
 {{1}}
 *************
