@@ -155,7 +155,7 @@ Ergänze dazu die Messwerte:
 | Spannung U [V]    | <script> let U = document.getElementById("U").value; U </script> |      |      |
 | Stromstärke I [A] | <script> let I = document.getElementById("I").value; I </script> | | |
 | Widerstand R [$\Omega$] | <script> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let R=U/I; R </script> |  | |
-| Spez. elktr. Widerstand $\rho$ [$\Omega \cdot \frac{mm^2}{m}$] | <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script>  | |
+| spez. elektr. Widerstand <br> $\rho$ [$\Omega \cdot \frac{mm^2}{m}$] | <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script>  | |
 
 <p class="cb"> Aufbau </p>
 
