@@ -116,9 +116,9 @@ Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mi
 </section>
 *********
 
----
+<section class="newspaper">
 
-<H4>Berechnung des elektrischen Widerstands R aus den Messwerten</H4>
+__Berechnung des elektrischen Widerstands R__
 
 {{3}}
 *********
@@ -126,9 +126,7 @@ Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mi
 > $R = \dfrac{U}{I} $ = <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let R=U/I; R </script> $\Omega$
 *********
 
----
-
-<H4>Berechnung des spezifischen elektrischen Widerstands $\rho$</H4>
+__Berechnung des spezifischen elektrischen Widerstands $\rho$__
 
 {{4}}
 *********
@@ -136,6 +134,9 @@ Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mi
 > $\rho = R \cdot \dfrac{A}{l} = $ <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script> $\Omega \dfrac{mm^2}{m}$
 
 *********
+
+</section>
+
 
 
 {{5}}
