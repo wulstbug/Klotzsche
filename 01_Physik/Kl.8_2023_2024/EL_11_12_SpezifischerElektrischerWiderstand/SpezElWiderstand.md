@@ -142,13 +142,13 @@ Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mi
 *****************
 <H3> Experimentieraufgabe </H3>
 
-Bestimme den elektrischen Widerstand R und den spezifischen elektrischen Widerstand von einem __Konstantan__-Draht und einem __Kupfer__-Draht
+Bestimme den elektrischen Widerstand R und den spezifischen elektrischen Widerstand von einem __Eisen__-Draht und einem __Konstantan__-Draht
 
 Ergänze dazu die Messwerte:
 
 <section class="newspaper">
 
-| Werte   | Kupfer(Cu) | Eisen   | Konstantan   |
+| Werte   | Kupfer(Cu) | Eisen(Fe)   | Konstantan   |
 | :--------- | :--------- | :--------- | :--------- |
 | Länge l [m]   | <script> let l = document.getElementById("l").value; l </script> |  <script> let l = document.getElementById("l").value; l </script>    |  <script> let l = document.getElementById("l").value; l </script>    |
 | Querschnittsfläche A [mm²]    | <script> let A = document.getElementById("A").value; A </script> |   <script> let A = document.getElementById("A").value; A </script>   |   <script> let A = document.getElementById("A").value; A </script>   |
