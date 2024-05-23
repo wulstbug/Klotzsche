@@ -146,6 +146,8 @@ Bestimme den elektrischen Widerstand R und den spezifischen elektrischen Widerst
 
 Ergänze dazu die Messwerte:
 
+<section class="newspaper">
+
 | Werte   | Kupfer(Cu) | Eisen   | Konstantan   |
 | :--------- | :--------- | :--------- | :--------- |
 | Länge l [m]   | <script> let l = document.getElementById("l").value; l </script> |  <script> let l = document.getElementById("l").value; l </script>    |  <script> let l = document.getElementById("l").value; l </script>    |
@@ -156,6 +158,10 @@ Ergänze dazu die Messwerte:
 | Spez. elktr. Widerstand $\rho$ [$\Omega \cdot \frac{mm^2}{m}$] | <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script>  | |
 
 *****************
+
+
+
+</section>
 
 ## Video
 
