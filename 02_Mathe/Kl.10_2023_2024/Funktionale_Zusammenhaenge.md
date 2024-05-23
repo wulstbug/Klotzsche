@@ -421,10 +421,10 @@ var x = setInterval(function() {
 1. Entscheide für folgende Funktionen ob es eine Verknüpfung oder eine Verkettung ist. Notiere jeweils die zugehörigen Funktionen u(x) und v(x).
 | Funktion  | Verknüfung/Verkettung | $u(x), v(x)$   |
 | :--------- | :--------- | :--------- |
-|a. $f(x) = \sqrt{\dfrac{1}{x}}$  |{1}{<span style="color:orange">Verkettung</span>}         |{2}{<span style="color:orange">$u(x)=\sqrt{x},\,v(x)=\dfrac{1}{x}$</span>}   |
-|b. $f(x) = 3x^2 +2x$             |{3}{<span style="color:orange">Verknüpfung (u+v)</span>}  |{4}{<span style="color:orange">$u(x)=3x^2,\,v(x)=2x$</span>}          |
+|a) $f(x) = \sqrt{\dfrac{1}{x}}$  |{1}{<span style="color:orange">Verkettung</span>}         |{2}{<span style="color:orange">$u(x)=\sqrt{x},\,v(x)=\dfrac{1}{x}$</span>}   |
+|b) $f(x) = 3x^2 +2x$             |{3}{<span style="color:orange">Verknüpfung (u+v)</span>}  |{4}{<span style="color:orange">$u(x)=3x^2,\,v(x)=2x$</span>}          |
 |c. $f(x) = e^{\sin(x)}$          |{5}{<span style="color:orange">Verkettung</span>}         |{6}{<span style="color:orange">$u(x)=e^x,\,v(x)=\sin(x)$</span>}      |
-|d. $f(x) = \dfrac{1}{(-4x+2)^2}$ |{7}{<span style="color:orange">Verkettung </span>} |{8}{<span style="color:orange">$u(x)=\dfrac{1}{x},\,v(x)=(-4x+2)^2$ <br> oder <br> $u(x)=\dfrac{1}{x^2},\,v(x)=-4x+2$</span>}     |
+|d) $f(x) = \dfrac{1}{(-4x+2)^2}$ |{7}{<span style="color:orange">Verkettung </span>} |{8}{<span style="color:orange">$u(x)=\dfrac{1}{x},\,v(x)=(-4x+2)^2$ <br> oder <br> $u(x)=\dfrac{1}{x^2},\,v(x)=-4x+2$</span>}     |
 
 2. Es seien: $g(x) = x+1$ $\hspace{0.5cm}$ $h(x)=x^2$ $\hspace{0.5cm}$ $k(x)=\dfrac{1}{x}$ $\hspace{0.5cm}$ $l(x)=\sqrt{x}$ $\hspace{0.5cm}$ $s(x)=\sin(x)$. <br> Drücke die Funktion f durch eine geeignete Auswahl von $g,h,k,l,s$ aus.
 | f  | Ausdruck |
