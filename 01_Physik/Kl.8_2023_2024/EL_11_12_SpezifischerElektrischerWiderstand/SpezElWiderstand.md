@@ -157,13 +157,13 @@ Ergänze dazu die Messwerte:
 | Widerstand R [$\Omega$] | <script> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let R=U/I; R </script> |  | |
 | Spez. elktr. Widerstand $\rho$ [$\Omega \cdot \frac{mm^2}{m}$] | <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script>  | |
 
-*****************
-
 <p class="cb"> Aufbau </p>
 
-![Schaltbild](https://diversewolken.ddns.net/nextcloud/index.php/s/6yCRRMAJP2rY3YP/download)<!--style -->
+![Schaltbild](https://diversewolken.ddns.net/nextcloud/index.php/s/6yCRRMAJP2rY3YP/download)<!--style="width:20%" -->
 
 </section>
+
+*****************
 
 ## Video
 
