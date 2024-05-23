@@ -89,7 +89,7 @@ Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mi
 
 ---
 
-<H4>Eigenschaften des Drahtes:</H4>
+<H4>Eigenschaften des Drahtes</H4>
 
 {{1}}
 *********
