@@ -33,6 +33,10 @@ window.LIA.settings.font_size = 2
 
 -->
 
+# Der spezifische elektrische Widerstand
+
+![Hochspannungsleitungen](https://diversewolken.ddns.net/nextcloud/index.php/s/AAxTtfnBE7BZZyy/download)
+
 ## Einführung in den spezifischen Widerstand
 
 
