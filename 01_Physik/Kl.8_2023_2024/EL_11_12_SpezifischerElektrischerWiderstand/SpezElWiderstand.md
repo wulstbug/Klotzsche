@@ -143,6 +143,8 @@ __Berechnung des elektrischen Widerstands R__
 
 </section>
 
+---
+
 <H4> Experimentieraufgabe </H4>
 
 {{5}}
