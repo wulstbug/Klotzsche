@@ -85,7 +85,7 @@ Unterscheidung zwischen guten Leitern (niedriges $\rho$) und schlechten Leitern 
 
 ## Demonstrationsexperiment
 
-Wir bestimmen den spezifischen elektrischen Widerstand von einem Eisendraht mit dem Cassy-Messgerät.
+Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mit dem Cassy-Messgerät.
 
 ---
 
@@ -146,7 +146,7 @@ Bestimme den elektrischen Widerstand R und den spezifischen elektrischen Widerst
 
 Ergänze dazu die Messwerte:
 
-| Werte   | Eisen | Konstantan   | Kupfer   |
+| Werte   | Kupfer(Cu) | Eisen   | Konstantan   |
 | :--------- | :--------- | :--------- | :--------- |
 | Länge l [m]   | <script> let l = document.getElementById("l").value; l </script> |  <script> let l = document.getElementById("l").value; l </script>    |  <script> let l = document.getElementById("l").value; l </script>    |
 | Querschnittsfläche A [mm²]    | <script> let A = document.getElementById("A").value; A </script> |   <script> let A = document.getElementById("A").value; A </script>   |   <script> let A = document.getElementById("A").value; A </script>   |
