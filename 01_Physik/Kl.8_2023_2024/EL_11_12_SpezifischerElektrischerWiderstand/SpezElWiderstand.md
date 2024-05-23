@@ -132,10 +132,10 @@ __Berechnung des elektrischen Widerstands R__
 > $R = \dfrac{U}{I} $ = <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let R=U/I; R </script> $\Omega$
 *********
 
+{3}{__Berechnung des spezifischen elektrischen Widerstands $\rho$__}
+
 {{4}}
 *********
-
-__Berechnung des spezifischen elektrischen Widerstands $\rho$__
 
 > $\rho = R \cdot \dfrac{A}{l} = $ <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script> $\Omega \dfrac{mm^2}{m}$
 
@@ -143,11 +143,10 @@ __Berechnung des spezifischen elektrischen Widerstands $\rho$__
 
 </section>
 
-
+<H4> Experimentieraufgabe </H4>
 
 {{5}}
 *****************
-<H3> Experimentieraufgabe </H3>
 
 Bestimme den elektrischen Widerstand R und den spezifischen elektrischen Widerstand von einem __Eisen__-Draht und einem __Konstantan__-Draht
 
