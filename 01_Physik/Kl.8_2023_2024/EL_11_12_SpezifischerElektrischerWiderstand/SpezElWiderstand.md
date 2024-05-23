@@ -144,9 +144,11 @@ Wir bestimmen den spezifischen elektrischen Widerstand von einem Kupfer-Draht mi
 
 Bestimme den elektrischen Widerstand R und den spezifischen elektrischen Widerstand von einem __Eisen__-Draht und einem __Konstantan__-Draht
 
-Ergänze dazu die Messwerte:
+
 
 <section class="newspaper">
+
+__Ergänze dazu die Messwerte:__
 
 | Werte   | Kupfer(Cu) | Eisen(Fe)   | Konstantan   |
 | :--------- | :--------- | :--------- | :--------- |
@@ -157,7 +159,7 @@ Ergänze dazu die Messwerte:
 | Widerstand R [$\Omega$] | <script> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let R=U/I; R </script> |  | |
 | spez. el. Widerstand <br> $\rho$ [$\Omega \cdot \frac{mm^2}{m}$] | <script input="button"> let U = document.getElementById("U").value; let I = document.getElementById("I").value; let l = document.getElementById("l").value; let A = document.getElementById("A").value; U/I*A/l  </script>  | | |
 
-<p class="cb"> Aufbau </p>
+<p class="cb"> __Aufbau__ </p>
 
 ![Schaltbild](https://diversewolken.ddns.net/nextcloud/index.php/s/6yCRRMAJP2rY3YP/download)
 
