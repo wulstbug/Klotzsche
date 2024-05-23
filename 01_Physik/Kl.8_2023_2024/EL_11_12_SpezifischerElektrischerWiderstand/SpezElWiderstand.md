@@ -159,7 +159,7 @@ Ergänze dazu die Messwerte:
 
 <p class="cb"> Aufbau </p>
 
-![Schaltbild](https://diversewolken.ddns.net/nextcloud/index.php/s/6yCRRMAJP2rY3YP/download)<!--style="width:20%" -->
+![Schaltbild](https://diversewolken.ddns.net/nextcloud/index.php/s/6yCRRMAJP2rY3YP/download)
 
 </section>
 
