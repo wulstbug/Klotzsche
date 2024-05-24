@@ -266,7 +266,7 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 
 - 15min vergleichen der Lösungen (mit Partner), Probleme diskutieren
 
-- Klassengespräch, Fragen, einzelne Aufgaben
+- 20min Klassengespräch, Fragen, einzelne Aufgaben
 
 ## Aufgaben zum Thema Licht als Welle
 
