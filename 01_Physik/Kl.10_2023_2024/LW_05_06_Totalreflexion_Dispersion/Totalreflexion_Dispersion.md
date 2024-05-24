@@ -268,8 +268,6 @@ Erkläre den Unterschied zwischen longitudinalen und transversalen Wellen.
     
     Notiere die Art, zu welcher das Licht gehört das Licht und warum?
 
-    {1}{<span style="color:orange">Licht ist eine Transversalwelle. Hier schwingt das elektromagnetische und das elektrische Feld senkrecht zur Ausbreitungsrichtung.</span>}
-
 __2. Welleneigenschaften__
 
 Licht breitet sich in Form von Wellen aus. 
@@ -280,41 +278,26 @@ Licht breitet sich in Form von Wellen aus.
 
     b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
 
-    {3}{<span style="color:orange">$c = \lambda \cdot f$</span>}
-
 __3. Lichtgeschwindigkeit__
 
 Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \text{m/s}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm (1 nm = $10^{-9} \, \text{m}$).
-
-    {4}{<span style="color:orange">$f=\dfrac{c}{\lambda}=\dfrac{3\cdot10^8 \frac{m}{s}}{500\cdot10^-9\,m}$</span>}
 
 __4. Brechung und Brechungsindex__
 
 Erkläre das Phänomen der Lichtbrechung. Wie verändert sich die Richtung eines Lichtstrahls, wenn er von Luft in Wasser übergeht? Geh auf die Lichtgeschwindigkeit in beiden Medien ein. Nenne das Brechungsgesetz.
 
-    {5}{<span style="color:orange">Lichtbrechung: Der Lichtstrahl verändert beim Übergang von einem Medium in ein anderes Medium seine Ausbreitungsrichtung. Beim Übergang von Luft zu Wasser erhöht sich die optische Dichte. Im Wasser ist die Lichtgeschwindigkeit kleiner als in Luft ($c_{Luft}>c_{Wasser}$).</span>}
-
-    {6}{<span style="color:orange">$\dfrac{sin(\alpha)}{\sin(\beta)} = \dfrac{c_1}{c_2}$</span>}
-
 __5. Beugung__
 
 Beschreibe, was passiert, wenn Licht auf einen sehr kleinen Spalt trifft, dessen Breite vergleichbar mit der Wellenlänge des Lichtes ist. Was versteht man unter Beugung?
-
-    {7}{<span style="color:orange">Die Lichtwelle breitet sich hinter dem Spalt als Kugelwelle aus. Diesen Effekt bezeichnet man als Beugung.</span>}
 
 __6. Interferenz__
 
 Zwei kohärente Lichtquellen erzeugen auf einem Schirm ein Interferenzmuster. Zeichne ein mögliches Interferenzmuster. Erkläre die Begriffe konstruktive und destruktive Interferenz.
 
-    {8}{<span style="color:orange">Interferenzmuster mit Maxima und Minima zeichnen. (siehe Hefter).</span>}
-
-    {9}{<span style="color:orange">Konstruktive Interferenz ist die gegenseitige Verstärkung zweier Lichtwellen. Dabei sind die Maxima jeweils übereinander. Bei der destruktiven Interferenz löschen sich Minima und Maxima der beiden Wellen gegenseitig aus.</span>}
 
 __7. Doppelspaltexperiment__
 
 Beschreibe das Doppelspaltexperiment. Beschreibe, wie man mit diesem Experiment die Wellennatur des Lichts begründen kann?
-
-    {10}{<span style="color:orange">Hinter einem Doppelspalt erkennt man ein Interferenzmuster auf einem Schirm mit Minima und Maxima. Dabei treten Maxima auch an Stellen auf, welche nach dem Lichtstrahl-Modell kein Licht erreichen kann. Das Interferenzmuster kann mit der Welleneigenschaft und den Effekten von __Beugung__ und __Interferenz__ erklärt werden.</span>}
 
 __8. Berechnungen an einer DVD__
 
@@ -338,17 +321,3 @@ Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert
             e = 10 cm
     </p>
 </details>
-
-{{11}}
-**********
-<span style="color:orange">
-Lsg.:
-
--   $\tan(\alpha) = \dfrac{a}{e}$
-
--   $\alpha = \tan^{-1}(\dfrac{a}{e}) = 37,23^\circ$
-
-- $\sin(\alpha) = \dfrac{\lambda}{d}$ -> $d = \dfrac{\lambda}{\sin(\alpha)}=7,43\cdot10^-7\,m=0,740\,\mu m$
-
-</span>
-*********
