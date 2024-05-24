@@ -264,7 +264,7 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 
 - 20min Selbstständiges bearbeiten der Aufgaben (Stillarbeit)
 
-- 15min vergleichen der Lösungen (mit Partner), Probleme diskutieren
+- 15min Vergleichen der Lösungen (mit Partner), Probleme diskutieren
 
 - 20min Klassengespräch, Fragen, einzelne Aufgaben
 
