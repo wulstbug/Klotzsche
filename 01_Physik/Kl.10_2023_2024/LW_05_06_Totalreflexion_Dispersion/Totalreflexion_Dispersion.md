@@ -297,7 +297,7 @@ __7. Doppelspaltexperiment__
 
 Beschreibe das Doppelspaltexperiment. Beschreibe, wie man mit diesem Experiment die Wellennatur des Lichts begründen kann?
 
-__8. Berechnungen an einer DVD__
+__8. Berechnungen des Spurabstands einer DVD__
 
 Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert. Diese Gitter-Struktur der DVD wird mit einem blauen Laser der Wellenlänge $\lambda=450\,nm$ beleuchtet. Auf einem Schirm, welche $10\,cm$ von der DVD entfernt ist, wird das erste Beugungsmaximum im Abstand von $7,6\,cm$ der direkten Reflexion (Maximum 0.ter Ordnung) beobachtet. Berechne den Spurabstand (d.h. die Gitterkonstante) der DVD in der Einheit $\mu m$.
 
@@ -307,10 +307,10 @@ Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert
 <p>
 geg.:
 
-  - $\lambda = 450\,nm$
+$\lambda = 450\,nm$
 
-  - a = 7,6 cm
+a = 7,6 cm
 
-  - e = 10 cm
+e = 10 cm
 </p>
 </details>
