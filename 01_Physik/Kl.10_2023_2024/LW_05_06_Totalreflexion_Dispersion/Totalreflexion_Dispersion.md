@@ -260,7 +260,7 @@ Auf einer handelsüblichen CD-Rom sind die gespeicherten Daten in eine periodisc
 
 
 
-# Aufgaben zum Thema Licht als Welle
+## Aufgaben zum Thema Licht als Welle
 
 __1. Grundlagen der Wellen__
 
