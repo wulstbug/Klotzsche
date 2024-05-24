@@ -303,5 +303,4 @@ Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert
 
 - <details> <summary>Hinweis 1</summary> <p>![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/cXQ3BBZRACmen8n/download)</p></details> 
 
-- <details> <summary>Hinweis 2</summary> 
-<p> geg.: $\lambda = 450\,nm$, a = 7,6 cm, e = 10 cm </p></details>
+- <details> <summary>Hinweis 2</summary> <p>geg.: $\lambda = 450\,nm$, a = 7,6 cm, e = 10 cm</p></details> 
