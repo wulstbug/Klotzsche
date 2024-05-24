@@ -271,12 +271,10 @@ Erkläre den Unterschied zwischen longitudinalen und transversalen Wellen.
 __2. Welleneigenschaften__
 
 Licht breitet sich in Form von Wellen aus. 
-    
-    a) Nenne die grundlegenden Eigenschaften (physikalische Größen) von Wellen.
 
-    {2}{<span style="color:orange">Amplitude, Wellenlänge, Frequenz, Geschwindigkeit</span>}
+- a) Nenne die grundlegenden Eigenschaften (physikalische Größen) von Wellen.
 
-    b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
+- b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
 
 __3. Lichtgeschwindigkeit__
 
