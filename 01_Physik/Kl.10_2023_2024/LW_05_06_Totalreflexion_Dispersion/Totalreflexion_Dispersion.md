@@ -299,17 +299,12 @@ Beschreibe das Doppelspaltexperiment. Beschreibe, wie man mit diesem Experiment 
 
 __8. Berechnungen an einer DVD__
 
-<section class="newspaper">
-
 Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert. Diese Gitter-Struktur der DVD wird mit einem blauen Laser der Wellenlänge $\lambda=450\,nm$ beleuchtet. Auf einem Schirm, welche $10\,cm$ von der DVD entfernt ist, wird das erste Beugungsmaximum im Abstand von $7,6\,cm$ der direkten Reflexion (Maximum 0.ter Ordnung) beobachtet. Berechne den Spurabstand (d.h. die Gitterkonstante) der DVD in der Einheit $\mu m$.
 
 - <details> <summary>Hinweis 1</summary> <p>![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/cXQ3BBZRACmen8n/download)</p></details> 
 
-</section>
-
-<details> 
-    <summary>Hinweis 2 </summary> 
-    <p>
+<details> <summary>Hinweis 2 </summary> 
+<p>
         geg.:
 
             $\lambda = 450\,nm$
@@ -317,5 +312,5 @@ Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert
             a = 7,6 cm
 
             e = 10 cm
-    </p>
+</p>
 </details>
