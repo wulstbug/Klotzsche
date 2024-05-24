@@ -314,3 +314,82 @@ Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert
 - <details> <summary>Hinweis 2</summary> <p>geg.: $\lambda = 450\,nm$, a = 7,6 cm, e = 10 cm</p></details> 
 
 ## Lösungen zum Thema Licht als Welle
+
+
+### Lösungen
+
+__1. Grundlagen der Wellen__
+
+Erkläre den Unterschied zwischen longitudinalen und transversalen Wellen. 
+    
+    Notiere die Art, zu welcher das Licht gehört das Licht und warum?
+
+    {1}{<span style="color:orange">Licht ist eine Transversalwelle. Hier schwingt das elektromagnetische und das elektrische Feld senkrecht zur Ausbreitungsrichtung.</span>}
+
+__2. Welleneigenschaften__
+
+Licht breitet sich in Form von Wellen aus. 
+    
+    a) Nenne die grundlegenden Eigenschaften (physikalische Größen) von Wellen.
+
+    {2}{<span style="color:orange">Amplitude, Wellenlänge $\lambda$, Frequenz $f$, Ausbreitungsgeschwindigkeit $c$ </span>}
+
+    b) Notiere eine Gleichung welche den Zusammenhang zwischen diesen Größen darstellt.
+
+    {3}{<span style="color:orange">$c = \lambda \cdot f$</span>}
+
+__3. Lichtgeschwindigkeit__
+
+Die Lichtgeschwindigkeit im Vakuum beträgt etwa $3 \cdot 10^8 \, \text{m/s}$. Berechne die Frequenz von grünem Licht mit einer Wellenlänge von 500 nm (1 nm = $10^{-9} \, \text{m}$).
+
+    {4}{<span style="color:orange">$f=\dfrac{c}{\lambda}=\dfrac{3\cdot10^8 \frac{m}{s}}{500\cdot10^-9\,m}=6\cdot10^{14} Hz$</span>}
+
+__4. Brechung und Brechungsindex__
+
+Erkläre das Phänomen der Lichtbrechung. Wie verändert sich die Richtung eines Lichtstrahls, wenn er von Luft in Wasser übergeht? Geh auf die Lichtgeschwindigkeit in beiden Medien ein. Nenne das Brechungsgesetz.
+
+    {5}{<span style="color:orange">Lichtbrechung: Der Lichtstrahl verändert beim Übergang von einem Medium in ein anderes Medium seine Ausbreitungsrichtung. Beim Übergang von Luft zu Wasser erhöht sich die optische Dichte. Im Wasser ist die Lichtgeschwindigkeit kleiner als in Luft ($c_{Luft}>c_{Wasser}$).</span>}
+
+    {6}{<span style="color:orange">$\dfrac{sin(\alpha)}{\sin(\beta)} = \dfrac{c_1}{c_2}$</span>}
+
+__5. Beugung__
+
+Beschreibe, was passiert, wenn Licht auf einen sehr kleinen Spalt trifft, dessen Breite vergleichbar mit der Wellenlänge des Lichtes ist. Was versteht man unter Beugung?
+
+    {7}{<span style="color:orange">Die Lichtwelle breitet sich hinter dem Spalt als Kugelwelle aus. Diesen Effekt bezeichnet man als Beugung.</span>}
+
+__6. Interferenz__
+
+Zwei kohärente Lichtquellen erzeugen auf einem Schirm ein Interferenzmuster. Zeichne ein mögliches Interferenzmuster. Erkläre die Begriffe konstruktive und destruktive Interferenz.
+
+    {8}{<span style="color:orange">Interferenzmuster mit Maxima und Minima zeichnen. (siehe Hefter).</span>}
+
+    {9}{<span style="color:orange">Konstruktive Interferenz ist die gegenseitige Verstärkung zweier Lichtwellen. Dabei sind die Maxima jeweils übereinander. Bei der destruktiven Interferenz löschen sich Minima und Maxima der beiden Wellen gegenseitig aus.</span>}
+
+__7. Doppelspaltexperiment__
+
+Beschreibe das Doppelspaltexperiment. Beschreibe, wie man mit diesem Experiment die Wellennatur des Lichts begründen kann?
+
+    {10}{<span style="color:orange">Hinter einem Doppelspalt erkennt man ein Interferenzmuster auf einem Schirm mit Minima und Maxima. Dabei treten Maxima auch an Stellen auf, welche nach dem Lichtstrahl-Modell kein Licht erreichen kann. Das Interferenzmuster kann mit der Welleneigenschaft und den Effekten von __Beugung__ und __Interferenz__ erklärt werden.</span>}
+
+__8. Berechnungen an einer DVD__
+
+Auf einer DVD sind die Daten in sehr kleinen periodischen Strukturen gespeichert. Diese Gitter-Struktur der DVD wird mit einem blauen Laser der Wellenlänge $\lambda=450\,nm$ beleuchtet. Auf einem Schirm, welche $10\,cm$ von der DVD entfernt ist, wird das erste Beugungsmaximum im Abstand von $7,6\,cm$ der direkten Reflexion (Maximum 0.ter Ordnung) beobachtet. Berechne den Spurabstand (d.h. die Gitterkonstante) der DVD in der Einheit $\mu m$.
+
+- <details> <summary>Hinweis 1</summary> <p>![Doppelspalt3](https://diversewolken.ddns.net/nextcloud/index.php/s/cXQ3BBZRACmen8n/download)</p></details> 
+
+- <details> <summary>Hinweis 2</summary> <p>geg.: $\lambda = 450\,nm$, a = 7,6 cm, e = 10 cm</p></details> 
+
+{{11}}
+**********
+<span style="color:orange">
+Lsg.:
+
+-   $\tan(\alpha) = \dfrac{a}{e}$
+
+-   $\alpha = \tan^{-1}(\dfrac{a}{e}) = 37,23^\circ$
+
+- $\sin(\alpha) = \dfrac{\lambda}{d}$ -> $d = \dfrac{\lambda}{\sin(\alpha)}=7,43\cdot10^-7\,m=0,740\,\mu m$
+
+</span>
+*********
