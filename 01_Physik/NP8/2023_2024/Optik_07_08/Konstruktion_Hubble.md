@@ -72,3 +72,6 @@ window.LIA.settings.font_size = 2
 2.2. Konstruiere die Schattenentstehung an einer bewegten Sonne
 
 </section>
+
+# Astronomic Picture of the day
+
