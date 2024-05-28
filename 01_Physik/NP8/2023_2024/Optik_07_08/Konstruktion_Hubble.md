@@ -81,8 +81,10 @@ Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day (APOD).
 
 <H3> Aufgaben: </H3>
 
-1. Finde in der Datenbank das APOD deines Geburtstags (und belasse es in einem Tab geöffnet).
+1. Suche in der Datenbank das APOD eines Planeten dieses Sonnensystems (und belasse es in einem Tab geöffnet)
 
-2. Suche in der Datenbank das APOD eines Planeten dieses Sonnensystems
+2. Suche in der Datenbank das APOD eines Sternzeichens (und belasse es in einem Tab geöffnet)
 
-3. Suche in der Datenbank das APOD eines 
+3. Finde in der Datenbank das APOD deines Geburtstags (und belasse es in einem Tab geöffnet).
+
+4. 
