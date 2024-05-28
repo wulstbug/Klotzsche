@@ -77,4 +77,4 @@ window.LIA.settings.font_size = 2
 
 Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day.
 
-??[APOD](https://apod.nasa.gov/apod)
+??[APOD](https://apod.nasa.gov/apod/)
