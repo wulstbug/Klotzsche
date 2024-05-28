@@ -75,8 +75,12 @@ window.LIA.settings.font_size = 2
 
 # Astronomic Picture of the day
 
-Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day.
+Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day (APOD).
 
 -> https://apod.nasa.gov/apod/
 
-<H3> Finde in der </H3>
+<H3> Aufgaben: </H3>
+
+1. Finde in der Datenbank das APOD deines Geburtstags.
+
+2. Suche in der Datenbank das APOD eines 
