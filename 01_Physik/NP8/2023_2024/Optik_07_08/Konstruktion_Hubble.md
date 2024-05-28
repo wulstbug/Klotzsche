@@ -79,7 +79,7 @@ Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day (APOD).
 
 -> https://apod.nasa.gov/apod/
 
-<H3> Aufgaben: </H3>
+<H3> Aufgaben (__via ogy.de/golnik__): </H3>
 
 1. Suche in der Datenbank das APOD eines Planeten dieses Sonnensystems (und belasse es in einem Tab geöffnet)
 
@@ -87,4 +87,4 @@ Die NASA veröffentlicht jeden Tag ein Astronomic picture of the day (APOD).
 
 3. Finde in der Datenbank das APOD deines Geburtstags (und belasse es in einem Tab geöffnet).
 
-4. 
+4. Suche in der Datenbank ein APOD, dass dir persönlich und ästhetisch sehr gut gefällt.
