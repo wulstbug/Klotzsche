@@ -471,4 +471,5 @@ __Ergänze__
 
 {4}{Als Noten}
 
-{5}{<span style="color:blue"></span>}
+{5}{<span style="color:blue">C,</span>}{6}{D,D,E,G,D,F}
+
