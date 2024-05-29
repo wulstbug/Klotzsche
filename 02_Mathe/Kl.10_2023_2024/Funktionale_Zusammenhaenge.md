@@ -461,4 +461,6 @@ __Ergänze__
 
 ## Umsetzen in Musik
 
-<iframe frameborder="0" scrolling="no" src="https://mczak.com/code/piano/pianoframe/" style="border:0px solid #eee; overflow:hidden; width:412px; height:340px;" width="412"></iframe>
+<iframe frameborder="0" scrolling="no" src="https://mczak.com/code/piano/pianoframe/" style="border:0px solid #eee; overflow:hidden; width:800px; height:600px;" width="800"></iframe>
+
+{1}{}
