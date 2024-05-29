@@ -467,4 +467,8 @@ __Ergänze__
 
 {2}{Modulo 7}
 
-{3}{<span style="color:orange"></span>}
+{3}{<span style="color:orange">0,1,1,2,3,5,1,4,5</span>}
+
+{4}{Als Noten}
+
+{5}{<span style="color:blue"></span>}
