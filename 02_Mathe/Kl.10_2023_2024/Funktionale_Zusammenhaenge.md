@@ -463,4 +463,8 @@ __Ergänze__
 
 <iframe frameborder="0" scrolling="no" src="https://mczak.com/code/piano/pianoframe/" style="border:0px solid #eee; overflow:hidden; width:800px; height:600px;" width="800"></iframe>
 
-{1}{}
+{1}{0,1,1,2,3,5,8,11,19}
+
+{2}{Modulo 7}
+
+{3}{<span style="color:orange"></span>}
