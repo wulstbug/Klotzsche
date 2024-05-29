@@ -442,3 +442,16 @@ var x = setInterval(function() {
 ## Partnerübung: Verketten und Verknüpfen
 
 <iframe src="https://www.geogebra.org/classroom/ecvbf97t?embed" width="1000" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## ..
+
+__Ergänze__
+
+0, 2, 4, 6, 8, ...
+
+{1}{1, 3, 9, 27, ...}
+
+{2}{}
+
+
+## Zahlenfolgen
