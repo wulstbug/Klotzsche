@@ -35,7 +35,7 @@ window.LIA.settings.font_size = 2
 
 # Hinweise für die Abschlussfahrt Gardasee vom 3.6.-7.6. 2024
 
-• Treff: 5.30 Uhr Gymnasium Klotzsche
+[[ ]] Treff: 5.30 Uhr Gymnasium Klotzsche
 
 • Gepäck: möglichst Reisetasche
 
