@@ -459,6 +459,10 @@ __Ergänze__
 
 !?[Fibonacci](https://www.youtube.com/watch?v=Nu-lW-Ifyec)
 
+## Definition Zahlenfolgen
+
+
+
 ## Umsetzen in Musik
 
 <iframe frameborder="0" scrolling="no" src="https://mczak.com/code/piano/pianoframe/" style="border:0px solid #eee; overflow:hidden; width:800px; height:600px;" width="800"></iframe>
