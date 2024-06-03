@@ -28,9 +28,11 @@ __Bewegung elektrischer Ladungen in e/m Feldern__
 - Induktion
 ***********
 
-# Klausuren
+# Notengebung
 
-Ablauf:
+__Bewertung erfolgt nach dem 40% Modell__
+
+Anzahl der Noten: 2xKlausur, mind. 2x sonstige
 
 Termine:
 
