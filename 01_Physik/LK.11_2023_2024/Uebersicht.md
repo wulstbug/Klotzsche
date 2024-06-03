@@ -32,8 +32,18 @@ __Bewegung elektrischer Ladungen in e/m Feldern__
 
 __Bewertung erfolgt nach dem 40% Modell__
 
-Anzahl der Noten: 2xKlausur, mind. 2x sonstige
+{1}{Anzahl der Noten: 2xKlausur, mind. 2x sonstige}
 
+{{2}}
+**********
 Termine:
 
+**********
 
+{{3}}
+**********
+Hinweise:
+
+- Freistellungen(z.B. Fahrschulprüfungen) sind beim Tutor zu beantragen
+
+- Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein
