@@ -70,6 +70,6 @@ __Mechanische Energie__ beschreibt Energie die in mechanischen Vorgängen auftri
 
 {{2}}
 ********
-__Aufgabe:__ _Ergänze hier eine Tabelle mit den mechanischen Energien, deren Definition (in Satzform), eine Berechnungsformel mit sämtlichen zur Berechnung notwendiger Größen und den zugehörigen Standardeinheiten._
+__Aufgabe:__ _Ergänze hier eine Übersicht (z.B. Tabelle, Stichpunkte..) mit den mechanischen Energien, deren Definition (in Satzform), eine Berechnungsformel mit sämtlichen zur Berechnung notwendiger Größen und den zugehörigen Standardeinheiten._
 ********
 
