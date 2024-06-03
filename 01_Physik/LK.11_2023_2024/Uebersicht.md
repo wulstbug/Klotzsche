@@ -1,6 +1,6 @@
 # Übersicht
 
 - Energieformen und Energieerhaltung
-- Kräfte und Energieerhaltung1
+- Kräfte und Energieerhaltung
 
 ## Energieformen und Energieerhaltung
