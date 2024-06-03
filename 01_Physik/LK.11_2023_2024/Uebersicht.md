@@ -68,4 +68,8 @@ __Mechanische Energie__ beschreibt Energie die in mechanischen Vorgängen auftri
 - Spannenergie $E_{sp}$
 ********
 
+{{2}}
+********
+_Ergänze hier eine Tabelle mit den mechanischen Energien, deren Definition (in Satzform), eine Berechnungsformel mit sämtlichen zur Berechnung notwendiger Größen und den zugehörigen Standardeinheiten._
+********
 
