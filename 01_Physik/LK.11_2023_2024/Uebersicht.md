@@ -65,5 +65,5 @@ __Mechanische Energie__ beschreibt Energie die in Bewegungsvorgängen gespeicher
 
 - potentielle Energie $E_{pot}$
 
-- Spannenergie $E_$
+- Spannenergie $E_sp$
 ********
