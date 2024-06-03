@@ -28,3 +28,10 @@ __Bewegung elektrischer Ladungen in e/m Feldern__
 - Induktion
 ***********
 
+# Klausuren
+
+Ablauf:
+
+Termine:
+
+
