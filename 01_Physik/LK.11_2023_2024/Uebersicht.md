@@ -55,7 +55,7 @@ Hinweise:
 
 # Erhaltungssätze und ihre Anwendung
 
-## Arten von Mechanischer Energie
+## Arten Mechanischer Energie
 
 __Mechanische Energie__ beschreibt Energie die in mechanischen Vorgängen auftritt/gespeichert ist
 
@@ -72,4 +72,13 @@ __Mechanische Energie__ beschreibt Energie die in mechanischen Vorgängen auftri
 ********
 __Aufgabe:__ _Ergänze hier eine Übersicht (z.B. Tabelle, Stichpunkte..) mit den mechanischen Energien, deren Definition (in Satzform), eine Berechnungsformel mit sämtlichen zur Berechnung notwendiger Größen und den zugehörigen Standardeinheiten._
 ********
+
+## Kinetische Energie
+
+Definition: Die kinetische Energie beschreibt die in einem Körper gespeicherte Bewegungsenergie. Sie ist abhängig von der Bewegungsgeschwindigkeit $v$ in $\big[ \dfrac{m}{s} \big$ und dessen Masse $m$ in $[ kg ]$
+
+Formel: 
+
+> $ E_{kin} = \dfrac{1}{2} \cdot m \cdot v^2 $
+
 
