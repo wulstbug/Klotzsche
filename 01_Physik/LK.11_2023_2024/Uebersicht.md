@@ -7,13 +7,18 @@ __Allgemeine Grundsätze und Mechanik__
 - Kinematik und Dynamik
 - Modellbildung und Simulation
 
-  __Elektrisches und Magnetisches Feld__
+__Elektrisches und Magnetisches Feld__
+
 - Kräfte auf elektrische Ladungen im e/m Feld
 - Erzeugung / Entstehung e/m Felder
 - Anwengung e/m-Felder
 - Energien in e/m-Feldern
 
-  \__Bewegung elektrischer Ladungen in e/m Feldern_\_
+__Bewegung elektrischer Ladungen in e/m Feldern__
+
+- Bewegungsbahnen geladener Teilchen in e,m,e/m Feldern
+- Induktion
+
 
 ## Energieformen und Energieerhaltung
 
