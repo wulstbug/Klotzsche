@@ -65,7 +65,7 @@ __Mechanische Energie__ beschreibt Energie die in mechanischen Vorgängen auftri
 
 - potentielle Energie $E_{pot}$
 
-- Spannenergie $E_sp$
+- Spannenergie $E_{sp}$
 ********
 
 
