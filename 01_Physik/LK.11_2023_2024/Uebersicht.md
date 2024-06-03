@@ -32,7 +32,10 @@ __Bewegung elektrischer Ladungen in e/m Feldern__
 
 __Bewertung erfolgt nach dem 40% Modell__
 
-{1}{Anzahl der Noten: 2xKlausur, mind. 2x sonstige}
+{{1}}
+************
+Anzahl der Noten: 2xKlausur, mind. 2x sonstige
+************
 
 {{2}}
 **********
@@ -50,4 +53,17 @@ Hinweise:
 
 **********
 
+# Erhaltungssätze und ihre Anwendung
 
+## Arten von Mechanischer Energie
+
+__Mechanische Energie__ beschreibt Energie die in Bewegungsvorgängen gespeichert ist
+
+{{1}}
+********
+- kinetische Energie $E_{kin}$
+
+- potentielle Energie $E_{pot}$
+
+- Spannenergie $E_$
+********
