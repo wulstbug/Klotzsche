@@ -57,7 +57,7 @@ Hinweise:
 
 ## Arten von Mechanischer Energie
 
-__Mechanische Energie__ beschreibt Energie die in Bewegungsvorgängen gespeichert ist
+__Mechanische Energie__ beschreibt Energie die in mechanischen Vorgängen auftritt/gespeichert ist
 
 {{1}}
 ********
@@ -67,3 +67,5 @@ __Mechanische Energie__ beschreibt Energie die in Bewegungsvorgängen gespeicher
 
 - Spannenergie $E_sp$
 ********
+
+
