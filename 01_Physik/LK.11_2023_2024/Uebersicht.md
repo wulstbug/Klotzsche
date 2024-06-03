@@ -28,6 +28,3 @@ __Bewegung elektrischer Ladungen in e/m Feldern__
 - Induktion
 ***********
 
-## Energieformen und Energieerhaltung
-
-## Kräfte und Energieerhaltung
