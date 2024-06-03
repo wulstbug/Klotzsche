@@ -47,6 +47,7 @@ Hinweise:
 - Freistellungen(z.B. Fahrschulprüfungen) bitte beim Tutor zu beantragen
 
 - Krankmeldungen müssen spätestens nach 3 Werktagen schriftlich in der Schule sein
+
 **********
 
 
