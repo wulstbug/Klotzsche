@@ -33,19 +33,27 @@ window.LIA.settings.font_size = 2
 
 \-->
 
-# Packliste
+# Hinweise für die Abschlussfahrt Gardasee vom 3.6.-7.6. 2024
 
-- [ ] Mittag kochen für Fahrt
-- [ ] Brötchen für morgens
-- [ ] Kaffeebecher
-- [ ] Würfel
-- [ ] Sonnenbrille
-- [ ] Sonnencreme
-- [ ] Badehose
-- [ ] Handtuch
-- [ ] Bücher
-- [ ] Tablet
-- [ ] Ladegerät
-- [ ] Headset
-- [ ] Ausdrucken
-- [ ] Regenjacke
+- [ ] Treff: 5.30 Uhr Gymnasium Klotzsche
+- [ ] Gepäck: möglichst Reisetasche
+- [ ] Abfahrt: 6.00 Uhr
+- [ ] Bus: bequeme Kleidung, evtl. Kissen, evtl. Medikamente gegen Reiseunverträglichkeit, Reiseproviant, Personalausweis, Kopfhörer,
+- [ ] Bettwäsche wird gestellt
+- [ ] Einpacken: Impfausweis, Versicherungskarte, Handtücher, Badesachen, Ladekabel, bequeme Kleidung, Kopfbedeckung, Sonnenschutz, Mückenschutz, Badeschuhe, Hygieneartikel, private Medikamente, Regenbekleidung, Trinkflasche-
+- [ ] Abfahrt Sirmione: spätestens 9.00 Uhr
+- [ ] Ankunft Gymnasium Klotzsche: ca. 19.00-20.00 Uhr (entsprechend Verkehrslage)
+
+Mittag kochen für Fahrt
+Brötchen für morgens
+Kaffeebecher
+Würfel
+Sonnenbrille
+Sonnencreme
+Badehose
+Handtuch
+Bücher
+Tablet
+Ladegerät
+Headset
+Ausdrucken
