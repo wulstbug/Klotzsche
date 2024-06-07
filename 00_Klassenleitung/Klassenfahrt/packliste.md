@@ -33,6 +33,15 @@ window.LIA.settings.font_size = 2
 
 -->
 
+# Fotos aus Geschichte der 10b und Abschlussfahrt
+
+Klicke hier um Fotos hochzuladen: https://diversewolken.ddns.net/nextcloud/index.php/s/wCGZXdfn6G2ftDD
+
+[qr-code](https://diversewolken.ddns.net/nextcloud/index.php/s/wCGZXdfn6G2ftDD)
+
+
+
+
 # Hinweise für die Abschlussfahrt Gardasee vom 3.6.-7.6. 2024
 
 - [ ] Treff: 5.30 Uhr Gymnasium Klotzsche
